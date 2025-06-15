@@ -1,0 +1,79 @@
+/* General styling */
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    background-color: #f4f4f9;
+    color: #333;
+    font-family: "Arial", sans-serif;
+}
+
+/* Navbar styling */
+.navbar {
+    background-color: #1a1a2e !important;
+}
+
+.navbar-brand {
+    color: #e94560 !important;
+}
+
+.navbar-nav .nav-link {
+    color: #eaeaea !important;
+}
+
+.navbar-nav .nav-link:hover {
+    color: #e94560 !important;
+}
+
+/* Footer styling */
+footer {
+    background-color: #1a1a2e;
+    color: #eaeaea;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
+
+/* Button styling */
+.btn-primary {
+    background-color: #457b9d;
+    border-color: #457b9d;
+    color: white;
+}
+
+.btn-primary:hover {
+    background-color: #1d3557;
+    border-color: #1d3557;
+}
+
+/* Card styling */
+.card {
+    border: none;
+    background-color: #ffffff;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.card-body h4 {
+    color: #1d3557;
+}
+
+/* Accordion styling */
+.accordion-button {
+    background-color: #457b9d !important;
+    color: white !important;
+    font-weight: bold;
+}
+
+.accordion-button:hover {
+    background-color: #1d3557 !important;
+}
+
+.accordion-body {
+    font-size: 1rem;
+    color: #495057;
+    background-color: #f9f9f9;
+    border: 1px solid #e0e0e0;
+}

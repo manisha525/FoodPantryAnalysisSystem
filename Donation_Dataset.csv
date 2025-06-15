@@ -1,0 +1,2956 @@
+S.n,Day,Source,Item,Quantity,Total Weight
+1,1/1/2020,Individual Donor,Toothpaste,38,0
+2,1/2/2020,Individual Donor,Rice,37,0
+3,1/2/2020,Community Center,Canned Vegetables,40,0
+4,1/2/2020,HAFB,Toilet Paper,35,0
+5,1/3/2020,MGM Non-profit,Cereal,44,0
+6,1/4/2020,Local Grocery,Toothpaste,31,0
+7,1/4/2020,Local Grocery,Ramen,28,0
+8,1/4/2020,HAFB,Granola Bars,35,0
+9,1/5/2020,University Club,Spaghetti Rings Pasta,53,0
+10,1/6/2020,Local Grocery,Pencils,19,0
+11,1/6/2020,University Club,Peanut Butter,31,0
+12,1/7/2020,Local Grocery,Scent Booster,44,0
+13,1/9/2020,Community Center,Pens,42,0
+14,1/9/2020,Local Grocery,Applesauce (ind),38,0
+15,1/9/2020,Individual Donor,Softener,28,0
+16,1/10/2020,HAFB,Juice Boxes,33,0
+17,1/11/2020,HAFB,Fruit cup,37,0
+18,1/11/2020,Local Grocery,Rice,28,0
+19,1/11/2020,Can Castle Contest,Ramen,42,0
+20,1/11/2020,University Club,Fruit cup,40,0
+21,1/11/2020,Anonymous donor,Laundry Detergent,26,0
+22,1/12/2020,Local Grocery,Pasta,35,0
+23,1/12/2020,University Club,Canned Vegetables,47,0
+24,1/12/2020,Individual Donor,Rice,33,0
+25,1/13/2020,University Club,Canned Beans,30,0
+26,1/13/2020,Anonymous donor,Canned Vegetables,37,0
+27,1/16/2020,University Club,Applesauce (ind),49,0
+28,1/16/2020,HAFB,Toilet Paper,38,0
+29,1/17/2020,University Club,Water,35,0
+30,1/18/2020,HAFB,Peanut Butter Crackers,30,0
+31,1/19/2020,sorority,Peanut Butter Crackers,42,0
+32,1/19/2020,HAFB,Sparkling Water,38,0
+33,1/21/2020,Anonymous donor,Applesauce (ind),30,0
+34,1/22/2020,Homecoming Philanthropy,Shampoo,37,0
+35,1/23/2020,Can Castle Contest,Peanut Butter Crackers,40,0
+36,1/24/2020,Local Grocery,Toilet Paper,44,0
+37,1/25/2020,Homecoming Philanthropy,Applesauce (ind),33,0
+38,1/26/2020,Community Center,Canned Beans,24,0
+39,1/27/2020,University Club,Laundry Detergent,38,0
+40,1/28/2020,NPHC,Bar Soap,33,0
+41,1/28/2020,HAFB,Cereal,44,0
+42,1/28/2020,HAFB,Peanut Butter Crackers,37,0
+43,1/28/2020,Local Grocery,Fruit cup,42,0
+44,1/29/2020,Anonymous donor,Pasta,30,0
+45,1/29/2020,Anonymous donor,Mac and Cheese,33,0
+46,1/29/2020,Troy University Nursing School,Peanut Butter Crackers,31,0
+47,1/29/2020,HAFB,Ramen,35,0
+48,1/29/2020,HAFB,Toothpaste,38,0
+49,1/29/2020,Local Grocery,Canned Vegetables,37,0
+50,1/30/2020,University Club,Peanut Butter Crackers,37,0
+51,1/30/2020,University Club,Laundry Detergent,40,0
+52,1/30/2020,Anonymous donor,Granola Bars,30,0
+53,2/1/2020,Community Center,Beefaroni,58,0
+54,2/2/2020,Anonymous donor,Pasta,34,0
+55,2/2/2020,Individual Donor,Canned Vegetables,34,0
+56,2/3/2020,University Club,Canned Beans,36,0
+57,2/4/2020,Local Grocery,Feminine Products (Pads),40,0
+58,2/6/2020,Homecoming Philanthropy,Granola Bars,51,0
+59,2/7/2020,Local Grocery,Canned Beans,38,0
+60,2/7/2020,Starting Inventory,Feminine Products (Pads),40,0
+61,2/8/2020,University Club,Peanut Butter Crackers,32,0
+62,2/8/2020,Starting Inventory,Ramen,27,0
+63,2/8/2020,HAFB,Rice Krispies Treats,29,0
+64,2/9/2020,University Club,Canned Vegetables,29,0
+65,2/10/2020,University Club,Canned Beans,32,0
+66,2/11/2020,Local Grocery,Canned Beans,36,0
+67,2/11/2020,Local Grocery,Applesauce (ind),41,0
+68,2/11/2020,HAFB,Toothpaste,29,0
+69,2/12/2020,Individual Donor,Notebooks,36,0
+70,2/12/2020,Local Grocery,Granola Bars,32,0
+71,2/12/2020,Anonymous donor,Scent Booster,43,0
+72,2/12/2020,HAFB,Scent Booster,47,0
+73,2/13/2020,Homecoming Philanthropy,Cereal,27,0
+74,2/13/2020,Individual Donor,Fruit cup,29,0
+75,2/13/2020,Community Center,Toothpaste,47,0
+76,2/14/2020,HAFB,Fruit cup,38,0
+77,2/14/2020,HAFB,Peanut Butter Crackers,34,0
+78,2/14/2020,University Club,Rice Krispies Treats,29,0
+79,2/14/2020,HAFB,Peanut Butter Crackers,36,0
+80,2/15/2020,University Club,Pencils,38,0
+81,2/15/2020,Individual Donor,Canned Vegetables,18,0
+82,2/17/2020,HAFB,Scent Booster,38,0
+83,2/18/2020,Anonymous donor,Softener,40,0
+84,2/18/2020,HAFB,Canned Vegetables,29,0
+85,2/18/2020,Community Center,Rice,31,0
+86,2/19/2020,Individual Donor,Cheese Crackers,40,0
+87,2/20/2020,MGM Non-profit,Toilet Paper,31,0
+88,2/20/2020,HAFB,Rice,43,0
+89,2/21/2020,Community Center,Toilet Paper,29,0
+90,2/21/2020,HAFB,Juice Boxes,32,0
+91,2/21/2020,Anonymous donor,Pork and Beans,25,0
+92,2/22/2020,Local Grocery,Canned Beans,32,0
+93,2/23/2020,Local Grocery,Fruit cup,32,0
+94,2/23/2020,Community Center,Softener,43,0
+95,2/23/2020,HAFB,Scent Booster,29,0
+96,2/24/2020,Individual Donor,Bean with Bacon Soup,45,0
+97,2/24/2020,Community Center,Rice,27,0
+98,2/25/2020,HAFB,Cereal,21,0
+99,2/25/2020,Anonymous donor,Laundry Detergent,23,0
+100,2/26/2020,Community Center,Toilet Paper,21,0
+101,2/27/2020,HAFB,Scent Booster,38,0
+102,2/27/2020,Individual Donor,Toilet Paper,25,0
+103,2/28/2020,Local Grocery,Laundry Detergent,38,0
+104,2/29/2020,Individual Donor,Rice Krispies Treats,40,0
+105,2/29/2020,HAFB,Granola Bars,58,0
+106,3/1/2020,Local Grocery,Granola Bars,22,0
+107,3/1/2020,HAFB,Juice Boxes,42,0
+108,3/1/2020,HAFB,Peanut Butter Crackers,41,0
+109,3/1/2020,Starting Inventory,Peanut Butter Crackers,27,0
+110,3/2/2020,Anonymous donor,Juice Boxes,30,0
+111,3/3/2020,MGM Non-profit,Ramen,29,0
+112,3/4/2020,HAFB,Garbanzo Beans,30,0
+113,3/5/2020,Local Grocery,Pasta,13,0
+114,3/5/2020,University Club,Toothpaste,30,0
+115,3/6/2020,University Club,Toilet Paper,27,0
+116,3/6/2020,HAFB,Applesauce (ind),25,0
+117,3/7/2020,University Club,Canned Vegetables,34,0
+118,3/8/2020,Anonymous donor,Toilet Paper,42,0
+119,3/9/2020,University Club,Toilet Paper,29,0
+120,3/10/2020,Individual Donor,Laundry Detergent,36,0
+121,3/10/2020,University Club,Cereal,25,0
+122,3/11/2020,Individual Donor,Ramen,32,0
+123,3/12/2020,HAFB,Canned Vegetables,36,0
+124,3/12/2020,HAFB,Applesauce (ind),30,0
+125,3/14/2020,University Club,Rice Krispies Treats,30,0
+126,3/15/2020,HAFB,Nutri Grain Bars,24,0
+127,3/17/2020,Individual Donor,Pasta,34,0
+128,3/17/2020,HAFB,Rice,22,0
+129,3/17/2020,Anonymous donor,Rice,34,0
+130,3/17/2020,HAFB,Applesauce (ind),32,0
+131,3/17/2020,Anonymous donor,Vienna Sausages,36,0
+132,3/18/2020,Anonymous donor,Rice Krispies Treats,39,0
+133,3/18/2020,HAFB,Rice,34,0
+134,3/19/2020,Anonymous donor,Pasta,32,0
+135,3/19/2020,Local Grocery,Peanut Butter Crackers,42,0
+136,3/20/2020,HAFB,Peanut Butter Crackers,37,0
+137,3/20/2020,Local Grocery,Peanut Butter Crackers,32,0
+138,3/22/2020,HAFB,Granola Bars,36,0
+139,3/23/2020,Local Grocery,Softener,39,0
+140,3/23/2020,HAFB,Rice,29,0
+141,3/24/2020,HAFB,Juice Boxes,32,0
+142,3/24/2020,Anonymous donor,Rice Krispies Treats,30,0
+143,3/25/2020,Individual Donor,Granola Bars,54,0
+144,3/26/2020,First Year Studies Troy University,Peanut Butter,29,0
+145,3/27/2020,Community Center,Laundry Detergent,22,0
+146,3/27/2020,HAFB,Fruit cup,34,0
+147,3/28/2020,Community Center,Pasta,32,0
+148,3/28/2020,HAFB,Pasta,37,0
+149,3/29/2020,University Club,Rice Krispies Treats,32,0
+150,3/29/2020,HAFB,Toothpaste,34,0
+151,3/31/2020,Local Grocery,Spaghetti Rings Pasta,48,0
+152,4/1/2020,HAFB,Spaghetti Rings Pasta,27,0
+153,4/3/2020,HAFB,Juice Boxes,27,0
+154,4/3/2020,Individual Donor,Ramen,27,0
+155,4/3/2020,Anonymous donor,Canned Beans,23,0
+156,4/3/2020,Local Grocery,Pasta,18,0
+157,4/4/2020,HAFB,Fruit / Cereal / Breakfast Bar,38,0
+158,4/4/2020,HAFB,Rice,25,0
+159,4/5/2020,HAFB,Fruit cup,39,0
+160,4/5/2020,Community Center,Pasta,36,0
+161,4/5/2020,Anonymous donor,Rice,32,0
+162,4/7/2020,Anonymous donor,Peanut Butter Crackers,32,0
+163,4/9/2020,Anonymous donor,Cereal,50,0
+164,4/10/2020,sorority,Softener,39,0
+165,4/10/2020,Local Grocery,Toilet Paper,39,0
+166,4/10/2020,HAFB,Softener,36,0
+167,4/13/2020,University Club,Canned Beans,36,0
+168,4/13/2020,University Club,Granola Bars,38,0
+169,4/14/2020,HAFB,Juice Boxes,28,0
+170,4/14/2020,Starting Inventory,Toilet Paper,39,0
+171,4/14/2020,University Club,Rice Krispies Treats,30,0
+172,4/14/2020,Community Center,Softener,39,0
+173,4/15/2020,Anonymous donor,Peanut Butter Crackers,27,0
+174,4/15/2020,Individual Donor,Applesauce (ind),39,0
+175,4/15/2020,Starting Inventory,Peanut Butter Crackers,45,0
+176,4/16/2020,Local Grocery,Toilet Paper,28,0
+177,4/16/2020,HAFB,Peanut Butter Crackers,30,0
+178,4/17/2020,Individual Donor,Ramen,38,0
+179,4/17/2020,Anonymous donor,Rice,28,0
+180,4/18/2020,HAFB,Feminine Products (Pads),38,0
+181,4/18/2020,Anonymous donor,Pasta,38,0
+182,4/18/2020,Anonymous donor,Fruit cup,32,0
+183,4/18/2020,Anonymous donor,Pasta,45,0
+184,4/18/2020,Community Center,Granola Bars,32,0
+185,4/19/2020,HAFB,Tomato Soup,28,0
+186,4/20/2020,Local Grocery,Granola Bars,45,0
+187,4/21/2020,Anonymous donor,Canned Beans,32,0
+188,4/21/2020,Anonymous donor,Spaghetti Rings Pasta,41,0
+189,4/21/2020,HAFB,Applesauce (ind),32,0
+190,4/22/2020,Local Grocery,Applesauce (ind),39,0
+191,4/23/2020,University Club,Canned Beans,36,0
+192,4/23/2020,HAFB,Applesauce (ind),23,0
+193,4/24/2020,Homecoming Philanthropy,Scent Booster,50,0
+194,4/24/2020,Local Grocery,Mac and Cheese,36,0
+195,4/24/2020,HAFB,Cereal,32,0
+196,4/25/2020,Anonymous donor,Juice Boxes,28,0
+197,4/27/2020,Community Center,Scent Booster,63,0
+198,4/27/2020,HAFB,Toilet Paper,38,0
+199,4/28/2020,Homecoming Philanthropy,Rice,43,0
+200,4/30/2020,Anonymous donor,Scent Booster,32,0
+201,4/30/2020,Local Grocery,Shampoo,45,0
+202,5/1/2020,HAFB,Green Beans,16,0
+203,5/3/2020,Can Castle Contest,Scent Booster,25,0
+204,5/5/2020,Individual Donor,Peanut Butter Crackers,18,0
+205,5/6/2020,Anonymous donor,Scent Booster,33,0
+206,5/6/2020,Homecoming Philanthropy,Pear Halves,20,0
+207,5/7/2020,Anonymous donor,Spaghetti Rings Pasta,26,0
+208,5/8/2020,University Club,Peanut Butter Crackers,22,0
+209,5/8/2020,University Club,Spaghetti Rings Pasta,25,0
+210,5/8/2020,Local Grocery,Fruit / Cereal / Breakfast Bar,27,0
+211,5/8/2020,HAFB,Applesauce (ind),33,0
+212,5/8/2020,HAFB,Granola Bars,26,0
+213,5/9/2020,HAFB,Rice Krispies Treats,26,0
+214,5/9/2020,Anonymous donor,Chicken Noodle Soup,32,0
+215,5/12/2020,Individual Donor,Granola Bars,29,0
+216,5/12/2020,HAFB,Cereal,41,0
+217,5/13/2020,University Club,Scent Booster,29,0
+218,5/13/2020,Homecoming Philanthropy,Cereal,25,0
+219,5/13/2020,sorority,Toilet Paper,30,0
+220,5/15/2020,Individual Donor,Canned Vegetables,40,0
+221,5/15/2020,Anonymous donor,Canned Vegetables,34,0
+222,5/15/2020,Starting Inventory,Rice,29,0
+223,5/16/2020,University Club,Rice Krispies Treats,22,0
+224,5/16/2020,Local Grocery,Laundry Detergent,33,0
+225,5/16/2020,Community Center,Corn,26,0
+226,5/16/2020,Local Grocery,Laundry Detergent,22,0
+227,5/17/2020,Individual Donor,Spaghetti Rings Pasta,19,0
+228,5/18/2020,Individual Donor,Rice,32,0
+229,5/18/2020,Individual Donor,Ravioli,20,0
+230,5/19/2020,Community Center,Peanut Butter Crackers,30,0
+231,5/19/2020,HAFB,Rice,26,0
+232,5/20/2020,University Club,Juice Boxes,19,0
+233,5/20/2020,Homecoming Philanthropy,Toilet Paper,30,0
+234,5/21/2020,HAFB,Rice Krispies Treats,26,0
+235,5/23/2020,Community Center,Canned Vegetables,30,0
+236,5/23/2020,Individual Donor,Canned Vegetables,32,0
+237,5/24/2020,Anonymous donor,Applesauce (ind),34,0
+238,5/25/2020,Individual Donor,Spaghetti Rings Pasta,27,0
+239,5/25/2020,HAFB,Fruit cup,36,0
+240,5/25/2020,Anonymous donor,Ramen,27,0
+241,5/26/2020,Individual Donor,Softener,33,0
+242,5/27/2020,University Club,Scent Booster,36,0
+243,5/27/2020,sorority,Oatmeal,22,0
+244,5/28/2020,HAFB,Juice Boxes,32,0
+245,5/28/2020,HAFB,Chicken and Dumplings,34,0
+246,5/29/2020,Individual Donor,Spaghetti Rings Pasta,30,0
+247,5/29/2020,Community Center,Peanut Butter,32,0
+248,5/29/2020,Starting Inventory,Scent Booster,29,0
+249,5/29/2020,Local Grocery,Applesauce (ind),30,0
+250,5/30/2020,Community Center,Canned Vegetables,20,0
+251,5/31/2020,University Club,Juice Boxes,23,0
+252,6/1/2020,Individual Donor,Feminine Products (Pads),28,0
+253,6/2/2020,Community Center,Cereal,25,0
+254,6/2/2020,Individual Donor,Juice Boxes,30,0
+255,6/3/2020,HAFB,Toilet Paper,34,0
+256,6/5/2020,University Club,Scent Booster,30,0
+257,6/6/2020,Anonymous donor,Softener,31,0
+258,6/6/2020,Community Center,Canned Beans,42,0
+259,6/7/2020,Local Grocery,Canned Beans,25,0
+260,6/7/2020,University Club,Rice Krispies Treats,32,0
+261,6/7/2020,University Club,Granola Bars,34,0
+262,6/8/2020,HAFB,Pasta,31,0
+263,6/10/2020,University Club,Peanut Butter Crackers,32,0
+264,6/10/2020,HAFB,Softener,20,0
+265,6/10/2020,Individual Donor,Scent Booster,31,0
+266,6/11/2020,HAFB,Spaghetti Noodles,30,0
+267,6/11/2020,Local Grocery,Scent Booster,24,0
+268,6/12/2020,University Club,Juice Boxes,32,0
+269,6/12/2020,Individual Donor,Softener,20,0
+270,6/13/2020,HAFB,Granola Bars,30,0
+271,6/14/2020,HAFB,Applesauce (ind),20,0
+272,6/15/2020,University Club,Scent Booster,28,0
+273,6/16/2020,Starting Inventory,Spaghetti Rings Pasta,28,0
+274,6/16/2020,HAFB,Peanut Butter Crackers,30,0
+275,6/17/2020,Individual Donor,Softener,21,0
+276,6/17/2020,HAFB,Juice Boxes,32,0
+277,6/18/2020,HAFB,Applesauce (ind),32,0
+278,6/19/2020,Local Grocery,Peanut Butter Crackers,31,0
+279,6/20/2020,Anonymous donor,Cereal,27,0
+280,6/20/2020,HAFB,Granola Bars,28,0
+281,6/20/2020,Community Center,Applesauce (ind),31,0
+282,6/21/2020,University Club,Oatmeal,21,0
+283,6/21/2020,HAFB,Applesauce (ind),30,0
+284,6/21/2020,Anonymous donor,Juice Boxes,25,0
+285,6/23/2020,Local Grocery,Pens,21,0
+286,6/24/2020,Community Center,Toilet Paper,31,0
+287,6/24/2020,HAFB,Scent Booster,30,0
+288,6/24/2020,Individual Donor,Juice Boxes,31,0
+289,6/25/2020,Individual Donor,Canned Vegetables,30,0
+290,6/25/2020,Community Center,Toothpaste,34,0
+291,6/26/2020,HAFB,Toothpaste,40,0
+292,6/26/2020,Individual Donor,Applesauce (ind),18,0
+293,6/26/2020,HAFB,Granola Bars,34,0
+294,6/29/2020,HAFB,Rice Krispies Treats,35,0
+295,6/29/2020,Starting Inventory,Fruit cup,34,0
+296,6/29/2020,HAFB,Pasta,31,0
+297,6/29/2020,Local Grocery,Granola Bars,30,0
+298,6/30/2020,University Club,Rice,20,0
+299,6/30/2020,Individual Donor,Laundry Detergent,30,0
+300,6/30/2020,HAFB,Peanut Butter Crackers,25,0
+301,7/1/2020,Individual Donor,Feminine Products (Pads),2,0
+302,7/2/2020,HAFB,Peanut Butter Crackers,2,0
+303,7/2/2020,Community Center,Granola Bars,2,0
+304,7/3/2020,University Club,Spaghetti Rings Pasta,2,0
+305,7/3/2020,Anonymous donor,Spaghetti Rings Pasta,2,0
+306,7/4/2020,HAFB,Fruit cup,1,0
+307,7/5/2020,Anonymous donor,Toilet Paper,3,0
+308,7/5/2020,Community Center,Makeup remover,2,0
+309,7/5/2020,University Club,Softener,2,0
+310,7/5/2020,Anonymous donor,Toilet Paper,3,0
+311,7/5/2020,HAFB,Ramen,3,0
+312,7/5/2020,HAFB,Cereal,2,0
+313,7/6/2020,Individual Donor,Deodorant,2,0
+314,7/6/2020,Individual Donor,Highlighters,2,0
+315,7/7/2020,Anonymous donor,Juice Boxes,2,0
+316,7/7/2020,Local Grocery,Ramen,2,0
+317,7/7/2020,Community Center,Rice Krispies Treats,2,0
+318,7/9/2020,HAFB,Fruit cup,2,0
+319,7/9/2020,Starting Inventory,Laundry Detergent,2,0
+320,7/10/2020,HAFB,Ramen,2,0
+321,7/11/2020,Anonymous donor,Cereal,2,0
+322,7/12/2020,Individual Donor,Peanut Butter Crackers,2,0
+323,7/12/2020,HAFB,Pasta,2,0
+324,7/13/2020,University Club,Rice,2,0
+325,7/13/2020,HAFB,Toilet Paper,3,0
+326,7/14/2020,University Club,Granola Bars,1,0
+327,7/15/2020,HAFB,Canned Vegetables,2,0
+328,7/16/2020,University Club,Scent Booster,2,0
+329,7/17/2020,Community Center,Juice Boxes,3,0
+330,7/18/2020,Individual Donor,Spaghetti Rings Pasta,2,0
+331,7/19/2020,HAFB,Chips/Crackers,2,0
+332,7/19/2020,HAFB,Scent Booster,1,0
+333,7/22/2020,Local Grocery,Ramen,2,0
+334,7/22/2020,Individual Donor,Canned Beans,1,0
+335,7/22/2020,HAFB,Fruit cup,2,0
+336,7/22/2020,Local Grocery,Rice Krispies Treats,2,0
+337,7/23/2020,HAFB,Ramen,2,0
+338,7/24/2020,Community Center,Granola Bars,2,0
+339,7/26/2020,First Year Studies Troy University,Canned Vegetables,3,0
+340,7/26/2020,Anonymous donor,Chunk Chicken Breast,1,0
+341,7/26/2020,Individual Donor,Softener,2,0
+342,7/26/2020,Anonymous donor,Spaghetti Rings Pasta,2,0
+343,7/29/2020,sorority,Rice Krispies Treats,2,0
+344,7/30/2020,HAFB,Toilet Paper,2,0
+345,7/30/2020,Community Center,Ramen,2,0
+346,7/30/2020,HAFB,Fruit cup,2,0
+347,7/31/2020,University Club,Rice,2,0
+348,7/31/2020,University Club,Toilet Paper,2,0
+349,8/1/2020,Anonymous donor,Fruit Cocktail,4,0
+350,8/3/2020,Anonymous donor,Spaghetti Rings Pasta,4,0
+351,8/3/2020,HAFB,Chips/Crackers,5,0
+352,8/4/2020,HAFB,Toilet Paper,4,0
+353,8/5/2020,Individual Donor,Granola / Snack Bars,5,0
+354,8/5/2020,Anonymous donor,Cereal,4,0
+355,8/7/2020,Anonymous donor,Scent Booster,5,0
+356,8/8/2020,Local Grocery,Laundry Detergent,5,0
+357,8/9/2020,Local Grocery,Toilet Paper,4,0
+358,8/10/2020,Anonymous donor,Toilet Paper,3,0
+359,8/10/2020,Local Grocery,Granola Bars,34,0
+360,8/11/2020,HAFB,Softener,5,0
+361,8/12/2020,HAFB,Softener,3,0
+362,8/12/2020,Individual Donor,Canned Beans,6,0
+363,8/13/2020,Anonymous donor,Spaghetti Rings Pasta,5,0
+364,8/14/2020,Community Center,Spaghetti Rings Pasta,4,0
+365,8/15/2020,HAFB,Rice,5,0
+366,8/17/2020,Individual Donor,Granola Bars,5,0
+367,8/18/2020,HAFB,Spaghetti Rings Pasta,2,0
+368,8/19/2020,HAFB,Spaghetti Rings Pasta,4,0
+369,8/19/2020,sorority,Canned Vegetables,3,0
+370,8/20/2020,Anonymous donor,Cereal,5,0
+371,8/20/2020,Anonymous donor,Ramen,4,0
+372,8/21/2020,University Club,Canned Beans,5,0
+373,8/21/2020,Anonymous donor,Scent Booster,5,0
+374,8/21/2020,Local Grocery,Scent Booster,5,0
+375,8/22/2020,Anonymous donor,Toilet Paper,4,0
+376,8/23/2020,Individual Donor,Canned Beans,6,0
+377,8/23/2020,First Year Studies Troy University,Rice,5,0
+378,8/23/2020,Individual Donor,Canned Beans,4,0
+379,8/24/2020,HAFB,Softener,4,0
+380,8/24/2020,Starting Inventory,Rice,5,0
+381,8/24/2020,First Year Studies Troy University,Rice,4,0
+382,8/25/2020,HAFB,Softener,3,0
+383,8/26/2020,HAFB,Toilet Paper,6,0
+384,8/26/2020,Anonymous donor,Pasta,3,0
+385,8/28/2020,HAFB,Toothpaste,5,0
+386,8/29/2020,HAFB,Oatmeal,5,0
+387,8/29/2020,HAFB,Mac and Cheese,4,0
+388,8/29/2020,HAFB,Canned Vegetables,4,0
+389,8/29/2020,University Club,Pens,5,0
+390,8/29/2020,HAFB,Peanut Butter,3,0
+391,8/29/2020,Anonymous donor,Pasta,5,0
+392,8/30/2020,Community Center,Toothpaste,6,0
+393,8/30/2020,Starting Inventory,Granola Bars,4,0
+394,8/31/2020,Individual Donor,Rice Krispies Treats,2,0
+395,8/31/2020,Anonymous donor,Cereal,5,0
+396,9/1/2020,Individual Donor,Rice Krispies Treats,9,0
+397,9/1/2020,Local Grocery,Applesauce (ind),8,0
+398,9/1/2020,Anonymous donor,Laundry Detergent,5,0
+399,9/2/2020,Community Center,Toothpaste,9,0
+400,9/5/2020,University Club,Canned Vegetables,8,0
+401,9/5/2020,HAFB,Juice Boxes,9,0
+402,9/5/2020,Anonymous donor,Pasta,6,0
+403,9/5/2020,Anonymous donor,Toilet Paper,10,0
+404,9/5/2020,HAFB,Chili Beans,6,0
+405,9/5/2020,Local Grocery,Granola Bars,8,0
+406,9/6/2020,Local Grocery,Scent Booster,6,0
+407,9/6/2020,Local Grocery,Canned Vegetables,8,0
+408,9/7/2020,Anonymous donor,Canned Beans,6,0
+409,9/9/2020,Individual Donor,Nutri Grain Bars,11,0
+410,9/9/2020,University Club,Ramen,6,0
+411,9/10/2020,Anonymous donor,Rice Krispies Treats,11,0
+412,9/10/2020,Community Center,Green Beans,6,0
+413,9/10/2020,Community Center,Scent Booster,6,0
+414,9/11/2020,HAFB,Spaghetti Noodles,6,0
+415,9/12/2020,HAFB,Feminine Products (Pads),6,0
+416,9/13/2020,Individual Donor,Applesauce (ind),8,0
+417,9/14/2020,University Club,Scent Booster,8,0
+418,9/14/2020,HAFB,Granola Bars,3,0
+419,9/14/2020,Starting Inventory,Bar Soap,6,0
+420,9/14/2020,HAFB,Scent Booster,7,0
+421,9/16/2020,University Club,Cereal,8,0
+422,9/16/2020,HAFB,Scent Booster,3,0
+423,9/17/2020,MGM Non-profit,Rice Krispies Treats,8,0
+424,9/17/2020,University Club,Ramen,8,0
+425,9/20/2020,University Club,Canned Beans,12,0
+426,9/21/2020,Homecoming Philanthropy,Spaghetti Rings Pasta,8,0
+427,9/22/2020,HAFB,Laundry Detergent,7,0
+428,9/23/2020,Anonymous donor,Toothpaste,6,0
+429,9/23/2020,HAFB,Toilet Paper,5,0
+430,9/24/2020,Local Grocery,Mac and Cheese,6,0
+431,9/24/2020,HAFB,Pasta,8,0
+432,9/24/2020,Local Grocery,Cereal,8,0
+433,9/24/2020,HAFB,Rice,9,0
+434,9/25/2020,Anonymous donor,Granola Bars,8,0
+435,9/25/2020,Anonymous donor,Canned Beans,9,0
+436,9/26/2020,Police Amnesty Day,Oatmeal,4,0
+437,9/27/2020,Troy University Nursing School,Water,6,0
+438,9/29/2020,Local Grocery,Campus Kitchens Meals,8,0
+439,9/30/2020,sorority,Rice Krispies Treats,5,0
+440,9/30/2020,Individual Donor,Juice Boxes,8,0
+441,9/30/2020,Individual Donor,Rice Krispies Treats,11,0
+442,10/1/2020,Homecoming Philanthropy,Oatmeal,11,0
+443,10/2/2020,Starting Inventory,Toilet Paper,14,0
+444,10/2/2020,Anonymous donor,Applesauce (ind),11,0
+445,10/3/2020,HAFB,Fruit cup,11,0
+446,10/3/2020,Local Grocery,"Laundry Detergent, Softener, Scent Booster",9,0
+447,10/4/2020,Community Center,Rice Krispies Treats,11,0
+448,10/4/2020,MGM Non-profit,Feminine Products (Pads),9,0
+449,10/4/2020,HAFB,Scent Booster,9,0
+450,10/5/2020,Community Center,Softener,14,0
+451,10/5/2020,HAFB,Scent Booster,9,0
+452,10/7/2020,Anonymous donor,Juice Boxes,16,0
+453,10/9/2020,Community Center,Beefaroni,12,0
+454,10/9/2020,Anonymous donor,Toothpaste,9,0
+455,10/10/2020,Individual Donor,Fruit cup,11,0
+456,10/10/2020,Local Grocery,Rice,12,0
+457,10/11/2020,Homecoming Philanthropy,Corn,12,0
+458,10/11/2020,Anonymous donor,Pasta,17,0
+459,10/11/2020,HAFB,Granola / Snack Bars,11,0
+460,10/11/2020,HAFB,Juice Boxes,11,0
+461,10/12/2020,Community Center,Laundry Detergent,11,0
+462,10/12/2020,HAFB,Toilet Paper,14,0
+463,10/13/2020,HAFB,Cereal,9,0
+464,10/13/2020,Anonymous donor,Scent Booster,14,0
+465,10/13/2020,HAFB,Toilet Paper,7,0
+466,10/13/2020,HAFB,Rice Krispies Treats,13,0
+467,10/14/2020,Community Center,Canned Vegetables,11,0
+468,10/14/2020,Individual Donor,Peanut Butter Crackers,11,0
+469,10/15/2020,Anonymous donor,Softener,15,0
+470,10/15/2020,HAFB,Toothpaste,15,0
+471,10/15/2020,Starting Inventory,Granola Bars,15,0
+472,10/15/2020,HAFB,Feminine Products (Pads),10,0
+473,10/16/2020,Local Grocery,Canned Beans,16,0
+474,10/16/2020,MGM Non-profit,Beets,9,0
+475,10/17/2020,Community Center,Applesauce (ind),8,0
+476,10/17/2020,University Club,Peanut Butter,17,0
+477,10/17/2020,Anonymous donor,Scent Booster,11,0
+478,10/20/2020,HAFB,Laundry Detergent,14,0
+479,10/20/2020,Anonymous donor,Peanut Butter Crackers,8,0
+480,10/20/2020,Local Grocery,Toothpaste,7,0
+481,10/21/2020,Anonymous donor,Canned Beans,12,0
+482,10/23/2020,Anonymous donor,Ramen,12,0
+483,10/23/2020,Anonymous donor,Softener,10,0
+484,10/25/2020,Community Center,Granola Bars,9,0
+485,10/25/2020,Anonymous donor,Granola Bars,15,0
+486,10/26/2020,Homecoming Philanthropy,Toilet Paper,15,0
+487,10/26/2020,Anonymous donor,Fruit cup,13,0
+488,10/27/2020,Anonymous donor,Canned Beans,15,0
+489,10/27/2020,University Club,Spaghetti Rings Pasta,8,0
+490,10/29/2020,HAFB,Toothpaste,14,0
+491,10/30/2020,Community Center,Granola Bars,8,0
+492,10/31/2020,Community Center,Black Beans,11,0
+493,10/31/2020,Anonymous donor,Softener,9,0
+494,10/31/2020,Anonymous donor,Binders,14,0
+495,10/31/2020,Anonymous donor,Peanut Butter,14,0
+496,10/31/2020,Local Grocery,Canned Beans,6,0
+497,11/1/2020,Individual Donor,Large Bag of Chips,17,0
+498,11/1/2020,HAFB,Toilet Paper,12,0
+499,11/1/2020,HAFB,Canned Vegetables,8,0
+500,11/2/2020,HAFB,Fruit cup,12,0
+501,11/2/2020,Anonymous donor,Feminine Products (Pads),13,0
+502,11/2/2020,Local Grocery,Applesauce (ind),8,0
+503,11/4/2020,Community Center,Granola Bars,9,0
+504,11/4/2020,Local Grocery,Pasta,11,0
+505,11/5/2020,Local Grocery,Granola Bars,11,0
+506,11/6/2020,Individual Donor,Pasta,11,0
+507,11/6/2020,HAFB,Canned Vegetables,16,0
+508,11/6/2020,Community Center,Peanut Butter Crackers,14,0
+509,11/6/2020,Community Center,Toilet Paper,11,0
+510,11/6/2020,Community Center,Applesauce (ind),13,0
+511,11/8/2020,HAFB,Rice,9,0
+512,11/10/2020,HAFB,Applesauce (ind),9,0
+513,11/10/2020,Community Center,Fruit cup,10,0
+514,11/10/2020,HAFB,Feminine Products (Tampons),10,0
+515,11/11/2020,HAFB,Spaghetti Rings Pasta,18,0
+516,11/11/2020,HAFB,Toothpaste,10,0
+517,11/13/2020,Individual Donor,Rice,16,0
+518,11/14/2020,University Club,Canned Beans,13,0
+519,11/14/2020,Anonymous donor,Ramen,15,0
+520,11/14/2020,Local Grocery,Granola Bars,10,0
+521,11/15/2020,HAFB,Green Beans,12,0
+522,11/15/2020,Anonymous donor,Bodywash,13,0
+523,11/15/2020,HAFB,Scent Booster,13,0
+524,11/16/2020,Individual Donor,Granola Bars,15,0
+525,11/16/2020,Local Grocery,Spaghetti Rings Pasta,13,0
+526,11/16/2020,Local Grocery,Peanut Butter Crackers,15,0
+527,11/17/2020,First Year Studies Troy University,Softener,11,0
+528,11/18/2020,Anonymous donor,Canned Beans,13,0
+529,11/18/2020,Anonymous donor,Peanut Butter Crackers,9,0
+530,11/18/2020,HAFB,Grits (can/package),17,0
+531,11/18/2020,Local Grocery,Toilet Paper,15,0
+532,11/19/2020,Anonymous donor,Peanut Butter Crackers,8,0
+533,11/20/2020,HAFB,Canned Beans,12,0
+534,11/20/2020,HAFB,Granola Bars,12,0
+535,11/22/2020,Anonymous donor,Applesauce (ind),21,0
+536,11/23/2020,Anonymous donor,Toilet Paper,10,0
+537,11/23/2020,Anonymous donor,Toilet Paper,15,0
+538,11/23/2020,Local Grocery,Peanut Butter Crackers,11,0
+539,11/24/2020,Local Grocery,Spaghetti Rings Pasta,10,0
+540,11/24/2020,Anonymous donor,Toilet Paper,9,0
+541,11/25/2020,Community Center,Toothpaste,11,0
+542,11/25/2020,HAFB,Green Beans,15,0
+543,11/25/2020,Community Center,Cereal,13,0
+544,11/25/2020,HAFB,Granola / Snack Bars,11,0
+545,11/26/2020,Anonymous donor,Canned Vegetables,11,0
+546,11/27/2020,Anonymous donor,Granola Bars,18,0
+547,11/27/2020,HAFB,Canned Vegetables,11,0
+548,11/27/2020,University Club,Scent Booster,11,0
+549,11/28/2020,Community Center,Juice Boxes,15,0
+550,11/28/2020,Anonymous donor,Canned Beans,13,0
+551,11/30/2020,HAFB,Rice,12,0
+552,11/30/2020,HAFB,Softener,12,0
+553,12/1/2020,University Club,Sparkling Water,12,0
+554,12/1/2020,Individual Donor,Campus Kitchens Meals,12,0
+555,12/1/2020,HAFB,Ramen,33,0
+556,12/2/2020,HAFB,Green Beans,34,0
+557,12/2/2020,HAFB,Oatmeal,35,0
+558,12/3/2020,HAFB,Peanut Butter Crackers,36,0
+559,12/3/2020,Individual Donor,Scent Booster,4,0
+560,12/5/2020,Community Center,Ramen,38,0
+561,12/7/2020,Local Grocery,Toothpaste,39,0
+562,12/7/2020,Anonymous donor,Fruit cup,40,0
+563,12/7/2020,Individual Donor,Fruit cup,41,0
+564,12/7/2020,HAFB,Peanut Butter Crackers,42,0
+565,12/8/2020,Homecoming Philanthropy,Rice,43,0
+566,12/8/2020,University Club,Canned Beans,44,0
+567,12/10/2020,Anonymous donor,Toothpaste,45,0
+568,12/11/2020,Homecoming Philanthropy,Peanut Butter Crackers,46,0
+569,12/11/2020,Homecoming Philanthropy,Granola Bars,47,0
+570,12/12/2020,HAFB,Granola Bars,48,0
+571,12/13/2020,Starting Inventory,Laundry Detergent,4,0
+572,12/13/2020,Community Center,Toothpaste,4,0
+573,12/13/2020,Individual Donor,Juice Boxes,5,0
+574,12/14/2020,Anonymous donor,Ramen,6,0
+575,12/14/2020,Anonymous donor,Peanut Butter Crackers,7,0
+576,12/15/2020,HAFB,Peanut Butter,8,0
+577,12/15/2020,Anonymous donor,Rice Krispies Treats,9,0
+578,12/18/2020,HAFB,Deodorant,10,0
+579,12/20/2020,HAFB,Applesauce (ind),11,0
+580,12/20/2020,HAFB,Fruit cup,12,0
+581,12/20/2020,HAFB,Peanut Butter Crackers,13,0
+582,12/21/2020,Individual Donor,Applesauce (ind),14,0
+583,12/21/2020,University Club,Softener,14,0
+584,12/22/2020,Starting Inventory,Peanut Butter Crackers,15,0
+585,12/22/2020,HAFB,Oatmeal,16,0
+586,12/23/2020,Can Castle Contest,Ramen,17,0
+587,12/23/2020,HAFB,Cereal,18,0
+588,12/23/2020,Starting Inventory,Pens,19,0
+589,12/23/2020,HAFB,Fruit cup,20,0
+590,12/23/2020,Local Grocery,Granola Bars,21,0
+591,12/24/2020,HAFB,Pasta,22,0
+592,12/25/2020,Community Center,Softener,12,0
+593,12/26/2020,MGM Non-profit,Peanut Butter Crackers,1,0
+594,12/28/2020,Individual Donor,Juice Boxes,2,0
+595,12/28/2020,University Club,Softener,3,0
+596,12/29/2020,Freshmen Forum,Toothpaste,4,0
+597,12/30/2020,HAFB,Toothpaste,5,0
+598,12/30/2020,Anonymous donor,Peanut Butter Crackers,6,0
+599,12/31/2020,Local Grocery,Cereal,7,0
+600,1/2/2021,Can Castle Contest,Canned Vegetables,40,0
+601,1/5/2021,Anonymous donor,Scent Booster,28,0
+602,1/6/2021,HAFB,Ramen,38,0
+603,1/6/2021,Local Grocery,Shampoo,40,0
+604,1/7/2021,University Club,Canned Vegetables,44,0
+605,1/8/2021,HAFB,Fruit / Cereal / Breakfast Bar,37,0
+606,1/8/2021,HAFB,Fruit cup,42,0
+607,1/8/2021,Anonymous donor,Dental Floss,35,0
+608,1/9/2021,Can Castle Contest,Fruit cup,40,0
+609,1/9/2021,Anonymous donor,Rice Krispies Treats,47,0
+610,1/9/2021,HAFB,Canned Vegetables,35,0
+611,1/10/2021,Anonymous donor,Granola Bars,31,0
+612,1/10/2021,Can Castle Contest,Applesauce (ind),37,0
+613,1/11/2021,HAFB,Rice,38,0
+614,1/12/2021,HAFB,Pasta,54,0
+615,1/13/2021,Local Grocery,Cereal,38,0
+616,1/13/2021,Community Center,Feminine Products (Pads),35,0
+617,1/13/2021,Community Center,Softener,31,0
+618,1/14/2021,HAFB,Fruit cup,49,0
+619,1/16/2021,HAFB,Rice,42,0
+620,1/17/2021,Community Center,Peanut Butter Crackers,30,0
+621,1/18/2021,Local Grocery,Granola Bars,38,0
+622,1/18/2021,Local Grocery,Vienna Sausages,14,0
+623,1/19/2021,Anonymous donor,Scent Booster,54,0
+624,1/19/2021,HAFB,Softener,37,0
+625,1/20/2021,HAFB,Oatmeal,26,0
+626,1/20/2021,Starting Inventory,Peanut Butter Crackers,26,0
+627,1/21/2021,Community Center,Laundry Detergent,38,0
+628,1/21/2021,Anonymous donor,Canned Vegetables,42,0
+629,1/21/2021,Homecoming Philanthropy,Pasta,33,0
+630,1/22/2021,Anonymous donor,Ramen,33,0
+631,1/23/2021,HAFB,Spaghetti Rings Pasta,35,0
+632,1/23/2021,Local Grocery,Juice Boxes,30,0
+633,1/23/2021,HAFB,Cereal,37,0
+634,1/23/2021,University Club,Rice,53,0
+635,1/24/2021,Homecoming Philanthropy,Laundry Detergent,33,0
+636,1/24/2021,HAFB,Softener,37,0
+637,1/25/2021,HAFB,Softener,31,0
+638,1/25/2021,HAFB,Applesauce (ind),35,0
+639,1/25/2021,Anonymous donor,Scent Booster,49,0
+640,1/25/2021,Local Grocery,Applesauce (ind),44,0
+641,1/26/2021,HAFB,Fruit cup,24,0
+642,1/26/2021,HAFB,Toothpaste,26,0
+643,1/26/2021,Anonymous donor,Rice,26,0
+644,1/26/2021,Starting Inventory,Rice,28,0
+645,1/27/2021,HAFB,Toilet Paper,31,0
+646,1/29/2021,Local Grocery,Fruit cup,44,0
+647,1/30/2021,University Club,Applesauce (ind),42,0
+648,1/30/2021,Local Grocery,Applesauce (ind),30,0
+649,1/30/2021,University Club,Rice,24,0
+650,1/30/2021,MGM Non-profit,Laundry Detergent,38,0
+651,1/30/2021,sorority,Rice Krispies Treats,33,0
+652,1/31/2021,HAFB,Ramen,38,0
+653,1/31/2021,Can Castle Contest,Canned Beans,33,0
+654,1/31/2021,HAFB,Rice,24,0
+655,2/2/2021,HAFB,Fruit cup,40,0
+656,2/3/2021,Local Grocery,Scent Booster,32,0
+657,2/4/2021,HAFB,Laundry Detergent,34,0
+658,2/4/2021,Anonymous donor,Toothpaste,52,0
+659,2/4/2021,Community Center,Grits (ind),31,0
+660,2/4/2021,HAFB,Softener,47,0
+661,2/5/2021,Anonymous donor,Ramen,40,0
+662,2/5/2021,Local Grocery,Pretzels,16,0
+663,2/8/2021,HAFB,Toilet Paper,27,0
+664,2/9/2021,HAFB,Toothpaste,34,0
+665,2/10/2021,Local Grocery,Fruit cup,36,0
+666,2/11/2021,Community Center,"Laundry Detergent, Softener, Scent Booster",34,0
+667,2/12/2021,HAFB,Beefaroni,31,0
+668,2/13/2021,Community Center,Toilet Paper,38,0
+669,2/13/2021,Local Grocery,Peanut Butter Crackers,34,0
+670,2/13/2021,Individual Donor,Ramen,51,0
+671,2/14/2021,sorority,Pinto Beans,47,0
+672,2/14/2021,HAFB,Fruit cup,29,0
+673,2/14/2021,Can Castle Contest,Granola Bars,29,0
+674,2/15/2021,Individual Donor,Applesauce (ind),36,0
+675,2/15/2021,HAFB,Toilet Paper,25,0
+676,2/15/2021,HAFB,Feminine Products (Pads),43,0
+677,2/16/2021,Local Grocery,Applesauce (ind),40,0
+678,2/16/2021,Local Grocery,Rice Krispies Treats,45,0
+679,2/16/2021,Community Center,Toilet Paper,32,0
+680,2/16/2021,Anonymous donor,Pasta,29,0
+681,2/18/2021,University Club,Softener,38,0
+682,2/18/2021,University Club,Granola Bars,31,0
+683,2/19/2021,Anonymous donor,Dental Floss,45,0
+684,2/19/2021,Homecoming Philanthropy,Canned Vegetables,29,0
+685,2/20/2021,University Club,Softener,21,0
+686,2/21/2021,Individual Donor,Pasta,43,0
+687,2/21/2021,HAFB,Toilet Paper,43,0
+688,2/21/2021,HAFB,Rice Krispies Treats,47,0
+689,2/22/2021,HAFB,Canned Vegetables,43,0
+690,2/22/2021,Individual Donor,Oatmeal,38,0
+691,2/22/2021,First Year Studies Troy University,Rice Krispies Treats,51,0
+692,2/22/2021,HAFB,Granola Bars,47,0
+693,2/23/2021,HAFB,Scent Booster,40,0
+694,2/24/2021,Local Grocery,Fruit cup,31,0
+695,2/24/2021,Community Center,Granola Bars,32,0
+696,2/24/2021,Anonymous donor,Scent Booster,36,0
+697,2/25/2021,Community Center,Green Beans,47,0
+698,2/25/2021,HAFB,Rice,47,0
+699,2/27/2021,sorority,Pork and Beans,38,0
+700,2/27/2021,Anonymous donor,Toothpaste,41,0
+701,2/28/2021,HAFB,Canned Vegetables,41,0
+702,3/1/2021,HAFB,Rice,29,0
+703,3/2/2021,HAFB,Pasta,36,0
+704,3/2/2021,Local Grocery,Rice,36,0
+705,3/2/2021,University Club,Rice,42,0
+706,3/3/2021,Can Castle Contest,Rice Krispies Treats,39,0
+707,3/3/2021,Community Center,Fruit cup,36,0
+708,3/3/2021,Homecoming Philanthropy,Rice Krispies Treats,41,0
+709,3/3/2021,Local Grocery,Granola Bars,29,0
+710,3/3/2021,Individual Donor,Ramen,46,0
+711,3/3/2021,Local Grocery,Mac and Cheese,48,0
+712,3/5/2021,HAFB,Fruit cup,41,0
+713,3/6/2021,Individual Donor,Granola / Snack Bars,27,0
+714,3/7/2021,HAFB,Rice Krispies Treats,48,0
+715,3/7/2021,HAFB,Granola Bars,37,0
+716,3/9/2021,Campus Kitchens,Juice Boxes,24,0
+717,3/10/2021,University Club,Ramen,48,0
+718,3/10/2021,HAFB,Laundry Detergent,25,0
+719,3/11/2021,HAFB,Applesauce (ind),27,0
+720,3/12/2021,HAFB,Peanut Butter Crackers,49,0
+721,3/12/2021,University Club,Laundry Detergent,36,0
+722,3/12/2021,HAFB,Ramen,37,0
+723,3/13/2021,Community Center,Peanut Butter Crackers,34,0
+724,3/14/2021,Starting Inventory,Toothpaste,27,0
+725,3/17/2021,Local Grocery,Canned Beans,44,0
+726,3/19/2021,Local Grocery,Canned Vegetables,41,0
+727,3/19/2021,Anonymous donor,Juice Boxes,46,0
+728,3/20/2021,Anonymous donor,Granola Bars,37,0
+729,3/22/2021,Freshmen Forum,Granola Bars,24,0
+730,3/22/2021,HAFB,Peanut Butter Crackers,49,0
+731,3/22/2021,HAFB,Applesauce (ind),24,0
+732,3/22/2021,Community Center,Rice,18,0
+733,3/22/2021,University Club,Dental Floss,44,0
+734,3/23/2021,HAFB,Canned Vegetables,18,0
+735,3/23/2021,HAFB,Fruit cup,53,0
+736,3/24/2021,Community Center,Canned Vegetables,24,0
+737,3/24/2021,Community Center,Fruit cup,32,0
+738,3/24/2021,Starting Inventory,Juice Boxes,44,0
+739,3/24/2021,Individual Donor,Pasta,36,0
+740,3/24/2021,Local Grocery,Rice,37,0
+741,3/25/2021,Anonymous donor,Rice,36,0
+742,3/25/2021,University Club,Pineapple,32,0
+743,3/26/2021,Individual Donor,Fruit / Cereal / Breakfast Bar,30,0
+744,3/26/2021,Community Center,Softener,34,0
+745,3/27/2021,University Club,Ramen,51,0
+746,3/28/2021,Anonymous donor,Toilet Paper,36,0
+747,3/28/2021,HAFB,Scent Booster,37,0
+748,3/29/2021,Local Grocery,Cereal,32,0
+749,3/30/2021,HAFB,Peanut Butter Crackers,36,0
+750,3/30/2021,HAFB,Peanut Butter Crackers,34,0
+751,3/30/2021,Anonymous donor,Softener,36,0
+752,3/30/2021,HAFB,Cereal,54,0
+753,3/30/2021,University Club,Peanut Butter,20,0
+754,3/31/2021,Anonymous donor,Granola Bars,22,0
+755,4/1/2021,Homecoming Philanthropy,Pasta,50,0
+756,4/1/2021,Local Grocery,Canned Beans,30,0
+757,4/1/2021,Individual Donor,Toothpaste,30,0
+758,4/5/2021,HAFB,Granola Bars,34,0
+759,4/7/2021,University Club,Pasta,27,0
+760,4/7/2021,Local Grocery,Applesauce (ind),36,0
+761,4/7/2021,HAFB,Laundry Detergent,56,0
+762,4/8/2021,Community Center,Laundry Detergent,50,0
+763,4/9/2021,Starting Inventory,Granola Bars,36,0
+764,4/9/2021,HAFB,Peanut Butter,54,0
+765,4/10/2021,Individual Donor,Softener,34,0
+766,4/10/2021,HAFB,Cereal,32,0
+767,4/11/2021,HAFB,Fruit cup,39,0
+768,4/13/2021,HAFB,Dental Floss,41,0
+769,4/13/2021,HAFB,Toilet Paper,50,0
+770,4/13/2021,Individual Donor,Granola Bars,45,0
+771,4/14/2021,Local Grocery,Scent Booster,32,0
+772,4/14/2021,Individual Donor,Fruit cup,27,0
+773,4/16/2021,HAFB,Toilet Paper,36,0
+774,4/18/2021,Anonymous donor,Granola Bars,38,0
+775,4/20/2021,HAFB,Pasta,25,0
+776,4/21/2021,Anonymous donor,Canned Vegetables,34,0
+777,4/21/2021,HAFB,Ramen,30,0
+778,4/22/2021,Anonymous donor,Rice,50,0
+779,4/22/2021,HAFB,Peanut Butter Crackers,38,0
+780,4/24/2021,Community Center,Rice Krispies Treats,32,0
+781,4/25/2021,Individual Donor,Rice Krispies Treats,16,0
+782,4/25/2021,Community Center,Page-protector,25,0
+783,4/26/2021,Local Grocery,Granola Bars,38,0
+784,4/27/2021,HAFB,Peanut Butter,57,0
+785,4/27/2021,Anonymous donor,Mac and Cheese,34,0
+786,4/28/2021,Anonymous donor,Laundry Detergent,34,0
+787,4/29/2021,University Club,Juice Boxes,25,0
+788,4/29/2021,Community Center,Toothpaste,36,0
+789,4/30/2021,Homecoming Philanthropy,Peanut Butter Crackers,30,0
+790,4/30/2021,Community Center,Toothpaste,36,0
+791,4/30/2021,Community Center,Rice,41,0
+792,5/1/2021,HAFB,Cereal,26,0
+793,5/2/2021,Individual Donor,Rice,26,0
+794,5/2/2021,University Club,Spaghetti Rings Pasta,29,0
+795,5/2/2021,Local Grocery,Pickles,30,0
+796,5/2/2021,Individual Donor,Peanut Butter Crackers,34,0
+797,5/3/2021,Anonymous donor,Feminine Products (Pads),20,0
+798,5/3/2021,Can Castle Contest,Peanut Butter Crackers,29,0
+799,5/3/2021,Anonymous donor,Juice Boxes,23,0
+800,5/3/2021,University Club,Juice Boxes,23,0
+801,5/3/2021,HAFB,Applesauce (ind),25,0
+802,5/4/2021,University Club,Applesauce (ind),34,0
+803,5/4/2021,Homecoming Philanthropy,Pasta,22,0
+804,5/4/2021,Anonymous donor,Water,40,0
+805,5/5/2021,Anonymous donor,Cereal,27,0
+806,5/5/2021,Anonymous donor,Spaghetti Rings Pasta,23,0
+807,5/5/2021,Local Grocery,Granola Bars,33,0
+808,5/7/2021,Community Center,Applesauce (ind),29,0
+809,5/8/2021,HAFB,Applesauce (ind),30,0
+810,5/10/2021,Homecoming Philanthropy,Cereal,29,0
+811,5/11/2021,HAFB,Canned Vegetables,34,0
+812,5/13/2021,Freshmen Forum,Softener,32,0
+813,5/14/2021,Local Grocery,Chili Beans,22,0
+814,5/16/2021,Individual Donor,Applesauce (ind),13,0
+815,5/17/2021,MGM Non-profit,Granola Bars,26,0
+816,5/17/2021,University Club,Scent Booster,30,0
+817,5/18/2021,Starting Inventory,Peanut Butter Crackers,23,0
+818,5/19/2021,University Club,Laundry Detergent,34,0
+819,5/19/2021,Starting Inventory,Ramen,30,0
+820,5/20/2021,Individual Donor,Canned Vegetables,27,0
+821,5/20/2021,Local Grocery,Canned Beans,43,0
+822,5/20/2021,Individual Donor,Cereal,23,0
+823,5/20/2021,Community Center,Toilet Paper,23,0
+824,5/20/2021,HAFB,Granola Bars,15,0
+825,5/20/2021,HAFB,Ramen,29,0
+826,5/21/2021,Community Center,Applesauce (ind),36,0
+827,5/21/2021,HAFB,Applesauce (ind),33,0
+828,5/21/2021,Homecoming Philanthropy,Rice Krispies Treats,37,0
+829,5/21/2021,HAFB,Canned Vegetables,27,0
+830,5/22/2021,Anonymous donor,Applesauce (ind),30,0
+831,5/22/2021,Anonymous donor,Pasta,22,0
+832,5/23/2021,Can Castle Contest,Peanut Butter Crackers,20,0
+833,5/24/2021,Individual Donor,Toilet Paper,19,0
+834,5/25/2021,Individual Donor,Granola Bars,27,0
+835,5/26/2021,Can Castle Contest,Granola Bars,16,0
+836,5/26/2021,HAFB,Softener,26,0
+837,5/27/2021,Individual Donor,Canned Beans,25,0
+838,5/29/2021,Anonymous donor,Beefaroni,19,0
+839,5/29/2021,Campus Kitchens,Granola Bars,44,0
+840,5/29/2021,Anonymous donor,Pasta,20,0
+841,5/30/2021,HAFB,Pasta,13,0
+842,5/30/2021,HAFB,Softener,20,0
+843,5/31/2021,Individual Donor,Spaghetti Rings Pasta,22,0
+844,5/31/2021,Anonymous donor,Rice,30,0
+845,5/31/2021,HAFB,Softener,23,0
+846,5/31/2021,Community Center,Rice,22,0
+847,5/31/2021,Local Grocery,Scent Booster,30,0
+848,6/1/2021,HAFB,Toothpaste,35,0
+849,6/1/2021,Local Grocery,Fruit cup,28,0
+850,6/1/2021,Individual Donor,Toothbrushes,31,0
+851,6/3/2021,HAFB,Ramen,24,0
+852,6/4/2021,Individual Donor,Juice Boxes,31,0
+853,6/4/2021,HAFB,Scent Booster,21,0
+854,6/5/2021,Individual Donor,Canned Vegetables,32,0
+855,6/6/2021,Anonymous donor,Toothpaste,32,0
+856,6/8/2021,University Club,Peanut Butter Crackers,21,0
+857,6/8/2021,HAFB,Laundry Detergent,31,0
+858,6/10/2021,Community Center,Toilet Paper,31,0
+859,6/10/2021,Anonymous donor,Canned Vegetables,32,0
+860,6/10/2021,Anonymous donor,Deodorant,24,0
+861,6/11/2021,Homecoming Philanthropy,Pencils,27,0
+862,6/11/2021,HAFB,Pasta,37,0
+863,6/11/2021,Amnesty Day,Scent Booster,31,0
+864,6/11/2021,University Club,Peanut Butter Crackers,25,0
+865,6/12/2021,HAFB,Makeup remover,31,0
+866,6/12/2021,University Club,Pretzels,24,0
+867,6/12/2021,HAFB,Toilet Paper,18,0
+868,6/13/2021,First Year Studies Troy University,Scent Booster,35,0
+869,6/13/2021,HAFB,Toothpaste,22,0
+870,6/13/2021,HAFB,Toothpaste,32,0
+871,6/14/2021,HAFB,Granola Bars,30,0
+872,6/15/2021,HAFB,Toilet Paper,21,0
+873,6/15/2021,University Club,Rice,30,0
+874,6/16/2021,Homecoming Philanthropy,Juice Boxes,30,0
+875,6/17/2021,Individual Donor,Rice Krispies Treats,27,0
+876,6/18/2021,Local Grocery,Pasta,17,0
+877,6/18/2021,Community Center,Softener,37,0
+878,6/18/2021,Local Grocery,Fruit cup,34,0
+879,6/18/2021,Community Center,Fruit cup,27,0
+880,6/19/2021,HAFB,Rice,31,0
+881,6/19/2021,Local Grocery,Juice Boxes,27,0
+882,6/20/2021,Can Castle Contest,Ramen,24,0
+883,6/20/2021,HAFB,Laundry Detergent,34,0
+884,6/21/2021,Can Castle Contest,Ramen,38,0
+885,6/21/2021,HAFB,Softener,15,0
+886,6/22/2021,Anonymous donor,Ramen,27,0
+887,6/24/2021,Starting Inventory,Toilet Paper,28,0
+888,6/24/2021,HAFB,Toilet Paper,30,0
+889,6/25/2021,HAFB,Ramen,14,0
+890,6/25/2021,Community Center,Spaghetti Rings Pasta,41,0
+891,6/26/2021,HAFB,Granola Bars,25,0
+892,6/28/2021,HAFB,Applesauce (ind),31,0
+893,6/28/2021,HAFB,Spaghetti Rings Pasta,34,0
+894,6/28/2021,Homecoming Philanthropy,Notebooks,25,0
+895,6/30/2021,Anonymous donor,Scent Booster,30,0
+896,7/1/2021,Anonymous donor,Cereal,2,0
+897,7/1/2021,Local Grocery,Peanut Butter Crackers,2,0
+898,7/2/2021,University Club,Fruit cup,1,0
+899,7/2/2021,HAFB,Toothpaste,1,0
+900,7/3/2021,HAFB,Toilet Paper,1,0
+901,7/4/2021,Can Castle Contest,Canned Vegetables,2,0
+902,7/4/2021,Individual Donor,Rice,2,0
+903,7/6/2021,Can Castle Contest,Laundry Detergent,2,0
+904,7/6/2021,HAFB,Pasta,2,0
+905,7/7/2021,Starting Inventory,Green Beans,2,0
+906,7/7/2021,Local Grocery,Rice,2,0
+907,7/7/2021,HAFB,Oatmeal,2,0
+908,7/8/2021,HAFB,Rice,1,0
+909,7/9/2021,Local Grocery,Scent Booster,1,0
+910,7/9/2021,Individual Donor,Rice,2,0
+911,7/9/2021,sorority,Granola Bars,2,0
+912,7/9/2021,Community Center,Applesauce (ind),2,0
+913,7/9/2021,HAFB,Canned Beans,2,0
+914,7/9/2021,Anonymous donor,Water,2,0
+915,7/11/2021,Local Grocery,Toilet Paper,2,0
+916,7/11/2021,Local Grocery,Laundry Detergent,1,0
+917,7/12/2021,Community Center,Applesauce (ind),3,0
+918,7/13/2021,HAFB,Carrots,2,0
+919,7/13/2021,Can Castle Contest,Canned Vegetables,2,0
+920,7/13/2021,HAFB,Juice Boxes,2,0
+921,7/14/2021,Anonymous donor,Peanut Butter Crackers,2,0
+922,7/15/2021,University Club,Applesauce (ind),2,0
+923,7/16/2021,Local Grocery,Notebooks,2,0
+924,7/17/2021,Police Amnesty Day,Rice,2,0
+925,7/17/2021,Community Center,Juice Boxes,2,0
+926,7/17/2021,Can Castle Contest,Pasta,2,0
+927,7/18/2021,HAFB,Rice Krispies Treats,1,0
+928,7/18/2021,HAFB,Pasta,2,0
+929,7/18/2021,Community Center,Juice Boxes,2,0
+930,7/19/2021,Local Grocery,Granola Bars,2,0
+931,7/19/2021,HAFB,Fruit cup,2,0
+932,7/19/2021,Anonymous donor,Scent Booster,2,0
+933,7/19/2021,Anonymous donor,Rice,2,0
+934,7/20/2021,Anonymous donor,Toothpaste,2,0
+935,7/20/2021,HAFB,Ravioli,2,0
+936,7/20/2021,HAFB,Peanut Butter Crackers,2,0
+937,7/21/2021,Individual Donor,Scent Booster,2,0
+938,7/21/2021,HAFB,Toilet Paper,2,0
+939,7/21/2021,HAFB,Softener,2,0
+940,7/21/2021,Local Grocery,Rice,2,0
+941,7/22/2021,Local Grocery,Applesauce (ind),2,0
+942,7/22/2021,Community Center,Green Beans,1,0
+943,7/23/2021,Anonymous donor,Peanut Butter,3,0
+944,7/23/2021,HAFB,Granola Bars,1,0
+945,7/23/2021,sorority,Alfredo,1,0
+946,7/23/2021,Anonymous donor,Softener,2,0
+947,7/24/2021,HAFB,Pasta,3,0
+948,7/24/2021,HAFB,Cereal,2,0
+949,7/25/2021,HAFB,Toilet Paper,2,0
+950,7/25/2021,Community Center,Toilet Paper,2,0
+951,7/25/2021,HAFB,Cereal,2,0
+952,7/25/2021,HAFB,Scent Booster,1,0
+953,7/25/2021,HAFB,Bread,1,0
+954,7/25/2021,sorority,Fruit cup,2,0
+955,7/26/2021,HAFB,Granola Bars,2,0
+956,7/26/2021,HAFB,Applesauce (ind),2,0
+957,7/27/2021,HAFB,Cereal,2,0
+958,7/27/2021,Local Grocery,Spaghetti Rings Pasta,1,0
+959,7/29/2021,Community Center,Cereal,2,0
+960,7/29/2021,HAFB,Cereal,2,0
+961,7/30/2021,Individual Donor,Peas,2,0
+962,7/31/2021,HAFB,Toilet Paper,3,0
+963,8/1/2021,Individual Donor,Granola Bars,4,0
+964,8/1/2021,Community Center,Toothpaste,7,0
+965,8/1/2021,Individual Donor,Spaghetti Rings Pasta,4,0
+966,8/1/2021,Starting Inventory,Peanut Butter Crackers,3,0
+967,8/2/2021,Community Center,Softener,4,0
+968,8/3/2021,Community Center,Cereal,2,0
+969,8/3/2021,HAFB,Pretzels,3,0
+970,8/3/2021,Anonymous donor,Pasta,6,0
+971,8/3/2021,HAFB,Juice Boxes,3,0
+972,8/4/2021,Individual Donor,Spaghetti Rings Pasta,4,0
+973,8/4/2021,HAFB,Rice,5,0
+974,8/5/2021,Anonymous donor,Cereal,3,0
+975,8/6/2021,University Club,Cereal,4,0
+976,8/6/2021,HAFB,Softener,4,0
+977,8/6/2021,Anonymous donor,Canned Vegetables,5,0
+978,8/7/2021,Starting Inventory,Rice Krispies Treats,4,0
+979,8/8/2021,HAFB,Rice,4,0
+980,8/8/2021,Individual Donor,"Laundry Detergent, Softener, Scent Booster",5,0
+981,8/8/2021,HAFB,Spaghetti Rings Pasta,5,0
+982,8/9/2021,HAFB,Applesauce (ind),4,0
+983,8/10/2021,Individual Donor,Pasta,4,0
+984,8/11/2021,Anonymous donor,Cannellini Beans,3,0
+985,8/12/2021,sorority,Scent Booster,3,0
+986,8/13/2021,Starting Inventory,Scent Booster,5,0
+987,8/13/2021,Community Center,Peanut Butter Crackers,4,0
+988,8/14/2021,HAFB,Canned Vegetables,4,0
+989,8/14/2021,Homecoming Philanthropy,Fruit cup,3,0
+990,8/16/2021,Starting Inventory,Ramen,6,0
+991,8/17/2021,HAFB,Peanut Butter Crackers,7,0
+992,8/17/2021,HAFB,Spaghetti Rings Pasta,4,0
+993,8/18/2021,Starting Inventory,Peanut Butter Crackers,5,0
+994,8/18/2021,Anonymous donor,Pasta,2,0
+995,8/18/2021,Community Center,Canned Vegetables,4,0
+996,8/19/2021,Anonymous donor,Scent Booster,4,0
+997,8/19/2021,HAFB,Toilet Paper,6,0
+998,8/20/2021,HAFB,Fruit cup,2,0
+999,8/21/2021,Local Grocery,Cereal,6,0
+1000,8/21/2021,Anonymous donor,Scent Booster,4,0
+1001,8/22/2021,HAFB,Peanut Butter Crackers,3,0
+1002,8/23/2021,Anonymous donor,Scent Booster,5,0
+1003,8/23/2021,HAFB,Rice Krispies Treats,4,0
+1004,8/23/2021,University Club,Pasta,5,0
+1005,8/24/2021,University Club,Mac and Cheese,4,0
+1006,8/24/2021,Individual Donor,Juice Boxes,3,0
+1007,8/24/2021,Anonymous donor,Peanut Butter,5,0
+1008,8/25/2021,Local Grocery,Oatmeal,3,0
+1009,8/25/2021,Community Center,Spaghetti Rings Pasta,3,0
+1010,8/25/2021,HAFB,Rice,5,0
+1011,8/25/2021,HAFB,Rice Krispies Treats,4,0
+1012,8/25/2021,HAFB,Canned Vegetables,4,0
+1013,8/26/2021,Anonymous donor,Applesauce (ind),4,0
+1014,8/26/2021,Local Grocery,Rice,5,0
+1015,8/27/2021,Individual Donor,Toilet Paper,4,0
+1016,8/27/2021,University Club,Rice,8,0
+1017,8/27/2021,HAFB,Spaghetti Rings Pasta,6,0
+1018,8/28/2021,HAFB,Cereal,2,0
+1019,8/28/2021,Individual Donor,Canned Vegetables,3,0
+1020,8/28/2021,Anonymous donor,Spaghetti Rings Pasta,3,0
+1021,8/28/2021,Individual Donor,Applesauce (ind),7,0
+1022,8/30/2021,University Club,Rice,3,0
+1023,8/30/2021,Homecoming Philanthropy,Peanut Butter,4,0
+1024,8/30/2021,Local Grocery,Softener,6,0
+1025,8/31/2021,HAFB,Ramen,5,0
+1026,9/1/2021,HAFB,Granola Bars,8,0
+1027,9/1/2021,HAFB,Toothpaste,7,0
+1028,9/1/2021,Anonymous donor,Ramen,10,0
+1029,9/2/2021,Individual Donor,Granola Bars,6,0
+1030,9/2/2021,Anonymous donor,Pasta,10,0
+1031,9/2/2021,Community Center,Canned Beans,7,0
+1032,9/2/2021,Freshmen Forum,Canned Vegetables,8,0
+1033,9/3/2021,Local Grocery,Applesauce (ind),8,0
+1034,9/4/2021,Anonymous donor,Toothpaste,8,0
+1035,9/4/2021,Community Center,Juice Boxes,5,0
+1036,9/5/2021,HAFB,Granola Bars,11,0
+1037,9/5/2021,HAFB,Feminine Products (Pads),8,0
+1038,9/6/2021,Anonymous donor,Canned Vegetables,6,0
+1039,9/7/2021,Anonymous donor,Scent Booster,10,0
+1040,9/7/2021,Community Center,Softener,8,0
+1041,9/7/2021,HAFB,Ramen,8,0
+1042,9/8/2021,Can Castle Contest,Juice Boxes,8,0
+1043,9/8/2021,University Club,Pasta,8,0
+1044,9/10/2021,Anonymous donor,Toothpaste,5,0
+1045,9/10/2021,HAFB,Juice Boxes,7,0
+1046,9/11/2021,Individual Donor,Peanut Butter,7,0
+1047,9/11/2021,University Club,Cereal,5,0
+1048,9/12/2021,Local Grocery,Scent Booster,8,0
+1049,9/12/2021,Can Castle Contest,Scent Booster,6,0
+1050,9/13/2021,Anonymous donor,Toothpaste,10,0
+1051,9/13/2021,Anonymous donor,Fruit cup,8,0
+1052,9/13/2021,HAFB,Rice,7,0
+1053,9/14/2021,Anonymous donor,Toothbrushes,7,0
+1054,9/14/2021,HAFB,Granola / Snack Bars,7,0
+1055,9/14/2021,MGM Non-profit,Granola Bars,7,0
+1056,9/15/2021,Anonymous donor,Spaghetti Rings Pasta,5,0
+1057,9/17/2021,sorority,Toothpaste,9,0
+1058,9/17/2021,HAFB,Toothpaste,8,0
+1059,9/17/2021,University Club,Pickles,5,0
+1060,9/18/2021,Anonymous donor,Green Beans,8,0
+1061,9/18/2021,HAFB,Applesauce (ind),6,0
+1062,9/19/2021,Starting Inventory,Laundry Detergent,6,0
+1063,9/19/2021,Local Grocery,Scent Booster,9,0
+1064,9/20/2021,HAFB,Rice,5,0
+1065,9/20/2021,Local Grocery,Applesauce (ind),7,0
+1066,9/21/2021,HAFB,Rice,6,0
+1067,9/22/2021,Anonymous donor,Granola Bars,5,0
+1068,9/23/2021,Anonymous donor,Scent Booster,5,0
+1069,9/24/2021,HAFB,Peanut Butter Crackers,6,0
+1070,9/25/2021,Anonymous donor,Cake Mix,7,0
+1071,9/26/2021,Individual Donor,Applesauce (ind),9,0
+1072,9/26/2021,Anonymous donor,Ramen,3,0
+1073,9/27/2021,Local Grocery,Juice Boxes,6,0
+1074,9/29/2021,Community Center,Granola Bars,11,0
+1075,9/29/2021,HAFB,Toilet Paper,7,0
+1076,9/30/2021,HAFB,Softener,8,0
+1077,10/1/2021,HAFB,Canned Vegetables,12,0
+1078,10/1/2021,HAFB,Diced Tomatoes,8,0
+1079,10/2/2021,HAFB,Scent Booster,11,0
+1080,10/2/2021,Anonymous donor,Scent Booster,10,0
+1081,10/3/2021,Local Grocery,Peanut Butter Crackers,13,0
+1082,10/3/2021,Anonymous donor,Pens,16,0
+1083,10/3/2021,HAFB,Green Beans,11,0
+1084,10/3/2021,University Club,Rice,8,0
+1085,10/4/2021,HAFB,Fruit cup,12,0
+1086,10/4/2021,sorority,Scent Booster,12,0
+1087,10/5/2021,Anonymous donor,Applesauce (ind),14,0
+1088,10/6/2021,University Club,Pasta,15,0
+1089,10/7/2021,Anonymous donor,Fruit cup,11,0
+1090,10/8/2021,Anonymous donor,Cereal (ind),12,0
+1091,10/8/2021,HAFB,Applesauce (ind),13,0
+1092,10/11/2021,Individual Donor,Pasta,9,0
+1093,10/11/2021,Individual Donor,Green Beans,11,0
+1094,10/12/2021,HAFB,Toilet Paper,11,0
+1095,10/14/2021,HAFB,Peanut Butter Crackers,12,0
+1096,10/14/2021,Police Amnesty Day,Scent Booster,13,0
+1097,10/14/2021,University Club,Canned Vegetables,5,0
+1098,10/15/2021,Anonymous donor,Softener,10,0
+1099,10/15/2021,Anonymous donor,Toothpaste,11,0
+1100,10/15/2021,Anonymous donor,Toilet Paper,10,0
+1101,10/15/2021,Individual Donor,Rice,11,0
+1102,10/16/2021,HAFB,Pasta,10,0
+1103,10/16/2021,Individual Donor,Spaghetti Rings Pasta,9,0
+1104,10/17/2021,HAFB,Pasta,15,0
+1105,10/17/2021,Homecoming Philanthropy,Ramen,17,0
+1106,10/17/2021,Homecoming Philanthropy,Ramen,11,0
+1107,10/18/2021,sorority,Canned Beans,7,0
+1108,10/18/2021,Local Grocery,Granola Bars,12,0
+1109,10/18/2021,Individual Donor,Dental Floss,13,0
+1110,10/19/2021,University Club,Granola Bars,9,0
+1111,10/20/2021,sorority,Canned Beans,7,0
+1112,10/21/2021,Starting Inventory,Cereal,13,0
+1113,10/21/2021,sorority,Scent Booster,15,0
+1114,10/21/2021,HAFB,Rice,12,0
+1115,10/21/2021,Anonymous donor,Applesauce (ind),14,0
+1116,10/22/2021,HAFB,Fruit cup,10,0
+1117,10/23/2021,Individual Donor,Softener,12,0
+1118,10/23/2021,Community Center,Juice Boxes,9,0
+1119,10/23/2021,Police Amnesty Day,Spaghetti Rings Pasta,7,0
+1120,10/24/2021,HAFB,Granola Bars,13,0
+1121,10/24/2021,Individual Donor,Granola Bars,7,0
+1122,10/26/2021,Community Center,Scent Booster,13,0
+1123,10/26/2021,HAFB,Toilet Paper,12,0
+1124,10/26/2021,Anonymous donor,Rice Krispies Treats,10,0
+1125,10/26/2021,Anonymous donor,Softener,13,0
+1126,10/28/2021,HAFB,Laundry Detergent,11,0
+1127,10/29/2021,HAFB,Peanut Butter Crackers,10,0
+1128,10/29/2021,Anonymous donor,Rice,11,0
+1129,10/30/2021,University Club,Rice,11,0
+1130,10/30/2021,Individual Donor,Softener,14,0
+1131,10/31/2021,University Club,Pasta,7,0
+1132,10/31/2021,HAFB,Rice Krispies Treats,11,0
+1133,10/31/2021,Community Center,Rice Krispies Treats,11,0
+1134,11/4/2021,HAFB,Peanut Butter Crackers,13,0
+1135,11/5/2021,Community Center,Softener,17,0
+1136,11/5/2021,Local Grocery,Ramen,13,0
+1137,11/6/2021,Anonymous donor,Pickles,11,0
+1138,11/7/2021,Community Center,Laundry Detergent,14,0
+1139,11/7/2021,HAFB,Granola Bars,15,0
+1140,11/8/2021,HAFB,Peanut Butter Crackers,10,0
+1141,11/9/2021,Anonymous donor,Laundry Detergent,11,0
+1142,11/9/2021,Anonymous donor,Cereal,16,0
+1143,11/12/2021,HAFB,Canned Beans,14,0
+1144,11/12/2021,HAFB,Cereal,12,0
+1145,11/12/2021,Individual Donor,Applesauce (ind),12,0
+1146,11/13/2021,HAFB,Peanut Butter Crackers,10,0
+1147,11/13/2021,Can Castle Contest,Fruit cup,9,0
+1148,11/14/2021,University Club,Toilet Paper,13,0
+1149,11/14/2021,Community Center,Granola Bars,12,0
+1150,11/15/2021,HAFB,Rice,11,0
+1151,11/15/2021,Troy University Nursing School,Juice Boxes,13,0
+1152,11/16/2021,Community Center,Granola Bars,9,0
+1153,11/16/2021,Local Grocery,Chunk Chicken Breast,13,0
+1154,11/17/2021,Homecoming Philanthropy,Canned Beans,17,0
+1155,11/18/2021,University Club,Granola Bars,9,0
+1156,11/18/2021,University Club,Granola Bars,15,0
+1157,11/19/2021,Local Grocery,Ramen,15,0
+1158,11/20/2021,Individual Donor,Applesauce (ind),12,0
+1159,11/22/2021,HAFB,Applesauce (ind),9,0
+1160,11/22/2021,Anonymous donor,Granola Bars,12,0
+1161,11/22/2021,Local Grocery,Pasta,15,0
+1162,11/23/2021,Can Castle Contest,Scent Booster,11,0
+1163,11/24/2021,Can Castle Contest,Rice,18,0
+1164,11/24/2021,HAFB,Cereal,12,0
+1165,11/27/2021,Homecoming Philanthropy,Rice,7,0
+1166,11/28/2021,HAFB,Peanut Butter Crackers,17,0
+1167,11/28/2021,Anonymous donor,Juice Boxes,13,0
+1168,11/29/2021,HAFB,Peanut Butter Crackers,9,0
+1169,11/29/2021,University Club,Juice Boxes,14,0
+1170,11/29/2021,Troy University Nursing School,Applesauce (ind),10,0
+1171,11/29/2021,Individual Donor,Granola Bars,13,0
+1172,11/30/2021,Individual Donor,Spaghetti Rings Pasta,14,0
+1173,12/1/2021,Anonymous donor,Granola Bars,23,0
+1174,12/2/2021,Anonymous donor,Rice,22,0
+1175,12/3/2021,HAFB,Pasta,33,0
+1176,12/3/2021,Individual Donor,Rice Krispies Treats,44,0
+1177,12/3/2021,HAFB,Spaghetti Rings Pasta,40,0
+1178,12/3/2021,HAFB,Scent Booster,8,0
+1179,12/3/2021,University Club,Spaghetti Noodles,9,0
+1180,12/4/2021,Individual Donor,Rice,10,0
+1181,12/4/2021,Anonymous donor,Rice Krispies Treats,11,0
+1182,12/4/2021,Anonymous donor,Toothpaste,12,0
+1183,12/5/2021,University Club,Fruit cup,13,0
+1184,12/5/2021,University Club,Laundry Detergent,14,0
+1185,12/5/2021,Individual Donor,Granola Bars,15,0
+1186,12/5/2021,Individual Donor,Juice Boxes,16,0
+1187,12/7/2021,HAFB,Softener,17,0
+1188,12/7/2021,HAFB,Softener,18,0
+1189,12/7/2021,HAFB,Scent Booster,19,0
+1190,12/8/2021,HAFB,Ramen,20,0
+1191,12/9/2021,Community Center,Juice Boxes,21,0
+1192,12/10/2021,Starting Inventory,Applesauce (ind),22,0
+1193,12/10/2021,Starting Inventory,Peas,23,0
+1194,12/10/2021,Community Center,Toothpaste,1,0
+1195,12/11/2021,Anonymous donor,Toothbrushes,16,0
+1196,12/12/2021,HAFB,Large Bag of Chips,17,0
+1197,12/13/2021,University Club,Applesauce (ind),18,0
+1198,12/13/2021,Local Grocery,Scent Booster,19,0
+1199,12/13/2021,Anonymous donor,Ramen,20,0
+1200,12/14/2021,HAFB,Applesauce (ind),21,0
+1201,12/16/2021,Local Grocery,Green Beans,22,0
+1202,12/16/2021,HAFB,Cereal (ind),23,0
+1203,12/17/2021,HAFB,Toothpaste,24,0
+1204,12/17/2021,Homecoming Philanthropy,Peanut Butter Crackers,25,0
+1205,12/17/2021,Community Center,Toilet Paper,26,0
+1206,12/18/2021,HAFB,Peanut Butter Crackers,27,0
+1207,12/18/2021,HAFB,Canned Beans,28,0
+1208,12/18/2021,Community Center,Scent Booster,29,0
+1209,12/20/2021,HAFB,Canned Vegetables,30,0
+1210,12/21/2021,HAFB,Toothpaste,11,0
+1211,12/21/2021,HAFB,Toothbrushes,12,0
+1212,12/21/2021,University Club,Granola Bars,13,0
+1213,12/21/2021,Starting Inventory,Granola Bars,14,0
+1214,12/21/2021,Anonymous donor,Applesauce (ind),15,0
+1215,12/21/2021,HAFB,Laundry Detergent,16,0
+1216,12/22/2021,Local Grocery,Toothpaste,17,0
+1217,12/22/2021,Can Castle Contest,Cereal,18,0
+1218,12/22/2021,HAFB,Cereal,19,0
+1219,12/23/2021,Anonymous donor,Rice Krispies Treats,20,0
+1220,12/23/2021,HAFB,Toothpaste,21,0
+1221,12/23/2021,Anonymous donor,Ramen,22,0
+1222,12/23/2021,University Club,Peanut Butter Crackers,23,0
+1223,12/25/2021,University Club,Bodywash,12,0
+1224,12/26/2021,University Club,Pasta,21,0
+1225,12/26/2021,University Club,Rice,22,0
+1226,12/26/2021,Can Castle Contest,Water,23,0
+1227,12/27/2021,Anonymous donor,Oatmeal,24,0
+1228,12/27/2021,HAFB,Oatmeal,25,0
+1229,12/27/2021,HAFB,Softener,26,0
+1230,12/28/2021,Local Grocery,Makeup remover,4,0
+1231,12/29/2021,University Club,Softener,2,0
+1232,12/29/2021,Community Center,Granola Bars,29,0
+1233,12/30/2021,Individual Donor,Fruit cup,30,0
+1234,12/30/2021,HAFB,Spaghetti Rings Pasta,31,0
+1235,12/30/2021,Anonymous donor,Applesauce (ind),32,0
+1236,12/30/2021,Homecoming Philanthropy,Shampoo,33,0
+1237,12/31/2021,Anonymous donor,Rice,34,0
+1238,1/1/2022,Anonymous donor,Toilet Paper,35,0
+1239,1/1/2022,HAFB,Peanut Butter Crackers,44,0
+1240,1/1/2022,HAFB,Canned Beans,44,0
+1241,1/1/2022,Local Grocery,Granola Bars,40,0
+1242,1/2/2022,Individual Donor,Laundry Detergent,30,0
+1243,1/2/2022,Individual Donor,Softener,46,0
+1244,1/3/2022,Individual Donor,Feminine Products (Tampons),42,0
+1245,1/4/2022,Local Grocery,Canned Vegetables,40,0
+1246,1/5/2022,HAFB,Toilet Paper,23,0
+1247,1/5/2022,Anonymous donor,Canned Beans,35,0
+1248,1/5/2022,HAFB,Granola Bars,33,0
+1249,1/5/2022,Community Center,Toothbrushes,30,0
+1250,1/7/2022,Community Center,Granola Bars,31,0
+1251,1/7/2022,HAFB,Peanut Butter Crackers,42,0
+1252,1/7/2022,Anonymous donor,Toilet Paper,28,0
+1253,1/8/2022,HAFB,Rice,33,0
+1254,1/8/2022,HAFB,Softener,44,0
+1255,1/9/2022,HAFB,Peanut Butter,26,0
+1256,1/9/2022,HAFB,Applesauce (ind),33,0
+1257,1/9/2022,Local Grocery,Toothbrushes,31,0
+1258,1/11/2022,HAFB,Spaghetti Rings Pasta,26,0
+1259,1/12/2022,HAFB,Spaghetti Rings Pasta,33,0
+1260,1/12/2022,HAFB,Permanent marker,23,0
+1261,1/12/2022,HAFB,Peanut Butter Crackers,31,0
+1262,1/13/2022,HAFB,Softener,31,0
+1263,1/13/2022,Community Center,Spaghetti Rings Pasta,35,0
+1264,1/13/2022,sorority,Juice Boxes,40,0
+1265,1/14/2022,HAFB,Toilet Paper,38,0
+1266,1/14/2022,HAFB,Peanut Butter,23,0
+1267,1/14/2022,HAFB,Rice,46,0
+1268,1/14/2022,Anonymous donor,Page-protector,31,0
+1269,1/14/2022,Community Center,Rice,37,0
+1270,1/16/2022,University Club,Rice Krispies Treats,28,0
+1271,1/16/2022,Can Castle Contest,Spaghetti Rings Pasta,49,0
+1272,1/16/2022,HAFB,Spaghetti Rings Pasta,28,0
+1273,1/17/2022,HAFB,Cereal (ind),24,0
+1274,1/17/2022,Anonymous donor,Softener,42,0
+1275,1/17/2022,University Club,Ramen,37,0
+1276,1/17/2022,HAFB,Canned Vegetables,35,0
+1277,1/17/2022,HAFB,Spaghetti Noodles,40,0
+1278,1/17/2022,Starting Inventory,Fruit cup,21,0
+1279,1/19/2022,University Club,Granola Bars,30,0
+1280,1/19/2022,Individual Donor,Pasta,47,0
+1281,1/19/2022,Local Grocery,Canned Vegetables,31,0
+1282,1/20/2022,Individual Donor,Peanut Butter,42,0
+1283,1/21/2022,HAFB,Pork and Beans,37,0
+1284,1/22/2022,Individual Donor,Toilet Paper,31,0
+1285,1/22/2022,Community Center,Toothpaste,51,0
+1286,1/23/2022,Anonymous donor,Peanut Butter Crackers,31,0
+1287,1/23/2022,Individual Donor,Scent Booster,30,0
+1288,1/23/2022,Individual Donor,Cereal,33,0
+1289,1/24/2022,HAFB,Scent Booster,35,0
+1290,1/25/2022,Anonymous donor,Canned Beans,26,0
+1291,1/25/2022,Community Center,Laundry Detergent,46,0
+1292,1/25/2022,Anonymous donor,Canned Beans,24,0
+1293,1/27/2022,HAFB,Light Red Kidney Beans,46,0
+1294,1/30/2022,HAFB,Granola Bars,47,0
+1295,1/30/2022,Individual Donor,Granola Bars,24,0
+1296,1/31/2022,HAFB,Canned Vegetables,31,0
+1297,1/31/2022,Individual Donor,Rice,47,0
+1298,2/1/2022,University Club,Applesauce (ind),47,0
+1299,2/1/2022,Anonymous donor,Rice,36,0
+1300,2/2/2022,University Club,Pasta,36,0
+1301,2/2/2022,Individual Donor,Toothpaste,52,0
+1302,2/2/2022,Local Grocery,Canned Vegetables,32,0
+1303,2/3/2022,University Club,Pasta,18,0
+1304,2/3/2022,HAFB,Granola Bars,25,0
+1305,2/4/2022,University Club,Spaghetti Rings Pasta,36,0
+1306,2/4/2022,HAFB,Scent Booster,23,0
+1307,2/4/2022,Amnesty Day,Softener,43,0
+1308,2/5/2022,University Club,Ramen,25,0
+1309,2/5/2022,HAFB,Peanut Butter Crackers,38,0
+1310,2/7/2022,University Club,Washcloth,36,0
+1311,2/8/2022,Anonymous donor,Cereal,31,0
+1312,2/8/2022,Anonymous donor,Granola / Snack Bars,27,0
+1313,2/9/2022,HAFB,Fruit cup,38,0
+1314,2/9/2022,sorority,Applesauce (ind),31,0
+1315,2/9/2022,University Club,Scent Booster,23,0
+1316,2/10/2022,Community Center,Fruit cup,38,0
+1317,2/10/2022,HAFB,Softener,27,0
+1318,2/10/2022,Individual Donor,Pasta,40,0
+1319,2/11/2022,Local Grocery,Peanut Butter,36,0
+1320,2/12/2022,Community Center,Applesauce (ind),27,0
+1321,2/12/2022,Local Grocery,Water,51,0
+1322,2/12/2022,HAFB,Canned Vegetables,41,0
+1323,2/12/2022,Individual Donor,Peanut Butter Crackers,36,0
+1324,2/13/2022,Anonymous donor,Rice,31,0
+1325,2/14/2022,Anonymous donor,Softener,32,0
+1326,2/15/2022,Individual Donor,Pasta,47,0
+1327,2/16/2022,Individual Donor,Toilet Paper,47,0
+1328,2/18/2022,Community Center,Softener,23,0
+1329,2/18/2022,Local Grocery,Peanut Butter Crackers,36,0
+1330,2/18/2022,HAFB,Softener,47,0
+1331,2/19/2022,University Club,Rice,36,0
+1332,2/19/2022,Individual Donor,Cereal,36,0
+1333,2/22/2022,Anonymous donor,Chips/Crackers,43,0
+1334,2/22/2022,Individual Donor,Pasta,40,0
+1335,2/22/2022,HAFB,Juice Boxes,41,0
+1336,2/23/2022,HAFB,Applesauce (ind),32,0
+1337,2/23/2022,sorority,Canned Beans,32,0
+1338,2/23/2022,HAFB,Scent Booster,45,0
+1339,2/23/2022,Anonymous donor,Ramen,32,0
+1340,2/23/2022,University Club,Scent Booster,32,0
+1341,2/23/2022,HAFB,Canned Vegetables,45,0
+1342,2/24/2022,HAFB,Peanut Butter Crackers,38,0
+1343,2/25/2022,University Club,Rice,29,0
+1344,2/25/2022,Community Center,Laundry Detergent,54,0
+1345,2/26/2022,Individual Donor,Softener,56,0
+1346,2/26/2022,Individual Donor,Cereal,43,0
+1347,2/27/2022,Local Grocery,Canned Vegetables,34,0
+1348,2/27/2022,Individual Donor,Cereal,40,0
+1349,3/2/2022,Local Grocery,Applesauce (ind),32,0
+1350,3/2/2022,HAFB,Ramen,46,0
+1351,3/2/2022,University Club,Spaghetti Rings Pasta,20,0
+1352,3/3/2022,University Club,Granola Bars,24,0
+1353,3/4/2022,HAFB,Applesauce (ind),25,0
+1354,3/4/2022,HAFB,Rice,44,0
+1355,3/4/2022,Local Grocery,Oatmeal,32,0
+1356,3/4/2022,Anonymous donor,Granola Bars,46,0
+1357,3/4/2022,HAFB,"Laundry Detergent, Softener, Scent Booster",39,0
+1358,3/4/2022,HAFB,Canned Vegetables,36,0
+1359,3/5/2022,Anonymous donor,Spaghetti Rings Pasta,30,0
+1360,3/6/2022,HAFB,Nutri Grain Bars,20,0
+1361,3/6/2022,HAFB,Toothpaste,37,0
+1362,3/6/2022,Local Grocery,Rice Krispies Treats,27,0
+1363,3/8/2022,HAFB,Peanut Butter Crackers,32,0
+1364,3/9/2022,Local Grocery,Rice,27,0
+1365,3/10/2022,University Club,Rice Krispies Treats,29,0
+1366,3/10/2022,Community Center,Softener,34,0
+1367,3/10/2022,Can Castle Contest,Ramen,27,0
+1368,3/10/2022,Individual Donor,"Laundry Detergent, Softener, Scent Booster",41,0
+1369,3/12/2022,Community Center,Rice Krispies Treats,32,0
+1370,3/12/2022,HAFB,Applesauce (ind),29,0
+1371,3/12/2022,Individual Donor,Applesauce (ind),22,0
+1372,3/14/2022,HAFB,Pasta,32,0
+1373,3/14/2022,Homecoming Philanthropy,Fruit cup,36,0
+1374,3/14/2022,Community Center,Toilet Paper,24,0
+1375,3/14/2022,HAFB,Peanut Butter Crackers,27,0
+1376,3/15/2022,Individual Donor,Granola Bars,30,0
+1377,3/16/2022,Anonymous donor,Rice Krispies Treats,41,0
+1378,3/16/2022,HAFB,Spaghetti Rings Pasta,32,0
+1379,3/16/2022,Community Center,Canned Beans,34,0
+1380,3/17/2022,University Club,Granola Bars,27,0
+1381,3/18/2022,Community Center,Granola Bars,39,0
+1382,3/19/2022,HAFB,Rice,25,0
+1383,3/19/2022,Starting Inventory,Scent Booster,18,0
+1384,3/20/2022,HAFB,Granola Bars,17,0
+1385,3/21/2022,Individual Donor,Juice Boxes,29,0
+1386,3/23/2022,Individual Donor,Rice,30,0
+1387,3/24/2022,Individual Donor,Pasta,46,0
+1388,3/24/2022,University Club,Applesauce (ind),32,0
+1389,3/24/2022,HAFB,Softener,27,0
+1390,3/25/2022,University Club,Rice,30,0
+1391,3/28/2022,HAFB,Seasonings,29,0
+1392,3/29/2022,HAFB,Rice Krispies Treats,34,0
+1393,3/29/2022,HAFB,Granola Bars,39,0
+1394,3/29/2022,Individual Donor,Canned Beans,36,0
+1395,3/29/2022,Anonymous donor,Toilet Paper,24,0
+1396,3/31/2022,HAFB,Fruit cup,27,0
+1397,4/2/2022,Starting Inventory,Laundry Detergent,34,0
+1398,4/3/2022,HAFB,Canned Vegetables,32,0
+1399,4/3/2022,Community Center,Laundry Detergent,38,0
+1400,4/5/2022,Individual Donor,Pasta,43,0
+1401,4/6/2022,Local Grocery,Fruit cup,43,0
+1402,4/7/2022,HAFB,Applesauce (ind),27,0
+1403,4/8/2022,Anonymous donor,Peanut Butter Crackers,39,0
+1404,4/8/2022,University Club,Toothpaste,27,0
+1405,4/8/2022,Anonymous donor,Ramen,45,0
+1406,4/8/2022,HAFB,Softener,32,0
+1407,4/9/2022,Individual Donor,Ramen,27,0
+1408,4/11/2022,HAFB,Juice Boxes,28,0
+1409,4/11/2022,Can Castle Contest,Rice,47,0
+1410,4/12/2022,Anonymous donor,Canned Beans,47,0
+1411,4/12/2022,Anonymous donor,Applesauce (ind),32,0
+1412,4/13/2022,Local Grocery,Canned Vegetables,36,0
+1413,4/13/2022,HAFB,Ramen,28,0
+1414,4/15/2022,HAFB,Granola Bars,34,0
+1415,4/16/2022,HAFB,Rice,34,0
+1416,4/17/2022,Individual Donor,Rice,48,0
+1417,4/17/2022,sorority,Spaghetti Rings Pasta,18,0
+1418,4/17/2022,Individual Donor,Rice,36,0
+1419,4/19/2022,Anonymous donor,Scent Booster,38,0
+1420,4/20/2022,Individual Donor,Canned Vegetables,43,0
+1421,4/20/2022,Community Center,Fruit cup,25,0
+1422,4/21/2022,Community Center,Peanut Butter Crackers,47,0
+1423,4/22/2022,Anonymous donor,Juice Boxes,52,0
+1424,4/22/2022,University Club,Rice,18,0
+1425,4/25/2022,University Club,Deodorant,41,0
+1426,4/28/2022,Community Center,Rice Crisps,48,0
+1427,4/28/2022,HAFB,Spaghetti Rings Pasta,41,0
+1428,4/28/2022,Anonymous donor,Applesauce (ind),43,0
+1429,4/28/2022,HAFB,Scent Booster,30,0
+1430,4/29/2022,University Club,Scent Booster,32,0
+1431,5/2/2022,HAFB,Granola Bars,22,0
+1432,5/3/2022,University Club,Peanut Butter Crackers,30,0
+1433,5/4/2022,Community Center,Juice Boxes,30,0
+1434,5/5/2022,Anonymous donor,Toilet Paper,20,0
+1435,5/5/2022,HAFB,Applesauce (ind),30,0
+1436,5/6/2022,HAFB,Granola / Snack Bars,23,0
+1437,5/7/2022,HAFB,Laundry Detergent,30,0
+1438,5/7/2022,HAFB,Fruit cup,25,0
+1439,5/8/2022,Local Grocery,Granola Bars,32,0
+1440,5/9/2022,Anonymous donor,Granola Bars,27,0
+1441,5/11/2022,Community Center,Juice Boxes,34,0
+1442,5/13/2022,Community Center,Canned Beans,22,0
+1443,5/15/2022,Individual Donor,Scent Booster,30,0
+1444,5/16/2022,Individual Donor,Fruit cup,33,0
+1445,5/16/2022,HAFB,Toilet Paper,23,0
+1446,5/16/2022,HAFB,Rice Krispies Treats,30,0
+1447,5/17/2022,Local Grocery,Ramen,20,0
+1448,5/17/2022,Anonymous donor,Cereal,29,0
+1449,5/19/2022,Individual Donor,Broccoli and Cheese,22,0
+1450,5/19/2022,HAFB,Applesauce (ind),22,0
+1451,5/21/2022,University Club,Fruit cup,27,0
+1452,5/21/2022,HAFB,Toothpaste,27,0
+1453,5/22/2022,Individual Donor,Seasonings,29,0
+1454,5/22/2022,Anonymous donor,Ramen,23,0
+1455,5/23/2022,Local Grocery,Spaghetti Rings Pasta,26,0
+1456,5/24/2022,Individual Donor,Spaghetti Rings Pasta,30,0
+1457,5/24/2022,Local Grocery,Fruit cup,34,0
+1458,5/24/2022,Individual Donor,Toothpaste,25,0
+1459,5/26/2022,HAFB,Spaghetti Rings Pasta,27,0
+1460,5/26/2022,HAFB,Applesauce (ind),22,0
+1461,5/27/2022,sorority,Granola Bars,23,0
+1462,5/28/2022,Homecoming Philanthropy,Rice Krispies Treats,27,0
+1463,5/28/2022,Homecoming Philanthropy,Canned Beans,29,0
+1464,5/29/2022,Anonymous donor,Rice Krispies Treats,26,0
+1465,5/29/2022,Community Center,Applesauce (ind),30,0
+1466,5/30/2022,Local Grocery,Applesauce (ind),19,0
+1467,5/30/2022,Community Center,Fruit cup,16,0
+1468,5/30/2022,University Club,Canned Beans,32,0
+1469,5/31/2022,Local Grocery,Canned Vegetables,25,0
+1470,5/31/2022,Anonymous donor,Pasta,22,0
+1471,5/31/2022,Local Grocery,Spaghetti Rings Pasta,27,0
+1472,5/31/2022,HAFB,Peanut Butter Crackers,20,0
+1473,6/1/2022,University Club,Rice,28,0
+1474,6/1/2022,HAFB,Pasta,27,0
+1475,6/2/2022,sorority,Scent Booster,14,0
+1476,6/4/2022,Individual Donor,Testing Material/Blue Book/Scantron,30,0
+1477,6/4/2022,Anonymous donor,Rice,25,0
+1478,6/5/2022,Anonymous donor,Peanut Butter Crackers,17,0
+1479,6/8/2022,University Club,Scent Booster,17,0
+1480,6/8/2022,Community Center,Spaghetti Rings Pasta,17,0
+1481,6/9/2022,Local Grocery,Spaghetti Rings Pasta,35,0
+1482,6/9/2022,Community Center,Rice Krispies Treats,28,0
+1483,6/9/2022,HAFB,Pasta,30,0
+1484,6/10/2022,HAFB,Canned Beans,35,0
+1485,6/11/2022,Individual Donor,Fruit cup,27,0
+1486,6/11/2022,Anonymous donor,Scent Booster,21,0
+1487,6/11/2022,HAFB,Peanut Butter Crackers,28,0
+1488,6/12/2022,Local Grocery,Pasta,27,0
+1489,6/12/2022,Community Center,Pasta,31,0
+1490,6/13/2022,University Club,Peanut Butter,30,0
+1491,6/14/2022,Individual Donor,Toilet Paper,40,0
+1492,6/16/2022,Local Grocery,Granola Bars,27,0
+1493,6/17/2022,Local Grocery,Peanut Butter Crackers,40,0
+1494,6/17/2022,Local Grocery,Pasta,21,0
+1495,6/17/2022,HAFB,Softener,28,0
+1496,6/18/2022,Anonymous donor,Rice,22,0
+1497,6/18/2022,Anonymous donor,Water,31,0
+1498,6/19/2022,Individual Donor,Spaghetti Rings Pasta,32,0
+1499,6/20/2022,Local Grocery,Canned Beans,30,0
+1500,6/20/2022,HAFB,Granola Bars,20,0
+1501,6/20/2022,Individual Donor,Applesauce (ind),25,0
+1502,6/21/2022,HAFB,Green Beans,30,0
+1503,6/21/2022,Homecoming Philanthropy,Spaghetti Rings Pasta,32,0
+1504,6/22/2022,University Club,Canned Beans,21,0
+1505,6/22/2022,HAFB,Canned Vegetables,32,0
+1506,6/23/2022,University Club,Ramen,37,0
+1507,6/23/2022,Anonymous donor,Applesauce (ind),37,0
+1508,6/23/2022,HAFB,Granola Bars,22,0
+1509,6/23/2022,HAFB,Toilet Paper,27,0
+1510,6/24/2022,Anonymous donor,Rice,35,0
+1511,6/25/2022,sorority,Toilet Paper,38,0
+1512,6/27/2022,Anonymous donor,Granola Bars,34,0
+1513,6/27/2022,Anonymous donor,Cereal,22,0
+1514,6/27/2022,Individual Donor,Laundry Detergent,21,0
+1515,6/27/2022,University Club,Canned Beans,35,0
+1516,6/28/2022,HAFB,Granola Bars,28,0
+1517,6/28/2022,HAFB,"Laundry Detergent, Softener, Scent Booster",28,0
+1518,6/30/2022,HAFB,Fruit cup,24,0
+1519,6/30/2022,HAFB,Cereal,50,0
+1520,6/30/2022,University Club,Applesauce (ind),30,0
+1521,6/30/2022,Anonymous donor,Peanut Butter Crackers,32,0
+1522,6/30/2022,HAFB,Scent Booster,30,0
+1523,6/30/2022,HAFB,Granola Bars,21,0
+1524,7/2/2022,Local Grocery,Rice,2,0
+1525,7/2/2022,Anonymous donor,Pasta,2,0
+1526,7/2/2022,HAFB,Rice Crisps,3,0
+1527,7/3/2022,Local Grocery,Scent Booster,2,0
+1528,7/6/2022,HAFB,Toothpaste,1,0
+1529,7/7/2022,Anonymous donor,Rice,3,0
+1530,7/8/2022,Homecoming Philanthropy,Pasta,2,0
+1531,7/8/2022,University Club,Spaghetti Rings Pasta,1,0
+1532,7/10/2022,Anonymous donor,Granola Bars,2,0
+1533,7/10/2022,Community Center,Toilet Paper,1,0
+1534,7/10/2022,Starting Inventory,Shampoo,2,0
+1535,7/10/2022,Can Castle Contest,Cereal,1,0
+1536,7/10/2022,University Club,Peanut Butter Crackers,1,0
+1537,7/11/2022,Local Grocery,Granola Bars,3,0
+1538,7/12/2022,HAFB,Fruit / Cereal / Breakfast Bar,2,0
+1539,7/13/2022,Homecoming Philanthropy,Scent Booster,2,0
+1540,7/13/2022,Individual Donor,Cereal,2,0
+1541,7/14/2022,HAFB,Rice Krispies Treats,2,0
+1542,7/15/2022,Local Grocery,Rice,2,0
+1543,7/16/2022,HAFB,Peanut Butter Crackers,2,0
+1544,7/17/2022,HAFB,Spaghetti Rings Pasta,2,0
+1545,7/18/2022,sorority,Highlighters,3,0
+1546,7/18/2022,Troy University Nursing School,Canned Vegetables,2,0
+1547,7/18/2022,HAFB,Pasta,2,0
+1548,7/19/2022,University Club,Rice,2,0
+1549,7/19/2022,Freshmen Forum,Cereal,1,0
+1550,7/20/2022,HAFB,Scent Booster,3,0
+1551,7/20/2022,University Club,Toothpaste,1,0
+1552,7/20/2022,HAFB,Juice Boxes,1,0
+1553,7/21/2022,HAFB,Laundry Detergent,2,0
+1554,7/22/2022,Local Grocery,Toilet Paper,2,0
+1555,7/22/2022,Individual Donor,Ramen,1,0
+1556,7/22/2022,Anonymous donor,Peanut Butter Crackers,1,0
+1557,7/22/2022,HAFB,Applesauce (ind),2,0
+1558,7/24/2022,HAFB,Scent Booster,2,0
+1559,7/26/2022,HAFB,Canned Beans,2,0
+1560,7/26/2022,Anonymous donor,Light Red Kidney Beans,2,0
+1561,7/27/2022,Anonymous donor,Peanut Butter Crackers,2,0
+1562,7/28/2022,Community Center,Scent Booster,2,0
+1563,7/28/2022,Anonymous donor,Spaghetti Rings Pasta,2,0
+1564,7/28/2022,University Club,Rice,2,0
+1565,7/28/2022,Anonymous donor,Spaghetti Rings Pasta,1,0
+1566,7/28/2022,Starting Inventory,Pasta,1,0
+1567,7/29/2022,Community Center,Scent Booster,2,0
+1568,7/30/2022,Local Grocery,Juice Boxes,2,0
+1569,7/30/2022,Individual Donor,Pasta,2,0
+1570,7/30/2022,Local Grocery,Canned Beans,3,0
+1571,7/31/2022,Community Center,Toothpaste,3,0
+1572,8/1/2022,HAFB,Fruit cup,3,0
+1573,8/2/2022,Community Center,Spaghetti Rings Pasta,4,0
+1574,8/2/2022,Homecoming Philanthropy,Scent Booster,4,0
+1575,8/3/2022,Individual Donor,Pens,5,0
+1576,8/3/2022,Anonymous donor,Canned Vegetables,4,0
+1577,8/4/2022,Anonymous donor,Scent Booster,7,0
+1578,8/5/2022,HAFB,Chunk Chicken Breast,3,0
+1579,8/5/2022,HAFB,Toilet Paper,6,0
+1580,8/5/2022,Starting Inventory,Canned Vegetables,5,0
+1581,8/6/2022,Individual Donor,Fruit cup,4,0
+1582,8/6/2022,HAFB,Spaghetti Rings Pasta,5,0
+1583,8/7/2022,Individual Donor,Fruit cup,5,0
+1584,8/7/2022,Local Grocery,Rice,4,0
+1585,8/7/2022,Anonymous donor,Canned Beans,5,0
+1586,8/8/2022,Individual Donor,Ramen,7,0
+1587,8/8/2022,Anonymous donor,Spaghetti Rings Pasta,5,0
+1588,8/9/2022,Local Grocery,Applesauce (ind),4,0
+1589,8/9/2022,Local Grocery,Toilet Paper,4,0
+1590,8/10/2022,sorority,Peanut Butter Crackers,5,0
+1591,8/11/2022,Anonymous donor,Feminine Products (Pads),4,0
+1592,8/11/2022,HAFB,Toothpaste,5,0
+1593,8/11/2022,University Club,Juice Boxes,4,0
+1594,8/11/2022,Individual Donor,Pasta,5,0
+1595,8/12/2022,Community Center,Canned Beans,4,0
+1596,8/12/2022,Anonymous donor,Peanut Butter Crackers,5,0
+1597,8/12/2022,Can Castle Contest,Scent Booster,4,0
+1598,8/12/2022,HAFB,Fruit cup,2,0
+1599,8/14/2022,University Club,Canned Vegetables,4,0
+1600,8/14/2022,HAFB,Bar Soap,4,0
+1601,8/16/2022,Individual Donor,Laundry Detergent,2,0
+1602,8/16/2022,Starting Inventory,Toothpaste,3,0
+1603,8/17/2022,HAFB,Cereal (ind),2,0
+1604,8/17/2022,Individual Donor,Toilet Paper,4,0
+1605,8/17/2022,HAFB,Applesauce (ind),4,0
+1606,8/18/2022,Can Castle Contest,Green Beans,4,0
+1607,8/18/2022,University Club,Cereal,4,0
+1608,8/19/2022,Community Center,Granola Bars,4,0
+1609,8/19/2022,Community Center,Peanut Butter,3,0
+1610,8/20/2022,HAFB,Toothpaste,4,0
+1611,8/21/2022,Local Grocery,Scent Booster,3,0
+1612,8/23/2022,HAFB,Pasta,6,0
+1613,8/23/2022,Local Grocery,Toothpaste,5,0
+1614,8/25/2022,Anonymous donor,Cereal,3,0
+1615,8/25/2022,HAFB,Granola Bars,4,0
+1616,8/26/2022,HAFB,Ramen,7,0
+1617,8/26/2022,HAFB,Pretzels,3,0
+1618,8/27/2022,HAFB,Peanut Butter,5,0
+1619,8/27/2022,HAFB,Ramen,3,0
+1620,8/28/2022,University Club,Softener,4,0
+1621,8/28/2022,Community Center,Peanut Butter Crackers,5,0
+1622,8/28/2022,Local Grocery,"Laundry Detergent, Softener, Scent Booster",4,0
+1623,8/30/2022,HAFB,Spaghetti Rings Pasta,5,0
+1624,8/30/2022,Anonymous donor,Canned Beans,3,0
+1625,8/31/2022,HAFB,Applesauce (ind),4,0
+1626,8/31/2022,Anonymous donor,Fruit cup,5,0
+1627,9/1/2022,University Club,Chunk Chicken Breast,6,0
+1628,9/1/2022,Can Castle Contest,Toothpaste,9,0
+1629,9/1/2022,Individual Donor,Applesauce (ind),6,0
+1630,9/2/2022,HAFB,Juice Boxes,8,0
+1631,9/2/2022,Anonymous donor,Granola Bars,9,0
+1632,9/3/2022,Anonymous donor,Scent Booster,8,0
+1633,9/3/2022,Starting Inventory,Applesauce (ind),8,0
+1634,9/3/2022,Local Grocery,Rice,5,0
+1635,9/4/2022,Community Center,Juice Boxes,6,0
+1636,9/4/2022,Anonymous donor,Canned Vegetables,6,0
+1637,9/5/2022,Individual Donor,"Laundry Detergent, Softener, Scent Booster",8,0
+1638,9/5/2022,HAFB,Toothpaste,9,0
+1639,9/6/2022,Community Center,Pasta,5,0
+1640,9/7/2022,University Club,Canned Vegetables,6,0
+1641,9/7/2022,University Club,Canned Beans,7,0
+1642,9/8/2022,HAFB,Juice Boxes,8,0
+1643,9/9/2022,Starting Inventory,Softener,5,0
+1644,9/9/2022,HAFB,Canned Vegetables,5,0
+1645,9/10/2022,Individual Donor,Toilet Paper,6,0
+1646,9/11/2022,Community Center,Toothbrushes,4,0
+1647,9/12/2022,Anonymous donor,Feminine Products (Pads),11,0
+1648,9/12/2022,Community Center,Canned Beans,4,0
+1649,9/13/2022,Anonymous donor,Canned Vegetables,8,0
+1650,9/13/2022,NPHC,Toothpaste,8,0
+1651,9/14/2022,HAFB,Rice,6,0
+1652,9/14/2022,Community Center,Granola Bars,12,0
+1653,9/14/2022,HAFB,Juice Boxes,11,0
+1654,9/15/2022,Local Grocery,Softener,6,0
+1655,9/16/2022,Police Amnesty Day,Peanut Butter Crackers,6,0
+1656,9/17/2022,HAFB,Chips/Crackers,7,0
+1657,9/17/2022,Community Center,Pasta,10,0
+1658,9/17/2022,HAFB,Cereal,7,0
+1659,9/18/2022,University Club,Toilet Paper,6,0
+1660,9/19/2022,Local Grocery,Pasta,7,0
+1661,9/19/2022,Individual Donor,Chunk Chicken Breast,8,0
+1662,9/19/2022,HAFB,Beefaroni,6,0
+1663,9/21/2022,HAFB,Juice Boxes,7,0
+1664,9/23/2022,Anonymous donor,Rice Krispies Treats,9,0
+1665,9/23/2022,HAFB,Fruit cup,6,0
+1666,9/25/2022,HAFB,Applesauce (ind),6,0
+1667,9/25/2022,Individual Donor,Peanut Butter,6,0
+1668,9/27/2022,MGM Non-profit,Granola Bars,7,0
+1669,9/27/2022,Anonymous donor,Ramen,5,0
+1670,9/27/2022,Local Grocery,Spaghetti Rings Pasta,7,0
+1671,9/29/2022,Individual Donor,Oatmeal,5,0
+1672,9/29/2022,HAFB,Canned Beans,6,0
+1673,10/1/2022,HAFB,Granola Bars,11,0
+1674,10/2/2022,HAFB,Peanut Butter,15,0
+1675,10/3/2022,Individual Donor,Vienna Sausages,14,0
+1676,10/3/2022,University Club,Ramen,12,0
+1677,10/4/2022,Starting Inventory,Laundry Detergent,6,0
+1678,10/5/2022,Anonymous donor,Pasta,15,0
+1679,10/5/2022,University Club,Bar Soap,9,0
+1680,10/6/2022,Local Grocery,Applesauce (ind),10,0
+1681,10/6/2022,Starting Inventory,Applesauce (ind),18,0
+1682,10/7/2022,University Club,Rice Krispies Treats,10,0
+1683,10/7/2022,Anonymous donor,Spaghetti Rings Pasta,15,0
+1684,10/8/2022,University Club,Granola Bars,11,0
+1685,10/8/2022,Community Center,Pork and Beans,9,0
+1686,10/9/2022,Anonymous donor,Toothpaste,12,0
+1687,10/10/2022,University Club,Ramen,14,0
+1688,10/12/2022,Local Grocery,Chips/Crackers,15,0
+1689,10/12/2022,HAFB,Scent Booster,6,0
+1690,10/14/2022,Anonymous donor,Ramen,12,0
+1691,10/14/2022,Individual Donor,Toothpaste,11,0
+1692,10/14/2022,Local Grocery,Rice Krispies Treats,10,0
+1693,10/15/2022,Community Center,Peanut Butter,11,0
+1694,10/15/2022,Local Grocery,Ramen,10,0
+1695,10/17/2022,HAFB,Rice Krispies Treats,15,0
+1696,10/18/2022,HAFB,Rice,11,0
+1697,10/18/2022,HAFB,Scent Booster,15,0
+1698,10/18/2022,Amnesty Day,Rice,10,0
+1699,10/19/2022,Community Center,Peanut Butter Crackers,11,0
+1700,10/19/2022,Anonymous donor,Canned Vegetables,7,0
+1701,10/19/2022,HAFB,Ramen,9,0
+1702,10/20/2022,MGM Non-profit,Pasta,9,0
+1703,10/24/2022,Anonymous donor,Canned Beans,11,0
+1704,10/24/2022,Anonymous donor,Peanut Butter,17,0
+1705,10/25/2022,MGM Non-profit,Granola Bars,8,0
+1706,10/25/2022,Anonymous donor,Granola Bars,17,0
+1707,10/25/2022,HAFB,Peanut Butter Crackers,11,0
+1708,10/26/2022,Local Grocery,Applesauce (ind),9,0
+1709,10/26/2022,Homecoming Philanthropy,Pasta,8,0
+1710,10/26/2022,Local Grocery,Pasta,16,0
+1711,10/27/2022,Anonymous donor,Peanut Butter Crackers,11,0
+1712,10/30/2022,Local Grocery,Peanut Butter Crackers,7,0
+1713,10/30/2022,University Club,Rice Krispies Treats,12,0
+1714,10/30/2022,Local Grocery,Canned Vegetables,12,0
+1715,10/31/2022,Anonymous donor,Softener,9,0
+1716,10/31/2022,HAFB,Toilet Paper,13,0
+1717,11/1/2022,Community Center,Fruit cup,12,0
+1718,11/1/2022,University Club,Softener,12,0
+1719,11/1/2022,Individual Donor,Scent Booster,14,0
+1720,11/4/2022,HAFB,Softener,17,0
+1721,11/4/2022,HAFB,Rice Krispies Treats,9,0
+1722,11/6/2022,HAFB,Pasta,13,0
+1723,11/9/2022,HAFB,Granola Bars,16,0
+1724,11/11/2022,Individual Donor,Fruit cup,11,0
+1725,11/11/2022,Local Grocery,Scent Booster,13,0
+1726,11/12/2022,University Club,Applesauce (ind),10,0
+1727,11/12/2022,Anonymous donor,Lotion,9,0
+1728,11/12/2022,Homecoming Philanthropy,Rice Krispies Treats,12,0
+1729,11/13/2022,Anonymous donor,Scent Booster,7,0
+1730,11/13/2022,HAFB,Scent Booster,19,0
+1731,11/14/2022,Anonymous donor,Ramen,13,0
+1732,11/14/2022,Individual Donor,Applesauce (ind),9,0
+1733,11/15/2022,sorority,Scent Booster,12,0
+1734,11/16/2022,HAFB,Toothpaste,9,0
+1735,11/16/2022,Community Center,Scent Booster,13,0
+1736,11/16/2022,University Club,Rice,16,0
+1737,11/17/2022,Individual Donor,Toothpaste,13,0
+1738,11/17/2022,Anonymous donor,Canned Vegetables,13,0
+1739,11/18/2022,Local Grocery,Rice,13,0
+1740,11/20/2022,HAFB,Fruit cup,15,0
+1741,11/20/2022,University Club,Toilet Paper,5,0
+1742,11/20/2022,Individual Donor,Peanut Butter Crackers,11,0
+1743,11/21/2022,HAFB,Peanut Butter,11,0
+1744,11/22/2022,Anonymous donor,Sparkling Water,13,0
+1745,11/23/2022,Individual Donor,Canned Beans,18,0
+1746,11/23/2022,University Club,Rice,10,0
+1747,11/23/2022,HAFB,Cereal,9,0
+1748,11/23/2022,Individual Donor,Ramen,8,0
+1749,11/24/2022,Individual Donor,Pasta,15,0
+1750,11/26/2022,HAFB,Laundry Detergent,11,0
+1751,11/26/2022,Individual Donor,Pasta,11,0
+1752,11/26/2022,Individual Donor,Bar Soap,12,0
+1753,11/30/2022,MGM Non-profit,Rice,7,0
+1754,11/30/2022,Anonymous donor,Spaghetti Rings Pasta,12,0
+1755,11/30/2022,University Club,Spaghetti Rings Pasta,15,0
+1756,12/1/2022,HAFB,Spaghetti Rings Pasta,1,0
+1757,12/1/2022,MGM Non-profit,Cereal,18,0
+1758,12/1/2022,Homecoming Philanthropy,Canned Vegetables,2,0
+1759,12/2/2022,Community Center,Canned Vegetables,12,0
+1760,12/2/2022,University Club,Granola / Snack Bars,34,0
+1761,12/3/2022,Starting Inventory,Peanut Butter Crackers,24,0
+1762,12/3/2022,HAFB,Peanut Butter,24,0
+1763,12/4/2022,HAFB,Laundry Detergent,12,0
+1764,12/5/2022,HAFB,Toilet Paper,1,0
+1765,12/5/2022,University Club,Applesauce (ind),3,0
+1766,12/7/2022,Community Center,Juice,4,0
+1767,12/8/2022,Individual Donor,Applesauce (ind),5,0
+1768,12/8/2022,Community Center,Laundry Detergent,4,0
+1769,12/9/2022,Community Center,Toilet Paper,1,0
+1770,12/10/2022,University Club,Granola Bars,634,0
+1771,12/10/2022,Individual Donor,Spaghetti Rings Pasta,1,0
+1772,12/11/2022,Local Grocery,Juice Boxes,2,0
+1773,12/13/2022,Local Grocery,Pasta,21,0
+1774,12/13/2022,HAFB,Cereal,2,0
+1775,12/13/2022,HAFB,Cereal,1,0
+1776,12/14/2022,Individual Donor,Granola Bars,12,0
+1777,12/15/2022,HAFB,Canned Beans,1,0
+1778,12/15/2022,Community Center,Peanut Butter Crackers,15,0
+1779,12/16/2022,Community Center,Corn,1,0
+1780,12/17/2022,Local Grocery,Granola Bars,64,0
+1781,12/17/2022,Anonymous donor,Pens,12,0
+1782,12/18/2022,HAFB,Cereal,32,0
+1783,12/18/2022,Housing,Peanut Butter Crackers,2,0
+1784,12/18/2022,sorority,Rice,32,0
+1785,12/19/2022,Amnesty Day,Pencils,34,0
+1786,12/19/2022,Anonymous donor,Toothpaste,4,0
+1787,12/20/2022,HAFB,Peanut Butter Crackers,3,0
+1788,12/21/2022,Local Grocery,Chicken and Stars,10,0
+1789,12/21/2022,Local Grocery,Granola Bars,23,0
+1790,12/22/2022,Anonymous donor,Vegetable and Beef Soup,3,0
+1791,12/23/2022,Local Grocery,Peanut Butter,23,0
+1792,12/25/2022,Local Grocery,Rice Krispies Treats,12,0
+1793,12/26/2022,Anonymous donor,Canned Beans,2,0
+1794,12/26/2022,Local Grocery,Cereal,31,0
+1795,12/26/2022,Anonymous donor,Spaghetti Rings Pasta,12,0
+1796,12/27/2022,Anonymous donor,Spaghetti Rings Pasta,232,0
+1797,12/28/2022,Local Grocery,Granola Bars,312,0
+1798,12/29/2022,HAFB,Scent Booster,3,0
+1799,12/30/2022,Local Grocery,Juice Boxes,34,0
+1800,12/30/2022,University Club,Fruit / Cereal / Breakfast Bar,2,0
+1801,2/27/2023,Starting Inventory,Applesauce (ind),111,0
+1802,2/27/2023,Starting Inventory,Asparagus,3,0
+1803,2/27/2023,Starting Inventory,Baked Beans,41,0
+1804,2/27/2023,Starting Inventory,Bean with Bacon Soup,3,0
+1805,2/27/2023,Starting Inventory,Beans and Rice,2,0
+1806,2/27/2023,Starting Inventory,Beefaroni,12,0
+1807,2/27/2023,Starting Inventory,Beets,6,0
+1808,2/27/2023,Starting Inventory,Black Beans,13,0
+1809,2/27/2023,Starting Inventory,Black-Eyed Peas,10,0
+1810,2/27/2023,Starting Inventory,Boiled Peanuts,2,0
+1811,2/27/2023,Starting Inventory,Butter Beans,3,0
+1812,2/27/2023,Starting Inventory,Canned Potatoes,40,0
+1813,2/27/2023,Starting Inventory,Cannellini Beans,2,0
+1814,2/27/2023,Starting Inventory,Carrots,59,0
+1815,2/27/2023,Starting Inventory,Cereal,32,0
+1816,2/27/2023,Starting Inventory,Chicken in Chili Sauce,2,0
+1817,2/27/2023,Starting Inventory,Chicken Noodle Soup,105,0
+1818,2/27/2023,Starting Inventory,Chili Beans,47,0
+1819,2/27/2023,Starting Inventory,Chili with Beans,12,0
+1820,2/27/2023,Starting Inventory,Chowder,1,0
+1821,2/27/2023,Starting Inventory,Chunk Chicken Breast,15,0
+1822,2/27/2023,Starting Inventory,Cookies,1,0
+1823,2/27/2023,Starting Inventory,Corn,168,0
+1824,2/27/2023,Starting Inventory,Corn Syrup,1,0
+1825,2/27/2023,Starting Inventory,Cranberry Sauce,1,0
+1826,2/27/2023,Starting Inventory,Cream of Celery,2,0
+1827,2/27/2023,Starting Inventory,Cream of Chicken,3,0
+1828,2/27/2023,Starting Inventory,Cream of Mushroom,4,0
+1829,2/27/2023,Starting Inventory,Dark Red Kidney Beans,44,0
+1830,2/27/2023,Starting Inventory,Diced Tomatoes,20,0
+1831,2/27/2023,Starting Inventory,Fruit Cocktail,9,0
+1832,2/27/2023,Starting Inventory,Garbanzo Beans,2,0
+1833,2/27/2023,Starting Inventory,Granola / Snack Bars,42,0
+1834,2/27/2023,Starting Inventory,Green Beans,354,0
+1835,2/27/2023,Starting Inventory,Jelly,25,0
+1836,2/27/2023,Starting Inventory,Leafy Greens,6,0
+1837,2/27/2023,Starting Inventory,Light Red Kidney Beans,20,0
+1838,2/27/2023,Starting Inventory,Mac and Cheese,46,0
+1839,2/27/2023,Starting Inventory,Milk,1,0
+1840,2/27/2023,Starting Inventory,Mixed Vegetables,9,0
+1841,2/27/2023,Starting Inventory,Mushrooms,2,0
+1842,2/27/2023,Starting Inventory,Navy Beans,2,0
+1843,2/27/2023,Starting Inventory,Northern Beans,38,0
+1844,2/27/2023,Starting Inventory,Nutri Grain Bars,27,0
+1845,2/27/2023,Starting Inventory,Oatmeal,75,0
+1846,2/27/2023,Starting Inventory,Okra,1,0
+1847,2/27/2023,Starting Inventory,Olives,1,0
+1848,2/27/2023,Starting Inventory,Peaches,1,0
+1849,2/27/2023,Starting Inventory,Peanut Butter,1,0
+1850,2/27/2023,Starting Inventory,Peanut Butter Crackers,168,0
+1851,2/27/2023,Starting Inventory,Pear Halves,9,0
+1852,2/27/2023,Starting Inventory,Peas,85,0
+1853,2/27/2023,Starting Inventory,Pineapple,6,0
+1854,2/27/2023,Starting Inventory,Pinto Beans,18,0
+1855,2/27/2023,Starting Inventory,Pork and Beans,21,0
+1856,2/27/2023,Starting Inventory,Ramen,206,0
+1857,2/27/2023,Starting Inventory,Ravioli,52,0
+1858,2/27/2023,Starting Inventory,Red Beans,15,0
+1859,2/27/2023,Starting Inventory,Refried Beans,1,0
+1860,2/27/2023,Starting Inventory,Rice,3,0
+1861,2/27/2023,Starting Inventory,Seasonings,1,0
+1862,2/27/2023,Starting Inventory,Sloppy Joe Sauce,3,0
+1863,2/27/2023,Starting Inventory,Soy Sauce,1,0
+1864,2/27/2023,Starting Inventory,Spaghetti Meatballs,14,0
+1865,2/27/2023,Starting Inventory,Spaghetti Noodles,1,0
+1866,2/27/2023,Starting Inventory,Spaghetti Rings Pasta,44,0
+1867,2/27/2023,Starting Inventory,Spaghetti Sauce,12,0
+1868,2/27/2023,Starting Inventory,Spam,3,0
+1869,2/27/2023,Starting Inventory,Spinach,7,0
+1870,2/27/2023,Starting Inventory,Tomato Sauce,2,0
+1871,2/27/2023,Starting Inventory,Tomato Soup,24,0
+1872,2/27/2023,Starting Inventory,Trail Mix,13,0
+1873,2/27/2023,Starting Inventory,Tuna,109,0
+1874,2/27/2023,Starting Inventory,Vegetable and Beef Soup,2,0
+1875,2/27/2023,Starting Inventory,Vienna Sausages,46,0
+1876,2/27/2023,Starting Inventory,Yams,1,0
+1877,2/28/2023,Starting Inventory,Applesauce (ind),1,0
+1878,2/28/2023,Starting Inventory,Baked Beans,3,0
+1879,2/28/2023,Starting Inventory,Bar Soap,7,0
+1880,2/28/2023,Starting Inventory,Bean with Bacon Soup,1,0
+1881,2/28/2023,Starting Inventory,Beans and Rice,1,0
+1882,2/28/2023,Starting Inventory,Beefaroni,29,0
+1883,2/28/2023,Starting Inventory,Beets,1,0
+1884,2/28/2023,Starting Inventory,Black-Eyed Peas,5,0
+1885,2/28/2023,Starting Inventory,Broccoli and Cheese,1,0
+1886,2/28/2023,Starting Inventory,Cabbage,1,0
+1887,2/28/2023,Starting Inventory,Canned Potatoes,3,0
+1888,2/28/2023,Starting Inventory,Carrots,27,0
+1889,2/28/2023,Starting Inventory,Chicken Noodle Soup,49,0
+1890,2/28/2023,Starting Inventory,Chili Beans,5,0
+1891,2/28/2023,Starting Inventory,Chili with Beans,2,0
+1892,2/28/2023,Starting Inventory,Chunk Chicken Breast,6,0
+1893,2/28/2023,Starting Inventory,Corn,102,0
+1894,2/28/2023,Starting Inventory,Corn Muffin,1,0
+1895,2/28/2023,Starting Inventory,Cranberry Sauce,3,0
+1896,2/28/2023,Starting Inventory,Cream of Chicken,16,0
+1897,2/28/2023,Starting Inventory,Cream of Mushroom,15,0
+1898,2/28/2023,Starting Inventory,Cream of Potato,12,0
+1899,2/28/2023,Starting Inventory,Dark Red Kidney Beans,3,0
+1900,2/28/2023,Starting Inventory,Diced Tomatoes,2,0
+1901,2/28/2023,Starting Inventory,Garbanzo Beans,2,0
+1902,2/28/2023,Starting Inventory,Green Beans,141,0
+1903,2/28/2023,Starting Inventory,Jelly,8,0
+1904,2/28/2023,Starting Inventory,Lasagna,1,0
+1905,2/28/2023,Starting Inventory,Leafy Greens,1,0
+1906,2/28/2023,Starting Inventory,Light Red Kidney Beans,8,0
+1907,2/28/2023,Starting Inventory,Lima Beans,5,0
+1908,2/28/2023,Starting Inventory,Mac and Cheese,57,0
+1909,2/28/2023,Starting Inventory,Mixed Vegetables,16,0
+1910,2/28/2023,Starting Inventory,,4,0
+1911,2/28/2023,Starting Inventory,Notebooks,3,0
+1912,2/28/2023,Starting Inventory,Okra,2,0
+1913,2/28/2023,Starting Inventory,Pasta in Tomato and Cheese Sauce,2,0
+1914,2/28/2023,Starting Inventory,Peaches,2,0
+1915,2/28/2023,Starting Inventory,Peanut Butter,33,0
+1916,2/28/2023,Starting Inventory,Peas,28,0
+1917,2/28/2023,Starting Inventory,Pencils,6,0
+1918,2/28/2023,Starting Inventory,Pens,1,0
+1919,2/28/2023,Starting Inventory,Pinto Beans,10,0
+1920,2/28/2023,Starting Inventory,Pork and Beans,6,0
+1921,2/28/2023,Starting Inventory,Pumpkin,1,0
+1922,2/28/2023,Starting Inventory,Ramen,62,0
+1923,2/28/2023,Starting Inventory,Ravioli,1,0
+1924,2/28/2023,Starting Inventory,Salmon,1,0
+1925,2/28/2023,Starting Inventory,Sardines,1,0
+1926,2/28/2023,Starting Inventory,Spaghetti Meatballs,4,0
+1927,2/28/2023,Starting Inventory,Spaghetti Rings Pasta,4,0
+1928,2/28/2023,Starting Inventory,Spinach,1,0
+1929,2/28/2023,Starting Inventory,Squash with Onions,1,0
+1930,2/28/2023,Starting Inventory,Sweet Potatoes,1,0
+1931,2/28/2023,Starting Inventory,Tide Pods,27,0
+1932,2/28/2023,Starting Inventory,Tomato Soup,3,0
+1933,2/28/2023,Starting Inventory,Toothbrushes,71,0
+1934,2/28/2023,Starting Inventory,Tuna,21,0
+1935,2/28/2023,Starting Inventory,Vienna Sausages,20,0
+1936,3/2/2023,Starting Inventory,Alfredo,2,0
+1937,3/2/2023,Starting Inventory,Bread,35,0
+1938,3/2/2023,Starting Inventory,Cake,1,0
+1939,3/2/2023,Starting Inventory,Cereal,2,0
+1940,3/2/2023,Starting Inventory,Chicken Noodle Soup,1,0
+1941,3/2/2023,Starting Inventory,Chowder,1,0
+1942,3/2/2023,Starting Inventory,Corn,1,0
+1943,3/2/2023,Starting Inventory,Green Beans,1,0
+1944,3/2/2023,Starting Inventory,Hamburger Helper/Boxed Dinners,1,0
+1945,3/2/2023,Starting Inventory,Nutri Grain Bars,2,0
+1946,3/2/2023,Starting Inventory,Oatmeal,21,0
+1947,3/2/2023,Starting Inventory,Peanut Butter Crackers,21,0
+1948,3/2/2023,Starting Inventory,Ramen,4,0
+1949,3/2/2023,Starting Inventory,Spaghetti Noodles,1,0
+1950,3/2/2023,Starting Inventory,Tomato Soup,1,0
+1951,3/2/2023,Starting Inventory,Trail Mix,1,0
+1952,3/3/2023,Starting Inventory,Alfredo,5,0
+1953,3/3/2023,Starting Inventory,Can Openers,13,0
+1954,3/3/2023,Starting Inventory,Chunk Chicken Breast,8,0
+1955,3/3/2023,Starting Inventory,Deodorant,2,0
+1956,3/3/2023,Starting Inventory,,28,0
+1957,3/3/2023,Starting Inventory,Rice,1,0
+1958,3/3/2023,Starting Inventory,Shampoo,1,0
+1959,3/6/2023,Starting Inventory,Baked Beans,1,0
+1960,3/6/2023,Starting Inventory,Black Beans,28,0
+1961,3/6/2023,Starting Inventory,Black-Eyed Peas,2,0
+1962,3/6/2023,Starting Inventory,Chili Beans,10,0
+1963,3/6/2023,Starting Inventory,Chili with no beans,1,0
+1964,3/6/2023,Starting Inventory,Corn,39,0
+1965,3/6/2023,Starting Inventory,Dark Red Kidney Beans,3,0
+1966,3/6/2023,Starting Inventory,Light Red Kidney Beans,7,0
+1967,3/6/2023,Starting Inventory,Mixed Vegetables,1,0
+1968,3/6/2023,Starting Inventory,Navy Beans,1,0
+1969,3/6/2023,Starting Inventory,Northern Beans,1,0
+1970,3/6/2023,Starting Inventory,Onion,1,0
+1971,3/6/2023,Starting Inventory,Pinto Beans,14,0
+1972,3/6/2023,Starting Inventory,Pork and Beans,5,0
+1973,3/8/2023,Starting Inventory,Baked Beans,2,0
+1974,3/8/2023,Starting Inventory,Bar Soap,3,0
+1975,3/8/2023,Starting Inventory,Chicken and Dumplings,1,0
+1976,3/8/2023,Starting Inventory,Granola / Snack Bars,24,0
+1977,3/8/2023,Starting Inventory,Mac and Cheese,16,0
+1978,3/8/2023,Starting Inventory,Milk,8,0
+1979,3/8/2023,Starting Inventory,Oatmeal,38,0
+1980,3/8/2023,Starting Inventory,Peanut Butter Crackers,67,0
+1981,3/8/2023,Starting Inventory,Ramen,12,0
+1982,3/8/2023,Starting Inventory,Rice,4,0
+1983,3/8/2023,Starting Inventory,Tuna,4,0
+1984,3/20/2023,Anonymous donor,Cake Mix,10,0
+1985,3/20/2023,Anonymous donor,Cereal,10,0
+1986,3/20/2023,Anonymous donor,Chocolate Syrup,2,0
+1987,3/20/2023,Anonymous donor,Cookies,2,0
+1988,3/20/2023,Anonymous donor,Dressing,4,0
+1989,3/20/2023,Anonymous donor,Jelly,5,0
+1990,3/20/2023,Anonymous donor,Mayo,2,0
+1991,3/20/2023,Anonymous donor,Pancake and Waffle mix,2,0
+1992,3/20/2023,Anonymous donor,Peanut Butter,7,0
+1993,3/20/2023,Anonymous donor,Pickles,9,0
+1994,3/20/2023,Anonymous donor,PopTarts,6,0
+1995,3/20/2023,Anonymous donor,Pork and Beans,3,0
+1996,3/20/2023,Anonymous donor,Salt,2,0
+1997,3/20/2023,Anonymous donor,Spaghetti Rings Pasta,4,0
+1998,3/20/2023,Anonymous donor,Syrup,5,0
+1999,3/20/2023,Anonymous donor,Tea,7,0
+2000,3/27/2023,Starting Inventory,Alfredo,20,0
+2001,3/27/2023,Starting Inventory,Bread,8,0
+2002,3/27/2023,Starting Inventory,Cereal,30,0
+2003,3/27/2023,Starting Inventory,Chips/Crackers,65,0
+2004,3/27/2023,Starting Inventory,Chunk Chicken Breast,10,0
+2005,3/27/2023,Starting Inventory,Granola / Snack Bars,35,0
+2006,3/27/2023,Starting Inventory,Grits (ind),24,0
+2007,3/27/2023,Starting Inventory,Mac and Cheese,25,0
+2008,3/27/2023,Starting Inventory,Milk,4,0
+2009,3/27/2023,Starting Inventory,Oatmeal,40,0
+2010,3/27/2023,Starting Inventory,Peanut Butter Crackers,40,0
+2011,3/27/2023,Starting Inventory,Pho,5,0
+2012,3/27/2023,Starting Inventory,Ramen,36,0
+2013,3/27/2023,Starting Inventory,Rice,15,0
+2014,3/27/2023,Starting Inventory,Spaghetti Noodles,8,0
+2015,3/27/2023,Starting Inventory,Trail Mix,8,0
+2016,3/29/2023,Starting Inventory,Chalk,1,0
+2017,3/29/2023,Starting Inventory,Fruit cup,12,0
+2018,3/30/2023,Anonymous donor,Feminine Products (Pads),19,0
+2019,3/31/2023,Anonymous donor,Binders,12,0
+2020,3/31/2023,Anonymous donor,Clipboard,1,0
+2021,3/31/2023,Anonymous donor,Hand sanitizer,2,0
+2022,3/31/2023,Anonymous donor,"Laundry Detergent, Softener, Scent Booster",4,0
+2023,3/31/2023,Anonymous donor,Mac and Cheese,16,0
+2024,3/31/2023,Anonymous donor,Miscellaneous Hair Care,1,0
+2025,3/31/2023,Anonymous donor,,8,0
+2026,3/31/2023,Anonymous donor,Notebooks,1,0
+2027,3/31/2023,Anonymous donor,Oatmeal,20,0
+2028,3/31/2023,Anonymous donor,Page-protector,67,0
+2029,3/31/2023,Anonymous donor,Paper,1,0
+2030,3/31/2023,Anonymous donor,Pencils,6,0
+2031,4/3/2023,Anonymous donor,Alfredo,11,0
+2032,4/3/2023,Anonymous donor,Bar Soap,73,0
+2033,4/3/2023,Anonymous donor,Bodywash,32,0
+2034,4/3/2023,Anonymous donor,Brush/comb,7,0
+2035,4/3/2023,Anonymous donor,Cereal,24,0
+2036,4/3/2023,Anonymous donor,Chips/Crackers,87,0
+2037,4/3/2023,Anonymous donor,Chunk Chicken Breast,11,0
+2038,4/3/2023,Anonymous donor,Conditioner,19,0
+2039,4/3/2023,Anonymous donor,Cotton Product,2,0
+2040,4/3/2023,Anonymous donor,Deodorant,57,0
+2041,4/3/2023,Anonymous donor,Facial Product,2,0
+2042,4/3/2023,Anonymous donor,Fruit cup,12,0
+2043,4/3/2023,Anonymous donor,Granola / Snack Bars,21,0
+2044,4/3/2023,Anonymous donor,Grits (ind),21,0
+2045,4/3/2023,Anonymous donor,Lotion,7,0
+2046,4/3/2023,Anonymous donor,Mac and Cheese,28,0
+2047,4/3/2023,Anonymous donor,Oatmeal,20,0
+2048,4/3/2023,Anonymous donor,Perfume,1,0
+2049,4/3/2023,Anonymous donor,Pho,1,0
+2050,4/3/2023,Anonymous donor,Ramen,36,0
+2051,4/3/2023,Anonymous donor,Rice,13,0
+2052,4/3/2023,Anonymous donor,Shampoo,28,0
+2053,4/3/2023,Anonymous donor,Shaving Razor,21,0
+2054,4/3/2023,Anonymous donor,Spaghetti Noodles,5,0
+2055,4/3/2023,Anonymous donor,Toothbrushes,172,0
+2056,4/3/2023,Anonymous donor,Towel,2,0
+2057,4/3/2023,Anonymous donor,Trail Mix,8,0
+2058,4/7/2023,Anonymous donor,Bar Soap,2,0
+2059,4/7/2023,Anonymous donor,Dental Floss,2,0
+2060,4/7/2023,Anonymous donor,Feminine Products (Pads),46,0
+2061,4/7/2023,Anonymous donor,Feminine Products (Tampons),58,0
+2062,4/7/2023,Anonymous donor,Mouthwash,2,0
+2063,4/7/2023,Anonymous donor,,15,0
+2064,4/7/2023,Anonymous donor,Toothbrushes,81,0
+2065,4/7/2023,Anonymous donor,Toothpaste,54,0
+2066,4/21/2023,Anonymous donor,Alfredo,3,0
+2067,4/21/2023,Anonymous donor,Boxed Pasta,2,0
+2068,4/21/2023,Anonymous donor,Cereal,1,0
+2069,4/21/2023,Anonymous donor,Chips/Crackers,32,0
+2070,4/21/2023,Anonymous donor,Cookies,2,0
+2071,4/21/2023,Anonymous donor,Granola / Snack Bars,8,0
+2072,4/21/2023,Anonymous donor,Grits (can/package),5,0
+2073,4/21/2023,Anonymous donor,Mac and Cheese,17,0
+2074,4/21/2023,Anonymous donor,Nuts,1,0
+2075,4/21/2023,Anonymous donor,Pineapple,2,0
+2076,4/21/2023,Anonymous donor,Ramen,41,0
+2077,4/21/2023,Anonymous donor,Rice,2,0
+2078,4/21/2023,Anonymous donor,Scalloped Potatoes,1,0
+2079,4/21/2023,Anonymous donor,Stuffing Mix,2,0
+2080,4/24/2023,Anonymous donor,Alfredo,1,0
+2081,4/24/2023,Anonymous donor,Hamburger Helper/Boxed Dinners,2,0
+2082,4/24/2023,Anonymous donor,Hot Chocolate Mix,1,0
+2083,4/24/2023,Anonymous donor,Lasagna,4,0
+2084,4/24/2023,Anonymous donor,Mac and Cheese,17,0
+2085,4/24/2023,Anonymous donor,Mashed Potatoes (boxed),1,0
+2086,4/24/2023,Anonymous donor,Ramen,34,0
+2087,4/24/2023,Anonymous donor,Rice,5,0
+2088,4/24/2023,Anonymous donor,Scalloped Potatoes,1,0
+2089,4/24/2023,Anonymous donor,Spaghetti Noodles,3,0
+2090,4/24/2023,Anonymous donor,Tuna,1,0
+2091,4/27/2023,Anonymous donor,Bodywash,3,0
+2092,4/27/2023,Anonymous donor,Chips/Crackers,4,0
+2093,4/27/2023,Anonymous donor,Fruit / Cereal / Breakfast Bar,2,0
+2094,4/27/2023,Anonymous donor,Hand Soap,2,0
+2095,4/27/2023,Anonymous donor,Mac and Cheese,1,0
+2096,4/27/2023,Anonymous donor,Ramen,24,0
+2097,4/27/2023,Anonymous donor,Rice,2,0
+2098,4/28/2023,Anonymous donor,Chips/Crackers,43,0
+2099,4/28/2023,Anonymous donor,Granola / Snack Bars,6,0
+2100,4/28/2023,Anonymous donor,Mac and Cheese,4,0
+2101,4/28/2023,Anonymous donor,Treat / Candy (individual),10,0
+2102,4/28/2023,Anonymous donor,Water,3,0
+2103,5/1/2023,Anonymous donor,Beefaroni,3,0
+2104,5/1/2023,Anonymous donor,Boxed Pasta,4,0
+2105,5/1/2023,Anonymous donor,Cereal,4,0
+2106,5/1/2023,Anonymous donor,Chips/Crackers,3,0
+2107,5/1/2023,Anonymous donor,Chunk Chicken Breast,2,0
+2108,5/1/2023,Anonymous donor,Jelly,3,0
+2109,5/1/2023,Anonymous donor,"Laundry Detergent, Softener, Scent Booster",2,0
+2110,5/1/2023,Anonymous donor,Mashed Potatoes (boxed),2,0
+2111,5/1/2023,Anonymous donor,Peanut Butter,3,0
+2112,5/1/2023,Anonymous donor,Rice,2,0
+2113,5/1/2023,Anonymous donor,Spaghetti Rings Pasta,3,0
+2114,5/16/2023,Troy University Nursing School,Antibacterial wipes (skin),3,0
+2115,5/16/2023,Troy University Nursing School,Bar Soap,120,0
+2116,5/16/2023,Troy University Nursing School,Bodywash,43,0
+2117,5/16/2023,Troy University Nursing School,Conditioner,34,0
+2118,5/16/2023,Troy University Nursing School,Deodorant,54,0
+2119,5/16/2023,Troy University Nursing School,Dish Soap,2,0
+2120,5/16/2023,Troy University Nursing School,Feminine Products (Pads),29,0
+2121,5/16/2023,Troy University Nursing School,Feminine Products (Tampons),13,0
+2122,5/16/2023,Troy University Nursing School,Hand Soap,9,0
+2123,5/16/2023,Troy University Nursing School,"Laundry Detergent, Softener, Scent Booster",30,0
+2124,5/16/2023,Troy University Nursing School,Lotion,14,0
+2125,5/16/2023,Troy University Nursing School,Paper towels,11,0
+2126,5/16/2023,Troy University Nursing School,Shampoo,22,0
+2127,5/16/2023,Troy University Nursing School,Shaving Cream / Gel,4,0
+2128,5/16/2023,Troy University Nursing School,Toilet Paper,139,0
+2129,5/16/2023,Troy University Nursing School,Toothbrushes,17,0
+2130,5/16/2023,Troy University Nursing School,Toothpaste,12,0
+2131,5/16/2023,Troy University Nursing School,Washcloth,1,0
+2132,6/9/2023,Can Castle Contest,Baked Beans,9,0
+2133,6/9/2023,Can Castle Contest,Bean with Bacon Soup,4,0
+2134,6/9/2023,Can Castle Contest,Beefaroni,1,0
+2135,6/9/2023,Can Castle Contest,Beets,1,0
+2136,6/9/2023,Can Castle Contest,Black Beans,15,0
+2137,6/9/2023,Can Castle Contest,Black-Eyed Peas,4,0
+2138,6/9/2023,Can Castle Contest,Boiled Peanuts,2,0
+2139,6/9/2023,Can Castle Contest,Cabbage,1,0
+2140,6/9/2023,Can Castle Contest,Canned Potatoes,10,0
+2141,6/9/2023,Can Castle Contest,Carrots,8,0
+2142,6/9/2023,Can Castle Contest,Cereal,8,0
+2143,6/9/2023,Can Castle Contest,Chicken and Dumplings,1,0
+2144,6/9/2023,Can Castle Contest,Chicken and rice soup,20,0
+2145,6/9/2023,Can Castle Contest,Chicken and Sausage,1,0
+2146,6/9/2023,Can Castle Contest,Chicken broth,8,0
+2147,6/9/2023,Can Castle Contest,Chicken Noodle Soup,64,0
+2148,6/9/2023,Can Castle Contest,Chili Beans,10,0
+2149,6/9/2023,Can Castle Contest,Chili with Beans,1,0
+2150,6/9/2023,Can Castle Contest,Chips/Crackers,7,0
+2151,6/9/2023,Can Castle Contest,Chunk Chicken Breast,5,0
+2152,6/9/2023,Can Castle Contest,Cookies,10,0
+2153,6/9/2023,Can Castle Contest,Corn,6,0
+2154,6/9/2023,Can Castle Contest,Cream of Celery,4,0
+2155,6/9/2023,Can Castle Contest,Cream of Chicken,10,0
+2156,6/9/2023,Can Castle Contest,Cream of Mushroom,9,0
+2157,6/9/2023,Can Castle Contest,Dark Red Kidney Beans,33,0
+2158,6/9/2023,Can Castle Contest,Diced Tomatoes,18,0
+2159,6/9/2023,Can Castle Contest,Dip,1,0
+2160,6/9/2023,Can Castle Contest,Fruit / Cereal / Breakfast Bar,32,0
+2161,6/9/2023,Can Castle Contest,Fruit Cocktail,1,0
+2162,6/9/2023,Can Castle Contest,Garbanzo Beans,3,0
+2163,6/9/2023,Can Castle Contest,Granola / Snack Bars,18,0
+2164,6/9/2023,Can Castle Contest,Green Beans,50,0
+2165,6/9/2023,Can Castle Contest,Grits (ind),61,0
+2166,6/9/2023,Can Castle Contest,Hamburger Helper/Boxed Dinners,2,0
+2167,6/9/2023,Can Castle Contest,Jelly,8,0
+2168,6/9/2023,Can Castle Contest,Leafy Greens,5,0
+2169,6/9/2023,Can Castle Contest,Light Red Kidney Beans,50,0
+2170,6/9/2023,Can Castle Contest,Mac and Cheese,30,0
+2171,6/9/2023,Can Castle Contest,Mangos,1,0
+2172,6/9/2023,Can Castle Contest,Milk,1,0
+2173,6/9/2023,Can Castle Contest,Misc.,1,0
+2174,6/9/2023,Can Castle Contest,Northern Beans,24,0
+2175,6/9/2023,Can Castle Contest,Oatmeal,53,0
+2176,6/9/2023,Can Castle Contest,Oranges,9,0
+2177,6/9/2023,Can Castle Contest,Peanut Butter,18,0
+2178,6/9/2023,Can Castle Contest,Peanut Butter Crackers,14,0
+2179,6/9/2023,Can Castle Contest,Peas,5,0
+2180,6/9/2023,Can Castle Contest,Pickles,1,0
+2181,6/9/2023,Can Castle Contest,Pinto Beans,58,0
+2182,6/9/2023,Can Castle Contest,Popcorn,29,0
+2183,6/9/2023,Can Castle Contest,Pork and Beans,16,0
+2184,6/9/2023,Can Castle Contest,Potato Soup,10,0
+2185,6/9/2023,Can Castle Contest,Pumpkin,1,0
+2186,6/9/2023,Can Castle Contest,Ramen,85,0
+2187,6/9/2023,Can Castle Contest,Ravioli,6,0
+2188,6/9/2023,Can Castle Contest,Red Beans,57,0
+2189,6/9/2023,Can Castle Contest,Rice,16,0
+2190,6/9/2023,Can Castle Contest,Rice Roni,2,0
+2191,6/9/2023,Can Castle Contest,Seasonings,13,0
+2192,6/9/2023,Can Castle Contest,Sloppy Joe Sauce,5,0
+2193,6/9/2023,Can Castle Contest,Spaghetti Noodles,2,0
+2194,6/9/2023,Can Castle Contest,Spaghetti Sauce,30,0
+2195,6/9/2023,Can Castle Contest,Spinach,2,0
+2196,6/9/2023,Can Castle Contest,Tomato Soup,15,0
+2197,6/9/2023,Can Castle Contest,Treat / Candy (individual),5,0
+2198,6/9/2023,Can Castle Contest,Tuna,38,0
+2199,6/9/2023,Can Castle Contest,Vegetable and Beef Soup,18,0
+2200,6/9/2023,Can Castle Contest,Vienna Sausages,42,0
+2201,6/9/2023,Can Castle Contest,White Beans,43,0
+2202,6/28/2023,Anonymous donor,Asparagus,1,0
+2203,6/28/2023,Anonymous donor,Beefaroni,1,0
+2204,6/28/2023,Anonymous donor,Boxed Pasta,3,0
+2205,6/28/2023,Anonymous donor,Green Beans,2,0
+2206,6/28/2023,Anonymous donor,Misc.,2,0
+2207,6/28/2023,Anonymous donor,Onion,2,0
+2208,6/28/2023,Anonymous donor,Ravioli,1,0
+2209,6/28/2023,Anonymous donor,Rice,4,0
+2210,6/28/2023,Anonymous donor,Tomato Soup,3,0
+2211,6/28/2023,Anonymous donor,Vegetable and Beef Soup,3,0
+2212,7/5/2023,First Year Studies Troy University,Binders,15,0
+2213,7/5/2023,First Year Studies Troy University,CDS,14,0
+2214,7/5/2023,First Year Studies Troy University,Erasers,12,0
+2215,7/5/2023,First Year Studies Troy University,Expanding File,1,0
+2216,7/5/2023,First Year Studies Troy University,Folders,7,0
+2217,7/5/2023,First Year Studies Troy University,Highlighters,64,0
+2218,7/5/2023,First Year Studies Troy University,Index Cards,2,0
+2219,7/5/2023,First Year Studies Troy University,Mouse,1,0
+2220,7/5/2023,First Year Studies Troy University,Notebooks,35,0
+2221,7/5/2023,First Year Studies Troy University,Pencils,304,0
+2222,7/5/2023,First Year Studies Troy University,Pens,246,0
+2223,7/5/2023,First Year Studies Troy University,Permanent marker,9,0
+2224,7/5/2023,First Year Studies Troy University,Sticky notes,35,0
+2225,7/5/2023,First Year Studies Troy University,Testing Material/Blue Book/Scantron,55,0
+2226,8/6/2023,sorority,Granola / Snack Bars,428,0
+2227,8/6/2023,sorority,Mac and Cheese,172,0
+2228,8/6/2023,sorority,Oatmeal,1096,0
+2229,8/6/2023,sorority,Peanut Butter Crackers,538,0
+2230,8/6/2023,sorority,Ravioli,71,0
+2231,8/24/2023,HAFB,Large Bag of Chips,10,0
+2232,8/24/2023,HAFB,Trail Mix,10,0
+2233,8/24/2023,Housing,Makeup remover,161,0
+2234,8/27/2023,Anonymous donor,ABC Soup,1,0
+2235,8/27/2023,Anonymous donor,Applesauce jar,2,0
+2236,8/27/2023,Anonymous donor,Boxed Rice,2,0
+2237,8/27/2023,Anonymous donor,Burger and Vegetable Soup,4,0
+2238,8/27/2023,Anonymous donor,Canned Applesauce,1,0
+2239,8/27/2023,Anonymous donor,Canned Oranges,2,0
+2240,8/27/2023,Anonymous donor,Cereal (ind),1,0
+2241,8/27/2023,Anonymous donor,Cheese Crackers,2,0
+2242,8/27/2023,Anonymous donor,Chef Boyardee Variety Pack,38,0
+2243,8/27/2023,Anonymous donor,Chicken and Stars,16,0
+2244,8/27/2023,Anonymous donor,Collard Greens,11,0
+2245,8/27/2023,Anonymous donor,Conditioner (leave in),2,0
+2246,8/27/2023,Anonymous donor,Contact Solution,4,0
+2247,8/27/2023,Anonymous donor,Cream Corn,30,0
+2248,8/27/2023,Anonymous donor,Dividers,17,0
+2249,8/27/2023,Anonymous donor,Dryer sheet,2,0
+2250,8/27/2023,Anonymous donor,Gumbo,1,0
+2251,8/27/2023,Anonymous donor,Hand Soap,4,0
+2252,8/27/2023,Anonymous donor,Hominy,2,0
+2253,8/27/2023,Anonymous donor,Jalapeno Peppers,1,0
+2254,8/27/2023,Anonymous donor,Large Bag of Chips,24,0
+2255,8/27/2023,Anonymous donor,"Laundry Detergent, Softener, Scent Booster",51,0
+2256,8/27/2023,Anonymous donor,Tamales,1,0
+2257,8/27/2023,Anonymous donor,Toothbrush and Toothpaste Pack,14,0
+2258,8/27/2023,Anonymous donor,Vegetable Soup,1,0
+2259,8/31/2023,NPHC,Bar Soap,15,0
+2260,8/31/2023,NPHC,Beefaroni,2,0
+2261,8/31/2023,NPHC,Black-Eyed Peas,1,0
+2262,8/31/2023,NPHC,Bodywash,8,0
+2263,8/31/2023,NPHC,Brush/comb,4,0
+2264,8/31/2023,NPHC,Chapstick,4,0
+2265,8/31/2023,NPHC,Chicken Noodle Soup,3,0
+2266,8/31/2023,NPHC,Cleaning supplies,1,0
+2267,8/31/2023,NPHC,Conditioner,2,0
+2268,8/31/2023,NPHC,Corn,2,0
+2269,8/31/2023,NPHC,Dental Floss,2,0
+2270,8/31/2023,NPHC,Deodorant,23,0
+2271,8/31/2023,NPHC,Face tissue,1,0
+2272,8/31/2023,NPHC,Feminine Products (Pads),48,0
+2273,8/31/2023,NPHC,Feminine Products (Tampons),57,0
+2274,8/31/2023,NPHC,Green Beans,1,0
+2275,8/31/2023,NPHC,Hand sanitizer,1,0
+2276,8/31/2023,NPHC,Hand wipes,2,0
+2277,8/31/2023,NPHC,Loofah,3,0
+2278,8/31/2023,NPHC,Lotion,12,0
+2279,8/31/2023,NPHC,Makeup remover,1,0
+2280,8/31/2023,NPHC,Mouthwash,6,0
+2281,8/31/2023,NPHC,Peaches,1,0
+2282,8/31/2023,NPHC,Peas,1,0
+2283,8/31/2023,NPHC,Shaving Cream / Gel,1,0
+2284,8/31/2023,NPHC,Shaving Razor,24,0
+2285,8/31/2023,NPHC,Sheet mask,1,0
+2286,8/31/2023,NPHC,Spaghetti Rings Pasta,2,0
+2287,8/31/2023,NPHC,Toothbrushes,26,0
+2288,8/31/2023,NPHC,Toothpaste,15,0
+2289,9/1/2023,Anonymous donor,Binders,10,0
+2290,9/1/2023,Anonymous donor,Bodywash,32,0
+2291,9/1/2023,Anonymous donor,Cereal,16,0
+2292,9/1/2023,Anonymous donor,Contact Solution,4,0
+2293,9/1/2023,Anonymous donor,Deodorant,17,0
+2294,9/1/2023,Anonymous donor,Dish Soap,3,0
+2295,9/1/2023,Anonymous donor,Feminine Products (Pads),58,0
+2296,9/1/2023,Anonymous donor,Feminine Products (Tampons),39,0
+2297,9/1/2023,Anonymous donor,Grits (ind),66,0
+2298,9/1/2023,Anonymous donor,Hand Soap,3,0
+2299,9/1/2023,Anonymous donor,Highlighters,5,0
+2300,9/1/2023,Anonymous donor,Notebooks,4,0
+2301,9/1/2023,Anonymous donor,Pencils,161,0
+2302,9/1/2023,Anonymous donor,Pens,298,0
+2303,9/1/2023,Anonymous donor,Sticky notes,11,0
+2304,9/1/2023,Anonymous donor,Tomato Soup,3,0
+2305,9/1/2023,Anonymous donor,Toothpaste,3,0
+2306,9/1/2023,Anonymous donor,Vegetable and Beef Soup,3,0
+2307,9/1/2023,Anonymous donor,Water,24,0
+2308,9/1/2023,HAFB,Beefaroni,204,0
+2309,9/1/2023,HAFB,Bodywash,5,0
+2310,9/1/2023,HAFB,Cereal,224,0
+2311,9/1/2023,HAFB,Chef Boyardee Variety Pack,18,0
+2312,9/1/2023,HAFB,Chicken Noodle Soup,42,0
+2313,9/1/2023,HAFB,Dental Floss,216,0
+2314,9/1/2023,HAFB,Feminine Products (Pads),9,0
+2315,9/1/2023,HAFB,Large Bag of Chips,126,0
+2316,9/1/2023,HAFB,"Laundry Detergent, Softener, Scent Booster",75,0
+2317,9/1/2023,HAFB,Ravioli,2,0
+2318,9/1/2023,HAFB,Toothbrushes,228,0
+2319,9/1/2023,HAFB,Trail Mix,98,0
+2320,9/1/2023,HAFB,Water,408,0
+2321,9/5/2023,Anonymous donor,Jelly,24,0
+2322,9/5/2023,Anonymous donor,"Laundry Detergent, Softener, Scent Booster",4,0
+2323,9/5/2023,Anonymous donor,Milk,6,0
+2324,9/5/2023,Anonymous donor,Nutri Grain Bars,48,0
+2325,9/5/2023,Anonymous donor,Pho,4,0
+2326,9/5/2023,Anonymous donor,Ravioli,12,0
+2327,9/5/2023,Anonymous donor,Seasonings,30,0
+2328,9/6/2023,Anonymous donor,Boxed Rice,1,0
+2329,9/6/2023,Anonymous donor,Conditioner,2,0
+2330,9/6/2023,Anonymous donor,Green Beans,2,0
+2331,9/6/2023,Anonymous donor,Hamburger Helper/Boxed Dinners,1,0
+2332,9/6/2023,Anonymous donor,Mac and Cheese,10,0
+2333,9/6/2023,Anonymous donor,Notebooks,26,0
+2334,9/6/2023,Anonymous donor,Rice,2,0
+2335,9/6/2023,Anonymous donor,Shampoo,3,0
+2336,9/6/2023,Anonymous donor,Toothbrushes,2,0
+2337,9/6/2023,Anonymous donor,Toothpaste,3,0
+2338,9/8/2023,Anonymous donor,Jelly,9,0
+2339,9/11/2023,Anonymous donor,Ramen,24,0
+2340,9/13/2023,Anonymous donor,Backpack,3,0
+2341,9/13/2023,Anonymous donor,Notebooks,2,0
+2342,9/13/2023,Anonymous donor,Pens,18,0
+2343,9/13/2023,Anonymous donor,Rice,2,0
+2344,9/13/2023,Anonymous donor,Toothbrush and Toothpaste Pack,1,0
+2345,9/21/2023,HAFB,Juice,16,0
+2346,9/21/2023,HAFB,Peanut Butter,588,0
+2347,9/21/2023,HAFB,Ramen,600,0
+2348,9/21/2023,HAFB,Rice,588,0
+2349,9/21/2023,HAFB,Sparkling Water,240,0
+2350,9/29/2023,sorority,Bean with Bacon Soup,3,0
+2351,9/29/2023,sorority,Bodywash,2,0
+2352,9/29/2023,sorority,Hand Soap,1,0
+2353,9/29/2023,sorority,Shampoo,3,0
+2354,9/29/2023,sorority,Toilet Paper,12,0
+2355,9/29/2023,sorority,Toothpaste,2,0
+2356,10/3/2023,Anonymous donor,Feminine Products (Pads),22,0
+2357,10/3/2023,sorority,Baked Beans,1,0
+2358,10/3/2023,sorority,Black Beans,1,0
+2359,10/3/2023,sorority,Black-Eyed Peas,1,0
+2360,10/3/2023,sorority,Deodorant,2,0
+2361,10/3/2023,sorority,Feminine Products (Pads),6,0
+2362,10/3/2023,sorority,Peas,1,0
+2363,10/3/2023,sorority,Red Beans,2,0
+2364,10/3/2023,sorority,Tea,1,0
+2365,10/3/2023,sorority,Toothbrushes,1,0
+2366,10/4/2023,Housing,Toilet Paper,3,0
+2367,10/6/2023,Campus Kitchens,Campus Kitchens Meals,86,0
+2368,10/6/2023,Homecoming Philanthropy,Almond Bark,1,0
+2369,10/6/2023,Homecoming Philanthropy,Applesauce (ind),404,0
+2370,10/6/2023,Homecoming Philanthropy,Baked Beans,4,0
+2371,10/6/2023,Homecoming Philanthropy,Bar Soap,24,0
+2372,10/6/2023,Homecoming Philanthropy,Black Beans,18,0
+2373,10/6/2023,Homecoming Philanthropy,Bodywash,28,0
+2374,10/6/2023,Homecoming Philanthropy,Boxed Pasta,12,0
+2375,10/6/2023,Homecoming Philanthropy,Boxed Rice,1,0
+2376,10/6/2023,Homecoming Philanthropy,Broccoli and Cheese,3,0
+2377,10/6/2023,Homecoming Philanthropy,Cake Mix,1,0
+2378,10/6/2023,Homecoming Philanthropy,Cannellini Beans,12,0
+2379,10/6/2023,Homecoming Philanthropy,Carrots,9,0
+2380,10/6/2023,Homecoming Philanthropy,Cereal,139,0
+2381,10/6/2023,Homecoming Philanthropy,Cheese Crackers,118,0
+2382,10/6/2023,Homecoming Philanthropy,Chicken and rice soup,5,0
+2383,10/6/2023,Homecoming Philanthropy,Chicken broth,1,0
+2384,10/6/2023,Homecoming Philanthropy,Chicken Noodle Soup,18,0
+2385,10/6/2023,Homecoming Philanthropy,Chicken Stock,1,0
+2386,10/6/2023,Homecoming Philanthropy,Chili Beans,5,0
+2387,10/6/2023,Homecoming Philanthropy,Chips/Crackers,75,0
+2388,10/6/2023,Homecoming Philanthropy,Chowder,2,0
+2389,10/6/2023,Homecoming Philanthropy,Chunk Chicken Breast,65,0
+2390,10/6/2023,Homecoming Philanthropy,Coffee,2,0
+2391,10/6/2023,Homecoming Philanthropy,Conditioner,19,0
+2392,10/6/2023,Homecoming Philanthropy,Corn,91,0
+2393,10/6/2023,Homecoming Philanthropy,Cornbread & Muffin Mix,1,0
+2394,10/6/2023,Homecoming Philanthropy,Cream Corn,21,0
+2395,10/6/2023,Homecoming Philanthropy,Cream of Chicken,11,0
+2396,10/6/2023,Homecoming Philanthropy,Cream of Mushroom,11,0
+2397,10/6/2023,Homecoming Philanthropy,Dark Red Kidney Beans,13,0
+2398,10/6/2023,Homecoming Philanthropy,Dental Floss,4,0
+2399,10/6/2023,Homecoming Philanthropy,Deodorant,58,0
+2400,10/6/2023,Homecoming Philanthropy,Diced Tomatoes,2,0
+2401,10/6/2023,Homecoming Philanthropy,Dish Soap,2,0
+2402,10/6/2023,Homecoming Philanthropy,Feminine Products (Pads),46,0
+2403,10/6/2023,Homecoming Philanthropy,Feminine Products (Tampons),15,0
+2404,10/6/2023,Homecoming Philanthropy,Fruit,4,0
+2405,10/6/2023,Homecoming Philanthropy,Fruit / Cereal / Breakfast Bar,590,0
+2406,10/6/2023,Homecoming Philanthropy,Fruit Cocktail,7,0
+2407,10/6/2023,Homecoming Philanthropy,Fruit cup,9,0
+2408,10/6/2023,Homecoming Philanthropy,Garbanzo Beans,23,0
+2409,10/6/2023,Homecoming Philanthropy,Granola / Snack Bars,40,0
+2410,10/6/2023,Homecoming Philanthropy,Green Beans,80,0
+2411,10/6/2023,Homecoming Philanthropy,Grits (ind),10,0
+2412,10/6/2023,Homecoming Philanthropy,Hamburger Helper/Boxed Dinners,23,0
+2413,10/6/2023,Homecoming Philanthropy,Hand sanitizer,3,0
+2414,10/6/2023,Homecoming Philanthropy,Hand Soap,17,0
+2415,10/6/2023,Homecoming Philanthropy,Hearts of Palm,1,0
+2416,10/6/2023,Homecoming Philanthropy,"Laundry Detergent, Softener, Scent Booster",1,0
+2417,10/6/2023,Homecoming Philanthropy,Mac and Cheese,116,0
+2418,10/6/2023,Homecoming Philanthropy,Manicure Kit,1,0
+2419,10/6/2023,Homecoming Philanthropy,Mixed Vegetables,9,0
+2420,10/6/2023,Homecoming Philanthropy,Mouthwash,3,0
+2421,10/6/2023,Homecoming Philanthropy,Navy Beans,27,0
+2422,10/6/2023,Homecoming Philanthropy,Northern Beans,1,0
+2423,10/6/2023,Homecoming Philanthropy,Nutri Grain Bars,8,0
+2424,10/6/2023,Homecoming Philanthropy,Oatmeal,80,0
+2425,10/6/2023,Homecoming Philanthropy,Oil,4,0
+2426,10/6/2023,Homecoming Philanthropy,Paper towels,21,0
+2427,10/6/2023,Homecoming Philanthropy,Pasta Sauce,10,0
+2428,10/6/2023,Homecoming Philanthropy,Peanut Butter Crackers,390,0
+2429,10/6/2023,Homecoming Philanthropy,Peas,29,0
+2430,10/6/2023,Homecoming Philanthropy,Pickles,4,0
+2431,10/6/2023,Homecoming Philanthropy,Pinto Beans,3,0
+2432,10/6/2023,Homecoming Philanthropy,Popcorn,27,0
+2433,10/6/2023,Homecoming Philanthropy,Pork and Beans,15,0
+2434,10/6/2023,Homecoming Philanthropy,Ramen,16,0
+2435,10/6/2023,Homecoming Philanthropy,Red Beans,35,0
+2436,10/6/2023,Homecoming Philanthropy,Refried Beans,1,0
+2437,10/6/2023,Homecoming Philanthropy,Rice,50,0
+2438,10/6/2023,Homecoming Philanthropy,Salt,15,0
+2439,10/6/2023,Homecoming Philanthropy,Santa Fe style chicken soup,1,0
+2440,10/6/2023,Homecoming Philanthropy,Seasonings,65,0
+2441,10/6/2023,Homecoming Philanthropy,Shampoo,25,0
+2442,10/6/2023,Homecoming Philanthropy,Shaving Razor,3,0
+2443,10/6/2023,Homecoming Philanthropy,Spaghetti Meatballs,10,0
+2444,10/6/2023,Homecoming Philanthropy,Spaghetti Noodles,8,0
+2445,10/6/2023,Homecoming Philanthropy,Spaghetti Rings Pasta,13,0
+2446,10/6/2023,Homecoming Philanthropy,Spinach,1,0
+2447,10/6/2023,Homecoming Philanthropy,Sugar,6,0
+2448,10/6/2023,Homecoming Philanthropy,Tea,2,0
+2449,10/6/2023,Homecoming Philanthropy,Toilet Paper,51,0
+2450,10/6/2023,Homecoming Philanthropy,Tomato Soup,11,0
+2451,10/6/2023,Homecoming Philanthropy,Toothbrush and Toothpaste Pack,5,0
+2452,10/6/2023,Homecoming Philanthropy,Toothbrushes,8,0
+2453,10/6/2023,Homecoming Philanthropy,Toothpaste,46,0
+2454,10/6/2023,Homecoming Philanthropy,Tuna,170,0
+2455,10/6/2023,Homecoming Philanthropy,Washcloth,8,0
+2456,10/6/2023,Homecoming Philanthropy,Water,213,0
+2457,10/13/2023,Anonymous donor,Cereal (ind),10,0
+2458,10/13/2023,Anonymous donor,"Laundry Detergent, Softener, Scent Booster",29,0
+2459,10/13/2023,Anonymous donor,Milk,3,0
+2460,10/13/2023,Anonymous donor,Oatmeal,44,0
+2461,10/13/2023,Anonymous donor,PopTarts,3,0
+2462,10/13/2023,Anonymous donor,Pork and Beans,4,0
+2463,10/13/2023,Anonymous donor,Ravioli,4,0
+2464,10/13/2023,Anonymous donor,Socks,4,0
+2465,10/13/2023,Anonymous donor,Spaghetti Noodles,4,0
+2466,10/13/2023,Anonymous donor,Tomato Sauce,8,0
+2467,10/16/2023,International Office,Can Openers,3,0
+2468,10/17/2023,International Office,Can Openers,1,0
+2469,10/17/2023,International Office,Measuring cups/spoons,1,0
+2470,10/18/2023,HAFB,Cereal (ind),288,0
+2471,10/18/2023,HAFB,Juice,72,0
+2472,10/18/2023,HAFB,Peanut Butter,528,0
+2473,10/18/2023,HAFB,Ramen,600,0
+2474,10/18/2023,HAFB,Rice,600,0
+2475,10/20/2023,Anonymous donor,Bodywash,4,0
+2476,10/20/2023,Anonymous donor,Chunk Chicken Breast,16,0
+2477,10/20/2023,Anonymous donor,Deodorant,2,0
+2478,10/20/2023,Anonymous donor,Diced Tomatoes,4,0
+2479,10/20/2023,Anonymous donor,Fruit / Cereal / Breakfast Bar,39,0
+2480,10/20/2023,Anonymous donor,Fruit cup,8,0
+2481,10/20/2023,Anonymous donor,Hamburger Helper/Boxed Dinners,3,0
+2482,10/20/2023,Anonymous donor,Hand Soap,2,0
+2483,10/20/2023,Anonymous donor,Jelly,4,0
+2484,10/20/2023,Anonymous donor,"Laundry Detergent, Softener, Scent Booster",26,0
+2485,10/20/2023,Anonymous donor,Mac and Cheese,28,0
+2486,10/20/2023,Anonymous donor,Mashed Potatoes (boxed),1,0
+2487,10/20/2023,Anonymous donor,Paper towels,12,0
+2488,10/20/2023,Anonymous donor,Peanut Butter,4,0
+2489,10/20/2023,Anonymous donor,Popcorn,24,0
+2490,10/20/2023,Anonymous donor,Ramen,114,0
+2491,10/20/2023,Anonymous donor,Rice,9,0
+2492,10/20/2023,Anonymous donor,Seasonings,10,0
+2493,10/20/2023,Anonymous donor,Spaghetti Noodles,8,0
+2494,10/20/2023,Anonymous donor,Spaghetti Sauce,8,0
+2495,10/20/2023,Anonymous donor,Toilet Paper,30,0
+2496,10/20/2023,Anonymous donor,Toothpaste,1,0
+2497,10/20/2023,Anonymous donor,Tuna,12,0
+2498,10/20/2023,Anonymous donor,Alfredo,6,0
+2499,10/20/2023,Anonymous donor,"Laundry Detergent, Softener, Scent Booster",1,0
+2500,10/20/2023,Anonymous donor,Mac and Cheese,8,0
+2501,10/20/2023,Anonymous donor,Mashed Potatoes (boxed),4,0
+2502,10/20/2023,Anonymous donor,Milk,24,0
+2503,10/20/2023,Anonymous donor,Oatmeal,48,0
+2504,10/20/2023,Anonymous donor,Tuna,6,0
+2505,10/20/2023,sorority,Juice,38,0
+2506,10/20/2023,sorority,Sparkling Water,120,0
+2507,10/20/2023,sorority,Water,35,0
+2508,10/23/2023,Anonymous donor,Chicken and rice soup,1,0
+2509,10/23/2023,Anonymous donor,Feminine Products (Tampons),2,0
+2510,10/23/2023,Anonymous donor,Green Beans,1,0
+2511,10/23/2023,Anonymous donor,Spaghetti Rings Pasta,1,0
+2512,10/26/2023,Police Amnesty Day,Bar Soap,40,0
+2513,10/26/2023,Police Amnesty Day,Bodywash,53,0
+2514,10/26/2023,Police Amnesty Day,Chapstick,4,0
+2515,10/26/2023,Police Amnesty Day,Cleaning supplies,1,0
+2516,10/26/2023,Police Amnesty Day,Conditioner,16,0
+2517,10/26/2023,Police Amnesty Day,Dental Floss,1,0
+2518,10/26/2023,Police Amnesty Day,Deodorant,57,0
+2519,10/26/2023,Police Amnesty Day,Dish Soap,2,0
+2520,10/26/2023,Police Amnesty Day,Face cleanser,1,0
+2521,10/26/2023,Police Amnesty Day,Feminine Products (Pads),66,0
+2522,10/26/2023,Police Amnesty Day,Feminine Products (Tampons),72,0
+2523,10/26/2023,Police Amnesty Day,Hand Soap,21,0
+2524,10/26/2023,Police Amnesty Day,"Laundry Detergent, Softener, Scent Booster",62,0
+2525,10/26/2023,Police Amnesty Day,Loofah,6,0
+2526,10/26/2023,Police Amnesty Day,Lotion,3,0
+2527,10/26/2023,Police Amnesty Day,Q-tips,2,0
+2528,10/26/2023,Police Amnesty Day,Shampoo,31,0
+2529,10/26/2023,Police Amnesty Day,Shaving Razor,2,0
+2530,10/26/2023,Police Amnesty Day,Toothbrushes,44,0
+2531,10/26/2023,Police Amnesty Day,Toothpaste,85,0
+2532,11/13/2023,Anonymous donor,Bar Soap,2,0
+2533,11/13/2023,Anonymous donor,Bodywash,3,0
+2534,11/13/2023,Anonymous donor,Conditioner,1,0
+2535,11/13/2023,Anonymous donor,Corn,6,0
+2536,11/13/2023,Anonymous donor,Deodorant,2,0
+2537,11/13/2023,Anonymous donor,Facial Product,1,0
+2538,11/13/2023,Anonymous donor,Green Beans,16,0
+2539,11/13/2023,Anonymous donor,"Laundry Detergent, Softener, Scent Booster",5,0
+2540,11/13/2023,Anonymous donor,Toothpaste,2,0
+2541,11/14/2023,Police Amnesty Day,Face tissue,14,0
+2542,11/16/2023,HAFB,Fruit cup,1536,0
+2543,11/16/2023,HAFB,Peanut Butter Crackers,168,0
+2544,11/16/2023,HAFB,Ramen,912,0
+2545,11/16/2023,HAFB,Rice Crisps,108,0
+2546,11/16/2023,HAFB,Rice Krispies Treats,5120,0
+2547,11/27/2023,Anonymous donor,Bodywash,1,0
+2548,11/27/2023,Anonymous donor,Conditioner,1,0
+2549,11/27/2023,Anonymous donor,Shampoo,1,0
+2550,11/27/2023,Anonymous donor,Bread Crumbs,1,0
+2551,11/27/2023,Anonymous donor,Chicken Noodle Soup,3,0
+2552,11/27/2023,Anonymous donor,Cream of Chicken,1,0
+2553,11/27/2023,Anonymous donor,Cream of Mushroom,1,0
+2554,11/27/2023,Anonymous donor,Green Beans,4,0
+2555,11/27/2023,Anonymous donor,Parmesan Cheese,2,0
+2556,11/27/2023,Anonymous donor,Rice,3,0
+2557,11/28/2023,Anonymous donor,Corned Beef,5,0
+2558,11/28/2023,Anonymous donor,Milk,6,0
+2559,11/28/2023,Anonymous donor,Ramen,12,0
+2560,11/28/2023,Anonymous donor,Rice,10,0
+2561,12/6/2023,MGM Non-profit,Conditioner,3,0
+2562,12/6/2023,MGM Non-profit,Feminine Products (Pads),477,0
+2563,12/6/2023,MGM Non-profit,Nail Polish,14,0
+2564,12/6/2023,MGM Non-profit,Nasal Spray,3,0
+2565,12/6/2023,MGM Non-profit,Shampoo,2,0
+2566,12/6/2023,MGM Non-profit,Toilet Paper,96,0
+2567,12/8/2023,Anthropology Club,Deodorant,1,0
+2568,12/8/2023,Anonymous donor,Fruit / Cereal / Breakfast Bar,46,0
+2569,12/8/2023,Anonymous donor,Cookies,4,0
+2570,12/8/2023,Anonymous donor,Juice,2,0
+2571,12/8/2023,Anonymous donor,Rice Crisps,1,0
+2572,12/8/2023,Anonymous donor,Soda,11,0
+2573,12/12/2023,Anonymous donor,Mac and Cheese,24,0
+2574,12/12/2023,Anonymous donor,Milk,12,0
+2575,12/12/2023,Anonymous donor,Rice,12,0
+2576,1/4/2024,HAFB,Applesauce (ind),164,0
+2577,1/4/2024,HAFB,Fruit cup,183,0
+2578,1/4/2024,HAFB,Peanut Butter Crackers,600,0
+2579,1/4/2024,HAFB,Spaghetti Rings Pasta,960,0
+2580,1/4/2024,University Club,Pasta,456,0
+2581,1/5/2024,Local Grocery,Applesauce (ind),843,0
+2582,1/6/2024,HAFB,Fruit cup,645,0
+2583,1/7/2024,Anonymous donor,Cereal,508,0
+2584,1/7/2024,University Club,Pasta,701,0
+2585,1/8/2024,Anonymous donor,"Laundry Detergent, Softener, Scent Booster",2,0
+2586,1/8/2024,Anonymous donor,Toilet Paper,12,0
+2587,1/10/2024,Individual Donor,Scent Booster,158,0
+2588,1/10/2024,University Club,Fruit cup,552,0
+2589,1/10/2024,Anonymous donor,Rice,429,0
+2590,1/12/2024,Individual Donor,Granola Bars,541,0
+2591,1/13/2024,University Club,Juice Boxes,596,0
+2592,1/14/2024,University Club,Peanut Butter Crackers,432,0
+2593,1/15/2024,Local Grocery,Rice,322,0
+2594,1/17/2024,Local Grocery,Granola Bars,549,0
+2595,1/20/2024,Community Center,Laundry Detergent,856,0
+2596,1/20/2024,Local Grocery,Toothpaste,859,0
+2597,1/21/2024,Community Center,Laundry Detergent,407,0
+2598,1/23/2024,University Club,Canned Vegetables,623,0
+2599,1/25/2024,HAFB,Applesauce (ind),3120,0
+2600,1/25/2024,HAFB,Peanut Butter,168,0
+2601,1/25/2024,HAFB,Peanut Butter Crackers,2784,0
+2602,1/25/2024,HAFB,Spaghetti Rings Pasta,1824,0
+2603,1/25/2024,Anonymous donor,Softener,794,0
+2604,1/26/2024,Adi Gainey,Bodywash,1,0
+2605,1/26/2024,Adi Gainey,Conditioner,1,0
+2606,1/26/2024,Adi Gainey,Deodorant,1,0
+2607,1/26/2024,Adi Gainey,Folders,1,0
+2608,1/26/2024,Adi Gainey,Notebooks,1,0
+2609,1/26/2024,Adi Gainey,Shampoo,1,0
+2610,1/26/2024,Adi Gainey,Toothbrushes,1,0
+2611,1/27/2024,Anonymous donor,Laundry Detergent,296,0
+2612,1/27/2024,Local Grocery,Cereal,321,0
+2613,1/28/2024,Individual Donor,Pasta,29,0
+2614,1/29/2024,anonymous,Lotion,4,0
+2615,1/29/2024,anonymous,Perfume,2,0
+2616,1/31/2024,Anonymous donor,Granola Bars,38,0
+2617,1/31/2024,University Club,Softener,730,0
+2618,2/1/2024,Individual Donor,Granola Bars,478,0
+2619,2/2/2024,anonymous,Folders,15,0
+2620,2/2/2024,Local Grocery,Scent Booster,967,0
+2621,2/4/2024,Anonymous donor,Rice,964,0
+2622,2/4/2024,Anonymous donor,Toilet Paper,311,0
+2623,2/5/2024,Local Grocery,Toothpaste,258,0
+2624,2/5/2024,Anonymous donor,Toilet Paper,240,0
+2625,2/5/2024,Individual Donor,Granola Bars,757,0
+2626,2/6/2024,Anonymous donor,Granola Bars,91,0
+2627,2/8/2024,Community Center,Peanut Butter Crackers,668,0
+2628,2/9/2024,Anonymous donor,Canned Vegetables,883,0
+2629,2/10/2024,Individual Donor,Scent Booster,359,0
+2630,2/10/2024,HAFB,Pasta,373,0
+2631,2/10/2024,HAFB,Peanut Butter Crackers,213,0
+2632,2/12/2024,HAFB,Toothpaste,196,0
+2633,2/14/2024,Anonymous donor,Toothpaste,107,0
+2634,2/14/2024,Local Grocery,Softener,209,0
+2635,2/15/2024,anonymous,Notebooks,80,0
+2636,2/15/2024,HAFB,Scent Booster,366,0
+2637,2/17/2024,University Club,Cereal,318,0
+2638,2/17/2024,Anonymous donor,Toothpaste,642,0
+2639,2/18/2024,Individual Donor,Spaghetti Rings Pasta,320,0
+2640,2/19/2024,Anonymous donor,Granola Bars,426,0
+2641,2/19/2024,Individual Donor,Toothpaste,479,0
+2642,2/19/2024,Community Center,Toilet Paper,607,0
+2643,2/20/2024,Local Grocery,Scent Booster,660,0
+2644,2/20/2024,HAFB,Pasta,42,0
+2645,2/21/2024,Freshmen Forum,Bar Soap,5,0
+2646,2/21/2024,Freshmen Forum,Bodywash,10,0
+2647,2/21/2024,Freshmen Forum,Conditioner,9,0
+2648,2/21/2024,Freshmen Forum,Dental Floss,8,0
+2649,2/21/2024,Freshmen Forum,Deodorant,20,0
+2650,2/21/2024,Freshmen Forum,Feminine Products (Pads),11,0
+2651,2/21/2024,Freshmen Forum,Feminine Products (Tampons),11,0
+2652,2/21/2024,Freshmen Forum,Lotion,3,0
+2653,2/21/2024,Freshmen Forum,Makeup remover,1,0
+2654,2/21/2024,Freshmen Forum,makeup wipes,1,0
+2655,2/21/2024,Freshmen Forum,Mouthwash,3,0
+2656,2/21/2024,Freshmen Forum,panty liners,8,0
+2657,2/21/2024,Freshmen Forum,Paper towels,2,0
+2658,2/21/2024,Freshmen Forum,Shampoo,19,0
+2659,2/21/2024,Freshmen Forum,Shaving Cream / Gel,2,0
+2660,2/21/2024,Freshmen Forum,Shaving Razor,2,0
+2661,2/21/2024,Freshmen Forum,Socks,1,0
+2662,2/21/2024,Freshmen Forum,Toilet Paper,39,0
+2663,2/21/2024,Freshmen Forum,Toothbrush and Toothpaste Pack,3,0
+2664,2/21/2024,Freshmen Forum,Toothpaste,20,0
+2665,2/22/2024,HAFB,Peanut Butter,156,0
+2666,2/22/2024,HAFB,Pickles,528,0
+2667,2/22/2024,HAFB,Pretzels,420,0
+2668,2/22/2024,HAFB,Ramen,2981,0
+2669,2/22/2024,Police Amnesty Day,Chicken and rice soup,1,0
+2670,2/22/2024,Police Amnesty Day,Chili with Beans,2,0
+2671,2/22/2024,Police Amnesty Day,Conditioner,1,0
+2672,2/22/2024,Police Amnesty Day,Corn,3,0
+2673,2/22/2024,Police Amnesty Day,Cream of Potato,1,0
+2674,2/22/2024,Police Amnesty Day,Deviled Ham,1,0
+2675,2/22/2024,Police Amnesty Day,Garbanzo Beans,1,0
+2676,2/22/2024,Police Amnesty Day,Green Beans,5,0
+2677,2/22/2024,Police Amnesty Day,Milk,1,0
+2678,2/22/2024,Police Amnesty Day,Peas,1,0
+2679,2/22/2024,Police Amnesty Day,Ravioli,2,0
+2680,2/22/2024,Police Amnesty Day,Shampoo,1,0
+2681,2/22/2024,Police Amnesty Day,Spaghetti Rings Pasta,3,0
+2682,2/22/2024,Police Amnesty Day,Triple Succotash,1,0
+2683,2/22/2024,Police Amnesty Day,Tuna,4,0
+2684,2/22/2024,Local Grocery,Scent Booster,445,0
+2685,2/22/2024,University Club,Applesauce (ind),94,0
+2686,2/22/2024,Community Center,Canned Beans,19,0
+2687,2/23/2024,Anonymous donor,Juice Boxes,480,0
+2688,2/24/2024,University Club,Rice,838,0
+2689,2/25/2024,Community Center,Peanut Butter Crackers,472,0
+2690,2/25/2024,University Club,Canned Beans,371,0
+2691,2/26/2024,Amnesty Day,Air Freshener,2,0
+2692,2/26/2024,Amnesty Day,Antibacterial wipes (skin),1,0
+2693,2/26/2024,Amnesty Day,Bar Soap,71,0
+2694,2/26/2024,Amnesty Day,Bodywash,31,0
+2695,2/26/2024,Amnesty Day,Conditioner,11,0
+2696,2/26/2024,Amnesty Day,Deodorant,34,0
+2697,2/26/2024,Amnesty Day,Face tissue,2,0
+2698,2/26/2024,Amnesty Day,Feminine Products (Pads),28,0
+2699,2/26/2024,Amnesty Day,Feminine Products (Tampons),7,0
+2700,2/26/2024,Amnesty Day,Hand Soap,15,0
+2701,2/26/2024,Amnesty Day,"Laundry Detergent, Softener, Scent Booster",2,0
+2702,2/26/2024,Amnesty Day,Lotion,3,0
+2703,2/26/2024,Amnesty Day,Makeup remover,3,0
+2704,2/26/2024,Amnesty Day,Shampoo,22,0
+2705,2/26/2024,Amnesty Day,Shaving Cream / Gel,5,0
+2706,2/26/2024,Amnesty Day,Tide Pods,36,0
+2707,2/26/2024,Amnesty Day,Toothbrushes,11,0
+2708,2/26/2024,Amnesty Day,Toothpaste,37,0
+2709,2/28/2024,Individual Donor,Toothpaste,225,0
+2710,2/28/2024,Local Grocery,Cereal,34,0
+2711,2/29/2024,Local Grocery,Scent Booster,409,0
+2712,3/1/2024,Individual Donor,Granola Bars,473,0
+2713,3/2/2024,Local Grocery,Cereal,246,0
+2714,3/3/2024,Anonymous donor,Rice,211,0
+2715,3/4/2024,Anonymous donor,Peanut Butter Crackers,937,0
+2716,3/4/2024,Anonymous donor,Pasta,164,0
+2717,3/4/2024,University Club,Applesauce (ind),291,0
+2718,3/4/2024,HAFB,Toothpaste,615,0
+2719,3/6/2024,Anonymous donor,Black Beans,1,0
+2720,3/6/2024,Anonymous donor,Boxed Pasta,1,0
+2721,3/6/2024,Anonymous donor,Chicken Noodle Soup,2,0
+2722,3/6/2024,Anonymous donor,Cookies,11,0
+2723,3/6/2024,Anonymous donor,Cream of Celery,1,0
+2724,3/6/2024,Anonymous donor,Cream of Mushroom,2,0
+2725,3/6/2024,Anonymous donor,Garbanzo Beans,1,0
+2726,3/6/2024,Anonymous donor,Mac and Cheese,2,0
+2727,3/6/2024,Anonymous donor,Onion Salad Topping,1,0
+2728,3/6/2024,Anonymous donor,Peanut Butter,2,0
+2729,3/6/2024,Anonymous donor,Peanut Butter Crackers,3,0
+2730,3/6/2024,Anonymous donor,Pretzels,1,0
+2731,3/6/2024,Anonymous donor,Refried Beans,1,0
+2732,3/6/2024,Anonymous donor,Spaghetti Noodles,1,0
+2733,3/6/2024,Anonymous donor,Spaghetti Rings Pasta,1,0
+2734,3/6/2024,Anonymous donor,Tomato Soup,1,0
+2735,3/6/2024,Anonymous donor,Tortilla Soup,1,0
+2736,3/6/2024,HAFB,Toilet Paper,216,0
+2737,3/8/2024,Community Center,Toothpaste,950,0
+2738,3/9/2024,Individual Donor,Scent Booster,553,0
+2739,3/9/2024,Anonymous donor,Granola Bars,187,0
+2740,3/9/2024,Individual Donor,Canned Vegetables,460,0
+2741,3/9/2024,Individual Donor,Applesauce (ind),747,0
+2742,3/9/2024,Anonymous donor,Toilet Paper,73,0
+2743,3/10/2024,Anonymous donor,Cereal,595,0
+2744,3/11/2024,Individual Donor,Rice,962,0
+2745,3/13/2024,Anonymous donor,Canned Beans,879,0
+2746,3/14/2024,Community Center,Pasta,535,0
+2747,3/14/2024,Community Center,Granola Bars,334,0
+2748,3/17/2024,University Club,Spaghetti Rings Pasta,527,0
+2749,3/17/2024,Anonymous donor,Canned Vegetables,929,0
+2750,3/19/2024,anonymous,Trail Mix,5,0
+2751,3/19/2024,Anonymous donor,cough drops,12,0
+2752,3/20/2024,Community Center,Applesauce (ind),974,0
+2753,3/21/2024,anonymous,Applesauce (ind),1,0
+2754,3/21/2024,anonymous,Bar Soap,1,0
+2755,3/21/2024,anonymous,Bodywash,2,0
+2756,3/21/2024,anonymous,Deodorant,1,0
+2757,3/21/2024,anonymous,Toothbrushes,1,0
+2758,3/21/2024,HAFB,Cereal,1,0
+2759,3/21/2024,HAFB,Cereal (ind),8,0
+2760,3/21/2024,HAFB,Chips/Crackers,12,0
+2761,3/21/2024,HAFB,Cookies,3,0
+2762,3/21/2024,HAFB,Fruit / Cereal / Breakfast Bar,8,0
+2763,3/21/2024,HAFB,Grits (can/package),156,0
+2764,3/21/2024,HAFB,Mac and Cheese,1,0
+2765,3/21/2024,HAFB,Pastry,5,0
+2766,3/21/2024,HAFB,Peanut Butter,438,0
+2767,3/21/2024,HAFB,Popcorn,1,0
+2768,3/21/2024,HAFB,Spaghetti Noodles,560,0
+2769,3/21/2024,University Club,Toothpaste,252,0
+2770,3/21/2024,Anonymous donor,Cereal,63,0
+2771,3/21/2024,Local Grocery,Laundry Detergent,706,0
+2772,3/21/2024,University Club,Rice,84,0
+2773,3/22/2024,HAFB,Canned Beans,737,0
+2774,3/24/2024,HAFB,Pasta,29,0
+2775,3/24/2024,Community Center,Laundry Detergent,518,0
+2776,3/25/2024,Anonymous donor,Toilet Paper,501,0
+2777,3/25/2024,Community Center,Scent Booster,152,0
+2778,3/26/2024,Anonymous donor,Toilet Paper,716,0
+2779,3/27/2024,Community Center,Scent Booster,687,0
+2780,3/27/2024,HAFB,Rice,815,0
+2781,3/28/2024,Local Grocery,Toothpaste,289,0
+2782,3/29/2024,Anonymous donor,Granola Bars,486,0
+2783,3/31/2024,University Club,Granola Bars,623,0
+2784,4/1/2024,University Club,Granola Bars,755,0
+2785,4/1/2024,Local Grocery,Toilet Paper,494,0
+2786,4/1/2024,Individual Donor,Juice Boxes,246,0
+2787,4/1/2024,University Club,Applesauce (ind),324,0
+2788,4/2/2024,University Club,Peanut Butter Crackers,657,0
+2789,4/2/2024,Individual Donor,Rice,743,0
+2790,4/3/2024,Can Castle Contest,Baked Beans,5,0
+2791,4/3/2024,Can Castle Contest,Beef stew,1,0
+2792,4/3/2024,Can Castle Contest,Beefaroni,1,0
+2793,4/3/2024,Can Castle Contest,Black Beans,11,0
+2794,4/3/2024,Can Castle Contest,Black-Eyed Peas,5,0
+2795,4/3/2024,Can Castle Contest,Boiled Peanuts,1,0
+2796,4/3/2024,Can Castle Contest,Boxed Pasta,3,0
+2797,4/3/2024,Can Castle Contest,Broccoli and Cheese,9,0
+2798,4/3/2024,Can Castle Contest,Butter Beans,2,0
+2799,4/3/2024,Can Castle Contest,Canned Potatoes,2,0
+2800,4/3/2024,Can Castle Contest,Cannellini Beans,14,0
+2801,4/3/2024,Can Castle Contest,Carrots,4,0
+2802,4/3/2024,Can Castle Contest,Cereal,17,0
+2803,4/3/2024,Can Castle Contest,Cheese Crackers,20,0
+2804,4/3/2024,Can Castle Contest,Chicken and Dumplings,3,0
+2805,4/3/2024,Can Castle Contest,Chicken and rice soup,7,0
+2806,4/3/2024,Can Castle Contest,Chicken and Sausage,1,0
+2807,4/3/2024,Can Castle Contest,Chicken in Chili Sauce,1,0
+2808,4/3/2024,Can Castle Contest,Chicken Noodle Soup,12,0
+2809,4/3/2024,Can Castle Contest,Chili Beans,24,0
+2810,4/3/2024,Can Castle Contest,Chili with no beans,1,0
+2811,4/3/2024,Can Castle Contest,Chips/Crackers,19,0
+2812,4/3/2024,Can Castle Contest,Chunk Chicken Breast,8,0
+2813,4/3/2024,Can Castle Contest,Collard Greens,1,0
+2814,4/3/2024,Can Castle Contest,Condensed milk,2,0
+2815,4/3/2024,Can Castle Contest,Cookies,2,0
+2816,4/3/2024,Can Castle Contest,Corn,99,0
+2817,4/3/2024,Can Castle Contest,Cranberry Sauce,1,0
+2818,4/3/2024,Can Castle Contest,Cream Corn,11,0
+2819,4/3/2024,Can Castle Contest,Cream of Celery,6,0
+2820,4/3/2024,Can Castle Contest,Cream of Chicken,5,0
+2821,4/3/2024,Can Castle Contest,Cream of Mushroom,15,0
+2822,4/3/2024,Can Castle Contest,Dark Red Kidney Beans,1,0
+2823,4/3/2024,Can Castle Contest,Diced Tomatoes,22,0
+2824,4/3/2024,Can Castle Contest,French onion soup,5,0
+2825,4/3/2024,Can Castle Contest,Fruit,3,0
+2826,4/3/2024,Can Castle Contest,Fruit / Cereal / Breakfast Bar,86,0
+2827,4/3/2024,Can Castle Contest,Fruit cup,8,0
+2828,4/3/2024,Can Castle Contest,Green Beans,132,0
+2829,4/3/2024,Can Castle Contest,Hamburger Helper/Boxed Dinners,1,0
+2830,4/3/2024,Can Castle Contest,Light Red Kidney Beans,1,0
+2831,4/3/2024,Can Castle Contest,Lima Beans,2,0
+2832,4/3/2024,Can Castle Contest,Little Debbie??,24,0
+2833,4/3/2024,Can Castle Contest,Mac and Cheese,37,0
+2834,4/3/2024,Can Castle Contest,Milk,1,0
+2835,4/3/2024,Can Castle Contest,Mixed Vegetables,10,0
+2836,4/3/2024,Can Castle Contest,Northern Beans,14,0
+2837,4/3/2024,Can Castle Contest,Oatmeal,41,0
+2838,4/3/2024,Can Castle Contest,Peaches,8,0
+2839,4/3/2024,Can Castle Contest,Peanut Butter Crackers,20,0
+2840,4/3/2024,Can Castle Contest,Pear Halves,3,0
+2841,4/3/2024,Can Castle Contest,Peas,5,0
+2842,4/3/2024,Can Castle Contest,Pineapple,10,0
+2843,4/3/2024,Can Castle Contest,Pinto Beans,7,0
+2844,4/3/2024,Can Castle Contest,Pork and Beans,15,0
+2845,4/3/2024,Can Castle Contest,Potato Soup,2,0
+2846,4/3/2024,Can Castle Contest,Pumpkin,1,0
+2847,4/3/2024,Can Castle Contest,Ramen,77,0
+2848,4/3/2024,Can Castle Contest,Ravioli,7,0
+2849,4/3/2024,Can Castle Contest,Refried Beans,2,0
+2850,4/3/2024,Can Castle Contest,Salmon,1,0
+2851,4/3/2024,Can Castle Contest,Spaghetti Meatballs,1,0
+2852,4/3/2024,Can Castle Contest,Sweet peas,25,0
+2853,4/3/2024,Can Castle Contest,Tomato Soup,13,0
+2854,4/3/2024,Can Castle Contest,Tuna,2,0
+2855,4/3/2024,Can Castle Contest,Vegetable and Beef Soup,3,0
+2856,4/3/2024,Can Castle Contest,Vienna Sausages,5,0
+2857,4/3/2024,Individual Donor,Rice,99,0
+2858,4/4/2024,HAFB,Canned Beans,1,0
+2859,4/5/2024,HAFB,Scent Booster,11,0
+2860,4/6/2024,Community Center,Canned Vegetables,6,0
+2861,4/7/2024,University Club,Juice Boxes,5,0
+2862,4/8/2024,Community Center,Canned Beans,15,0
+2863,4/8/2024,University Club,Scent Booster,1,0
+2864,4/9/2024,Anonymous donor,Canned Beans,22,0
+2865,4/11/2024,Local Grocery,Rice,5,0
+2866,4/12/2024,Community Center,Softener,3,0
+2867,4/12/2024,HAFB,Juice Boxes,86,0
+2868,4/13/2024,HAFB,Canned Vegetables,8,0
+2869,4/14/2024,Individual Donor,Granola Bars,132,0
+2870,4/14/2024,Community Center,Softener,1,0
+2871,4/16/2024,Individual Donor,Granola Bars,111,0
+2872,4/17/2024,HAFB,Softener,2,0
+2873,4/18/2024,Individual Donor,Softener,24,0
+2874,4/19/2024,Individual Donor,Softener,37,0
+2875,4/20/2024,Local Grocery,Applesauce (ind),11,0
+2876,4/22/2024,Anonymous donor,Juice Boxes,123,0
+2877,4/23/2024,Community Center,Canned Vegetables,14,0
+2878,4/23/2024,Individual Donor,Toothpaste,41,0
+2879,4/25/2024,Local Grocery,Cereal,8,0
+2880,4/26/2024,Community Center,Fruit cup,20,0
+2881,4/27/2024,Community Center,Applesauce (ind),34,0
+2882,4/28/2024,HAFB,Peanut Butter Crackers,5,0
+2883,4/30/2024,Anonymous donor,Toothpaste,10,0
+2884,5/1/2024,Individual Donor,Canned Beans,7,0
+2885,5/2/2024,Anonymous donor,Fruit cup,15,0
+2886,5/2/2024,Individual Donor,Peanut Butter Crackers,237,0
+2887,5/3/2024,Local Grocery,Cereal,70,0
+2888,5/3/2024,University Club,Pasta,68,0
+2889,5/3/2024,Community Center,Toothpaste,30,0
+2890,5/6/2024,Local Grocery,Pasta,9,0
+2891,5/6/2024,Local Grocery,Spaghetti Rings Pasta,26,0
+2892,5/6/2024,HAFB,Scent Booster,41,0
+2893,5/9/2024,Anonymous donor,Pasta,20,0
+2894,5/9/2024,HAFB,Toilet Paper,30,0
+2895,5/9/2024,Individual Donor,Fruit cup,8,0
+2896,5/11/2024,HAFB,Peanut Butter Crackers,3,0
+2897,5/12/2024,Community Center,Softener,8,0
+2898,5/12/2024,HAFB,Juice Boxes,59,0
+2899,5/12/2024,Anonymous donor,Canned Beans,41,0
+2900,5/14/2024,Anonymous donor,Softener,14,0
+2901,5/15/2024,Local Grocery,Laundry Detergent,57,0
+2902,5/16/2024,University Club,Toilet Paper,26,0
+2903,5/16/2024,HAFB,Canned Beans,89,0
+2904,5/17/2024,University Club,Juice Boxes,115,0
+2905,5/18/2024,University Club,Cereal,80,0
+2906,5/18/2024,Community Center,Laundry Detergent,17,0
+2907,5/19/2024,HAFB,Granola Bars,83,0
+2908,5/20/2024,Community Center,Rice,79,0
+2909,5/20/2024,Anonymous donor,Applesauce (ind),95,0
+2910,5/21/2024,Local Grocery,Spaghetti Rings Pasta,178,0
+2911,5/21/2024,Individual Donor,Rice,32,0
+2912,5/23/2024,Local Grocery,Rice,200,0
+2913,5/23/2024,Local Grocery,Fruit cup,67,0
+2914,5/24/2024,HAFB,Toilet Paper,14,0
+2915,5/24/2024,Community Center,Granola Bars,68,0
+2916,5/25/2024,Local Grocery,Scent Booster,30,0
+2917,5/25/2024,Local Grocery,Toilet Paper,9,0
+2918,5/25/2024,Individual Donor,Canned Beans,26,0
+2919,5/26/2024,HAFB,Pasta,41,0
+2920,5/26/2024,Individual Donor,Juice Boxes,20,0
+2921,5/26/2024,HAFB,Cereal,30,0
+2922,5/27/2024,Anonymous donor,Scent Booster,8,0
+2923,5/28/2024,Individual Donor,Applesauce (ind),3,0
+2924,5/29/2024,Anonymous donor,Softener,8,0
+2925,6/3/2024,HAFB,Canned Vegetables,59,0
+2926,6/3/2024,Community Center,Fruit cup,41,0
+2927,6/4/2024,Individual Donor,Juice Boxes,28,0
+2928,6/4/2024,Local Grocery,Fruit cup,49,0
+2929,6/6/2024,Anonymous donor,Applesauce (ind),75,0
+2930,6/8/2024,Community Center,Pasta,86,0
+2931,6/9/2024,Community Center,Toilet Paper,16,0
+2932,6/9/2024,Local Grocery,Softener,25,0
+2933,6/10/2024,Individual Donor,Scent Booster,7,0
+2934,6/11/2024,Anonymous donor,Peanut Butter Crackers,43,0
+2935,6/11/2024,Anonymous donor,Spaghetti Rings Pasta,65,0
+2936,6/11/2024,Local Grocery,Canned Vegetables,97,0
+2937,6/11/2024,Anonymous donor,Granola Bars,45,0
+2938,6/12/2024,HAFB,Pasta,20,0
+2939,6/13/2024,University Club,Laundry Detergent,42,0
+2940,6/15/2024,Individual Donor,Pasta,42,0
+2941,6/17/2024,Individual Donor,Pasta,51,0
+2942,6/17/2024,HAFB,Spaghetti Rings Pasta,43,0
+2943,6/19/2024,Anonymous donor,Pasta,12,0
+2944,6/21/2024,Anonymous donor,Spaghetti Rings Pasta,23,0
+2945,6/22/2024,Individual Donor,Pasta,45,0
+2946,6/23/2024,Community Center,Toilet Paper,13,0
+2947,6/23/2024,Anonymous donor,Pasta,23,0
+2948,6/23/2024,Individual Donor,Juice Boxes,43,0
+2949,6/28/2024,University Club,Laundry Detergent,43,0
+2950,6/28/2024,Local Grocery,Applesauce (ind),38,0
+2951,6/29/2024,HAFB,Juice Boxes,56,0
+2952,6/29/2024,HAFB,Granola Bars,23,0
+2953,6/29/2024,University Club,Peanut Butter Crackers,144,0
+2954,6/29/2024,Local Grocery,Rice,40,0
+2955,7/1/2024,University Club,Cereal,64,0
